@@ -1,0 +1,10 @@
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.DL\bin\Release\QuestionBank.DL.dll.config
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.DL\bin\Release\QuestionBank.DL.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.DL\bin\Release\QuestionBank.DL.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.DL\bin\Release\Newtonsoft.Json.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.DL\bin\Release\QuestionBank.Common.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.DL\bin\Release\QuestionBank.Common.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.DL\bin\Release\Newtonsoft.Json.xml
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.DL\obj\Release\QuestionBank.DL.csprojResolveAssemblyReference.cache
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.DL\obj\Release\QuestionBank.DL.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.DL\obj\Release\QuestionBank.DL.pdb

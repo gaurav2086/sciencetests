@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:24541/GatewayService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/GatewayService" />
+  <xs:import schemaLocation="http://localhost:24541/GatewayService.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/QuestionBank.Common" />
+  <xs:element name="Execute">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/GatewayService" minOccurs="0" name="ModuleName" type="q1:Module" />
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/GatewayService" minOccurs="0" name="Action" type="q2:ActionType" />
+        <xs:element minOccurs="0" name="inXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="SessionID" nillable="true" type="xs:string" />
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/QuestionBank.Common" minOccurs="0" name="Format" type="q3:OutputType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ExecuteResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ExecuteResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

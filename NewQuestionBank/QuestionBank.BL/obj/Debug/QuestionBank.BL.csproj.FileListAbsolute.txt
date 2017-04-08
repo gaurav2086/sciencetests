@@ -1,0 +1,165 @@
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.BL\bin\Debug\QuestionBank.BL.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.BL\bin\Debug\QuestionBank.BL.pdb
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.BL\bin\Debug\QuestionBank.Common.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.BL\bin\Debug\QuestionBank.DL.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.BL\bin\Debug\QuestionBank.Common.pdb
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.BL\bin\Debug\QuestionBank.DL.pdb
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.BL\obj\Debug\QuestionBank.BL.csprojResolveAssemblyReference.cache
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.BL\obj\Debug\QuestionBank.BL.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.BL\obj\Debug\QuestionBank.BL.pdb
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.BL\bin\Debug\QuestionBank.BL.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.BL\bin\Debug\QuestionBank.BL.pdb
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.BL\bin\Debug\QuestionBank.Common.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.BL\bin\Debug\QuestionBank.DL.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.BL\bin\Debug\QuestionBank.Common.pdb
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.BL\bin\Debug\QuestionBank.DL.pdb
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.BL\obj\Debug\QuestionBank.BL.csprojResolveAssemblyReference.cache
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.BL\obj\Debug\QuestionBank.BL.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.BL\obj\Debug\QuestionBank.BL.pdb
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.BL\bin\Debug\QuestionBank.BL.dll
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.BL\bin\Debug\QuestionBank.BL.pdb
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.BL\bin\Debug\QuestionBank.Common.dll
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.BL\bin\Debug\QuestionBank.DL.dll
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.BL\bin\Debug\QuestionBank.Common.pdb
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.BL\bin\Debug\QuestionBank.DL.pdb
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.BL\obj\Debug\QuestionBank.BL.csprojResolveAssemblyReference.cache
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.BL\obj\Debug\QuestionBank.BL.dll
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.BL\obj\Debug\QuestionBank.BL.pdb
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\QuestionBank.BL\bin\Debug\QuestionBank.BL.dll
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\QuestionBank.BL\bin\Debug\QuestionBank.BL.pdb
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\QuestionBank.BL\bin\Debug\QuestionBank.Common.dll
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\QuestionBank.BL\bin\Debug\QuestionBank.DL.dll
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\QuestionBank.BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\QuestionBank.BL\bin\Debug\QuestionBank.Common.pdb
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\QuestionBank.BL\bin\Debug\QuestionBank.DL.pdb
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\QuestionBank.BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\QuestionBank.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\QuestionBank.BL\obj\Debug\QuestionBank.BL.dll
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\QuestionBank.BL\obj\Debug\QuestionBank.BL.pdb
+D:\work\18082015\QB\QB\QuestionBank.BL\bin\Debug\QuestionBank.BL.dll
+D:\work\18082015\QB\QB\QuestionBank.BL\bin\Debug\QuestionBank.BL.pdb
+D:\work\18082015\QB\QB\QuestionBank.BL\bin\Debug\QuestionBank.Common.dll
+D:\work\18082015\QB\QB\QuestionBank.BL\bin\Debug\QuestionBank.DL.dll
+D:\work\18082015\QB\QB\QuestionBank.BL\bin\Debug\Newtonsoft.Json.dll
+D:\work\18082015\QB\QB\QuestionBank.BL\bin\Debug\QuestionBank.Common.pdb
+D:\work\18082015\QB\QB\QuestionBank.BL\bin\Debug\QuestionBank.DL.pdb
+D:\work\18082015\QB\QB\QuestionBank.BL\bin\Debug\Newtonsoft.Json.xml
+D:\work\18082015\QB\QB\QuestionBank.BL\obj\Debug\QuestionBank.BL.csprojResolveAssemblyReference.cache
+D:\work\18082015\QB\QB\QuestionBank.BL\obj\Debug\QuestionBank.BL.dll
+D:\work\18082015\QB\QB\QuestionBank.BL\obj\Debug\QuestionBank.BL.pdb
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.BL\bin\Debug\QuestionBank.BL.dll
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.BL\bin\Debug\QuestionBank.BL.pdb
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.BL\bin\Debug\QuestionBank.Common.dll
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.BL\bin\Debug\QuestionBank.DL.dll
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.BL\bin\Debug\QuestionBank.Common.pdb
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.BL\bin\Debug\QuestionBank.DL.pdb
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.BL\obj\Debug\QuestionBank.BL.dll
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.BL\obj\Debug\QuestionBank.BL.pdb
+D:\QuestionBank20082015\QB\QuestionBank.BL\bin\Debug\QuestionBank.BL.dll
+D:\QuestionBank20082015\QB\QuestionBank.BL\bin\Debug\QuestionBank.BL.pdb
+D:\QuestionBank20082015\QB\QuestionBank.BL\bin\Debug\QuestionBank.Common.dll
+D:\QuestionBank20082015\QB\QuestionBank.BL\bin\Debug\QuestionBank.DL.dll
+D:\QuestionBank20082015\QB\QuestionBank.BL\bin\Debug\Newtonsoft.Json.dll
+D:\QuestionBank20082015\QB\QuestionBank.BL\bin\Debug\QuestionBank.Common.pdb
+D:\QuestionBank20082015\QB\QuestionBank.BL\bin\Debug\QuestionBank.DL.pdb
+D:\QuestionBank20082015\QB\QuestionBank.BL\bin\Debug\Newtonsoft.Json.xml
+D:\QuestionBank20082015\QB\QuestionBank.BL\obj\Debug\QuestionBank.BL.csprojResolveAssemblyReference.cache
+D:\QuestionBank20082015\QB\QuestionBank.BL\obj\Debug\QuestionBank.BL.dll
+D:\QuestionBank20082015\QB\QuestionBank.BL\obj\Debug\QuestionBank.BL.pdb
+D:\QB Deployment\QB\QuestionBank.BL\bin\Debug\QuestionBank.BL.dll
+D:\QB Deployment\QB\QuestionBank.BL\bin\Debug\QuestionBank.BL.pdb
+D:\QB Deployment\QB\QuestionBank.BL\bin\Debug\QuestionBank.Common.dll
+D:\QB Deployment\QB\QuestionBank.BL\bin\Debug\QuestionBank.DL.dll
+D:\QB Deployment\QB\QuestionBank.BL\bin\Debug\Newtonsoft.Json.dll
+D:\QB Deployment\QB\QuestionBank.BL\bin\Debug\QuestionBank.Common.pdb
+D:\QB Deployment\QB\QuestionBank.BL\bin\Debug\QuestionBank.DL.pdb
+D:\QB Deployment\QB\QuestionBank.BL\bin\Debug\Newtonsoft.Json.xml
+D:\QB Deployment\QB\QuestionBank.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\QB Deployment\QB\QuestionBank.BL\obj\Debug\QuestionBank.BL.dll
+D:\QB Deployment\QB\QuestionBank.BL\obj\Debug\QuestionBank.BL.pdb
+D:\PravinQB\Question Bank Application\QuestionBank.BL\bin\Debug\QuestionBank.BL.dll
+D:\PravinQB\Question Bank Application\QuestionBank.BL\bin\Debug\QuestionBank.BL.pdb
+D:\PravinQB\Question Bank Application\QuestionBank.BL\bin\Debug\QuestionBank.Common.dll
+D:\PravinQB\Question Bank Application\QuestionBank.BL\bin\Debug\QuestionBank.DL.dll
+D:\PravinQB\Question Bank Application\QuestionBank.BL\bin\Debug\Newtonsoft.Json.dll
+D:\PravinQB\Question Bank Application\QuestionBank.BL\bin\Debug\QuestionBank.Common.pdb
+D:\PravinQB\Question Bank Application\QuestionBank.BL\bin\Debug\QuestionBank.DL.pdb
+D:\PravinQB\Question Bank Application\QuestionBank.BL\bin\Debug\Newtonsoft.Json.xml
+D:\PravinQB\Question Bank Application\QuestionBank.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\PravinQB\Question Bank Application\QuestionBank.BL\obj\Debug\QuestionBank.BL.dll
+D:\PravinQB\Question Bank Application\QuestionBank.BL\obj\Debug\QuestionBank.BL.pdb
+Z:\QuestionBank.BL\bin\Debug\QuestionBank.BL.dll
+Z:\QuestionBank.BL\bin\Debug\QuestionBank.BL.pdb
+Z:\QuestionBank.BL\bin\Debug\QuestionBank.Common.dll
+Z:\QuestionBank.BL\bin\Debug\QuestionBank.DL.dll
+Z:\QuestionBank.BL\bin\Debug\Newtonsoft.Json.dll
+Z:\QuestionBank.BL\bin\Debug\QuestionBank.Common.pdb
+Z:\QuestionBank.BL\bin\Debug\QuestionBank.DL.pdb
+Z:\QuestionBank.BL\bin\Debug\Newtonsoft.Json.xml
+Z:\QuestionBank.BL\obj\Debug\ResolveAssemblyReference.cache
+Z:\QuestionBank.BL\obj\Debug\QuestionBank.BL.dll
+Z:\QuestionBank.BL\obj\Debug\QuestionBank.BL.pdb
+D:\Ravi QB\Question Bank Application\QuestionBank.BL\bin\Debug\QuestionBank.BL.dll
+D:\Ravi QB\Question Bank Application\QuestionBank.BL\bin\Debug\QuestionBank.BL.pdb
+D:\Ravi QB\Question Bank Application\QuestionBank.BL\bin\Debug\QuestionBank.Common.dll
+D:\Ravi QB\Question Bank Application\QuestionBank.BL\bin\Debug\QuestionBank.DL.dll
+D:\Ravi QB\Question Bank Application\QuestionBank.BL\bin\Debug\Newtonsoft.Json.dll
+D:\Ravi QB\Question Bank Application\QuestionBank.BL\bin\Debug\QuestionBank.Common.pdb
+D:\Ravi QB\Question Bank Application\QuestionBank.BL\bin\Debug\QuestionBank.DL.pdb
+D:\Ravi QB\Question Bank Application\QuestionBank.BL\bin\Debug\Newtonsoft.Json.xml
+D:\Ravi QB\Question Bank Application\QuestionBank.BL\obj\Debug\QuestionBank.BL.csprojResolveAssemblyReference.cache
+D:\Ravi QB\Question Bank Application\QuestionBank.BL\obj\Debug\QuestionBank.BL.dll
+D:\Ravi QB\Question Bank Application\QuestionBank.BL\obj\Debug\QuestionBank.BL.pdb
+D:\PravinQB\NEWResponsive\QuestionBank.BL\bin\Debug\QuestionBank.BL.dll
+D:\PravinQB\NEWResponsive\QuestionBank.BL\bin\Debug\QuestionBank.BL.pdb
+D:\PravinQB\NEWResponsive\QuestionBank.BL\bin\Debug\QuestionBank.Common.dll
+D:\PravinQB\NEWResponsive\QuestionBank.BL\bin\Debug\QuestionBank.DL.dll
+D:\PravinQB\NEWResponsive\QuestionBank.BL\bin\Debug\Newtonsoft.Json.dll
+D:\PravinQB\NEWResponsive\QuestionBank.BL\bin\Debug\QuestionBank.Common.pdb
+D:\PravinQB\NEWResponsive\QuestionBank.BL\bin\Debug\QuestionBank.DL.pdb
+D:\PravinQB\NEWResponsive\QuestionBank.BL\bin\Debug\Newtonsoft.Json.xml
+D:\PravinQB\NEWResponsive\QuestionBank.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\PravinQB\NEWResponsive\QuestionBank.BL\obj\Debug\QuestionBank.BL.dll
+D:\PravinQB\NEWResponsive\QuestionBank.BL\obj\Debug\QuestionBank.BL.pdb
+D:\PravinQB\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.BL.dll
+D:\PravinQB\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.BL.pdb
+D:\PravinQB\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.Common.dll
+D:\PravinQB\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.DL.dll
+D:\PravinQB\NewQuestionBank\QuestionBank.BL\bin\Debug\Newtonsoft.Json.dll
+D:\PravinQB\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.Common.pdb
+D:\PravinQB\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.DL.pdb
+D:\PravinQB\NewQuestionBank\QuestionBank.BL\bin\Debug\Newtonsoft.Json.xml
+D:\PravinQB\NewQuestionBank\QuestionBank.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\PravinQB\NewQuestionBank\QuestionBank.BL\obj\Debug\QuestionBank.BL.dll
+D:\PravinQB\NewQuestionBank\QuestionBank.BL\obj\Debug\QuestionBank.BL.pdb
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.BL.dll
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.BL.pdb
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.Common.dll
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.DL.dll
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.BL\bin\Debug\Newtonsoft.Json.dll
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.Common.pdb
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.DL.pdb
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.BL\bin\Debug\Newtonsoft.Json.xml
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.BL\obj\Debug\QuestionBank.BL.csprojResolveAssemblyReference.cache
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.BL\obj\Debug\QuestionBank.BL.dll
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.BL\obj\Debug\QuestionBank.BL.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.BL.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.BL.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.Common.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.DL.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.BL\bin\Debug\Newtonsoft.Json.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.Common.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.BL\bin\Debug\QuestionBank.DL.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.BL\bin\Debug\Newtonsoft.Json.xml
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.BL\obj\Debug\QuestionBank.BL.csprojResolveAssemblyReference.cache
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.BL\obj\Debug\QuestionBank.BL.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.BL\obj\Debug\QuestionBank.BL.pdb

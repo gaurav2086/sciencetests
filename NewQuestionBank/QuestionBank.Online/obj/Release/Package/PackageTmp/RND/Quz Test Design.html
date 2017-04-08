@@ -1,0 +1,362 @@
+﻿<!DOCTYPE html>
+<!-- saved from url=(0051)https://b.socrative.com/teacher/#edit-quiz/16889046 -->
+<html lang="en" class="mediaquery">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="shortcut icon" href="https://socrative-production-static-web.s3.amazonaws.com/favicon.ico">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1, minimum-scale=1, width=device-width">
+    <meta name="google" content="notranslate">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="MobileOptimized" content="480">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="google-site-verification" content="ArL5R90c597UaAk4Thb5jPAZsrXIvzfhZDeSfdkNkWk">
+    <title>Socrative</title>
+    <link type="text/css" rel="stylesheet" href="./Quz Test Design_files/normalize_and_fonts.css">
+    <!-- For testing whether media queries are supported. See socrative/static/js/common-setup.js. -->
+    <style>
+        @media all and (min-width:1px)
+        {
+            .mediatest
+            {
+                position: absolute;
+            }
+        }
+    </style>
+    <script type="text/javascript" async="" src="./Quz Test Design_files/analytics.js"></script>
+    <script type="text/javascript" async="" src="./Quz Test Design_files/analytics.min.js"></script>
+    <script type="text/javascript" async="" src="./Quz Test Design_files/filepicker.js"></script>
+    <script type="text/javascript" src="./Quz Test Design_files/pubnub.js"></script>
+    <script type="text/javascript">
+        window.server_host = ""; //to allow to create static js for the mobile apps
+        window.backend_host = "https://api.socrative.com";
+        if (navigator.userAgent.match(/MSIE (8|9)/)) {
+            document.domain = "socrative.com";
+        }
+
+        function gettext(param) { //declare the gettext function so the user won't get the gettext error
+            return param;
+        }
+
+        window.static_url = "https://socrative-production-static-web.s3.amazonaws.com/";
+
+        if (typeof console === "undefined") {
+            console = {};
+        }
+
+        if (window.PUBNUB) {
+            window.pubnub = window.PUBNUB.init({
+                subscribe_key: 'sub-c-6dcf3cd2-13e8-11e3-8f5a-02ee2ddab7fe',
+                origin: 'pubsub.pubnub.com',
+                ssl: true
+            });
+        } else {
+            alert('There was a problem loading Socrative. Please refresh to try again.');
+        }
+	</script>
+    <link type="text/css" rel="stylesheet" href="./Quz Test Design_files/teacher.min.css">
+    <script src="./Quz Test Design_files/es5shim.min.js"></script>
+    <style type="text/css">.fp__btn{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:inline-block;height:34px;padding:4px 20px 5px 40px;margin-bottom:0;vertical-align:middle;-ms-touch-action:manipulation;touch-action:manipulation;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;font-family:"Open Sans", sans-serif;font-size:12px;font-weight:600;line-height:1.42857143;color:#fff;text-align:center;white-space:nowrap;background:#3ac7ed;background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDE0IDc5LjE1Njc5NywgMjAxNC8wOC8yMC0wOTo1MzowMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpkMTI4ZDMwOC1iNjY2LTQyNzgtOTU1MC04NDk5YzViMzBhMmYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OTJCRDQ1RUEwQzIxMTFFNThEOTU4QzAyNzQ4QUU2NzUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OTJCRDQ1RTkwQzIxMTFFNThEOTU4QzAyNzQ4QUU2NzUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTQgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoxZDgzZTQ5ZS0zYzE1LTQ3MTgtOTFkZi1iNTc0N2EyMjI5M2MiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6ZDEyOGQzMDgtYjY2Ni00Mjc4LTk1NTAtODQ5OWM1YjMwYTJmIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+SmKrTgAAAOxJREFUeNqE0bFqQjEYhuFooSjUUhBEujsVXdtJwdFRvBBx1ntwEPdS8Ao6OpU6qbg4ilKRglooqDhV0jf4HTgcYht4SEL+LwlJzFp7b4zpoogE1lhghrl8YosNvg2hvj23IcbY2b/byoV+FDRyhTxeVXSIhF5c0QpfyISCzkJFD5rfIuXGbtIIjkUOMVRCO98hietgw2DXGpq4QSlynaP652goqqPCE0YYoPxfqKXQ0rceN/6WUj/3LYZDT3jUOKt+6t1SR1Z1nTfNJ5pXfNcLBnUVuU8u6AHe9fwXQ+4P2vjAHj2kLzyS+RVgAJKfyOcTLuk9AAAAAElFTkSuQmCC");background-repeat:no-repeat;background-position:17px 9px;border:1px solid transparent;border-radius:17px}.fp__btn:hover{background-color:#12a2c8}.fp__btn:active,.fp__btn:focus{outline:none}@media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2){.fp__btn{background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAaCAYAAABCfffNAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDE0IDc5LjE1Njc5NywgMjAxNC8wOC8yMC0wOTo1MzowMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpkMTI4ZDMwOC1iNjY2LTQyNzgtOTU1MC04NDk5YzViMzBhMmYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OTJCRDQ1RTYwQzIxMTFFNThEOTU4QzAyNzQ4QUU2NzUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OTJCRDQ1RTUwQzIxMTFFNThEOTU4QzAyNzQ4QUU2NzUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTQgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoyYTg3Yjk2MS1lYjk5LTRhODAtYWZjZi0wZjA2MTBlNzA5ZDYiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6ZDEyOGQzMDgtYjY2Ni00Mjc4LTk1NTAtODQ5OWM1YjMwYTJmIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+yaecmgAAAftJREFUeNq0ls8rRFEUx9+MSUKR8mPKr4YtxUJJykZkY6HIUlmglKUSFmwssZB/wI+FstGUBcWUBRZWyI8I0+RX2AjxfI/O5Di9Z+7z49Rnuvfcc+Z73733nft8tm1bbDWgF9SCHPAE7sAZOAH7zAE4BreWoflYZACMUN8yNxI5Ys5BDFwx1L7k9jOJ1KOxbP2fzZNIGI1GdjyDOXABAqAAVIHQL0QeLYjc25/WTcvnQB5oAeNgz/Zma/QHb8JR5yIiWRDxryAKHl0ENkEJJcWEcyyBQA54EfHrYiwVZIMQKOf2xxj9hEUSzaj6G5EONdMpgye3/NiYCbFJKWAV9Lkc5wbVjxltPatNO6xnk5hNEWgDNyqmn8eTQC4vlU8/iSWCBsEDJ2+BDBF47LKxJHqlfF1uInGS+bhqv5djO5RIxA1ahiUDgSdQofN9okAmslYqEcq3Am7AC9evGbCjEwMeykOag28YRBIl+j2IpDv4TkwS/b94Erpvon8tkqX6dHG9/bVIturvmiY6ibSDWTAJ8oW/WMVtG09PnekRde6bxdi1Gqs0fMe+iGTwyyStkMdKlX/XVCBeheMWBMmi/8pfKpa4nuM26ukCFopUJA/VjDtBUBXIRadKa7pcRBk4/aY2RVR1/pEIkcmVdJM/Mu7ABugBAa8CxLsAAwAX4ouMwjfqEwAAAABJRU5ErkJggg==");background-size:13px 13px}}</style>
+</head>
+<body id="body">
+    <div id="page-container">
+        <div id="header-container">
+            <div data-reactid=".0">
+                <div id="header" class="blue-header  clearfix" data-reactid=".0.0">
+                    <div id="header-logo-container" data-reactid=".0.0.0">
+                        <div id="header-room-text" data-reactid=".0.0.0.0">
+                            <div id="socrative-logo" data-reactid=".0.0.0.0.0">
+                            </div>
+                        </div>
+                    </div>
+                    <div id="header-content" data-reactid=".0.0.1">
+                        <div id="header-center-wrapper" data-reactid=".0.0.1.0">
+                            <h3 id="roomname" data-reactid=".0.0.1.0.0">
+                                <strong class="room" style="display: inline-block;" data-reactid=".0.0.1.0.0.0">Room:
+                                </strong><strong class="room-name" data-reactid=".0.0.1.0.0.1">batra</strong></h3>
+                        </div>
+                    </div>
+                    <div id="header-action-button-container" data-reactid=".0.0.2">
+                        <button id="finish-create-quiz-button" class="button button-primary button-small"
+                            data-reactid=".0.0.2.0">
+                            SAVE &amp; EXIT</button></div>
+                </div>
+                <div id="header-drawer" class="header-drawer-expanded clearfix" data-reactid=".0.1">
+                    <ul id="nav" class="align-left" style="display: inline-block;" data-reactid=".0.1.1">
+                        <li id="breadcrumb-dashboard-button" class=" " data-reactid=".0.1.1.0">
+                            <button data-reactid=".0.1.1.0.0">
+                                <i data-icon="o" data-reactid=".0.1.1.0.0.0"></i><span data-reactid=".0.1.1.0.0.1">Dashboard</span></button></li><li
+                                    id="manage-quizzes-label" class=" " data-reactid=".0.1.1.1">
+                                    <button data-reactid=".0.1.1.1.0">
+                                        <i data-icon="p" data-reactid=".0.1.1.1.0.0"></i><span data-reactid=".0.1.1.1.0.1">Manage
+                                            Quizzes</span></button></li><li style="display: inline-block;" id="running-activity"
+                                                class="live-results" data-reactid=".0.1.1.2">
+                                                <button data-reactid=".0.1.1.2.0">
+                                                    <i class="live-results-button" data-reactid=".0.1.1.2.0.0"></i><span data-reactid=".0.1.1.2.0.1">
+                                                        Live Results</span></button></li></ul>
+                    <ul class="align-right" id="header-drawer-right" data-reactid=".0.1.2">
+                        <li data-reactid=".0.1.2.0">
+                            <div id="students-in-class-wrapper" data-reactid=".0.1.2.0.0">
+                                <i data-icon="l" data-reactid=".0.1.2.0.0.0"></i><span data-reactid=".0.1.2.0.0.1">0</span></div>
+                        </li>
+                        <li id="refresh-app-button" data-reactid=".0.1.2.1">
+                            <button data-reactid=".0.1.2.1.0">
+                                <i data-icon="v" data-reactid=".0.1.2.1.0.0"></i><span data-reactid=".0.1.2.1.0.1">Refresh</span></button></li></ul>
+                </div>
+            </div>
+        </div>
+        <div id="main-content">
+            <div class="main-dark-module" data-reactid=".1">
+                <h2 class="title" data-reactid=".1.0">
+                </h2>
+                <div id="create-quiz-top-row" data-reactid=".1.1">
+                    <div id="quizname-setup-widget" class="text-entry-toggle" data-reactid=".1.1.0">
+                        <div id="quizname-setup-container" class="text-entry-toggle-textbox-container form"
+                            data-reactid=".1.1.0.0">
+                            <input id="quizname-textbox" type="text" class="textfield text-entry-toggle-textbox form-danger"
+                                value="" autocomplete="off" autocorrect="off" autocapitalize="off" placeholder="Name Your Quiz..."
+                                maxlength="255" data-reactid=".1.1.0.0.0"></div>
+                    </div>
+                </div>
+                <div id="share-container" class="clearfix" data-reactid=".1.2">
+                    <div class="toggle-slider align-left" id="share-button" data-reactid=".1.2.0">
+                        <input type="checkbox" id="share-quiz" class="toggle-slider-checkbox" checked=""
+                            data-reactid=".1.2.0.0"><label class="toggle-slider-label" for="share-quiz" data-reactid=".1.2.0.1"><div
+                                class="toggle-slider-inner" data-reactid=".1.2.0.1.0">
+                            </div>
+                                <div class="toggle-slider-switch" data-reactid=".1.2.0.1.1">
+                                </div>
+                            </label>
+                    </div>
+                    <div id="soc-container" style="opacity: 1;" data-reactid=".1.2.1">
+                        <h4 id="soc-number-label" data-reactid=".1.2.1.0">
+                            <span data-reactid=".1.2.1.0.0">Share Quiz: </span><span id="soc-number" data-reactid=".1.2.1.0.1">
+                                SOC-16889046</span></h4>
+                    </div>
+                </div>
+                <div style="clear: both;" data-reactid=".1.3">
+                </div>
+                <div id="tags" data-reactid=".1.4">
+                    <button id="toggle-tag-menu-button" class="button button-link-style " data-reactid=".1.4.0">
+                        + Add Tag</button><div class="tag-buttons" data-reactid=".1.4.1">
+                            <div class="existing-tags" data-reactid=".1.4.1.0">
+                            </div>
+                            <div style="clear: both;" data-reactid=".1.4.1.1">
+                            </div>
+                            <div class="detail-tag" style="display: none;" data-reactid=".1.4.1.2">
+                                <span class="tag-selected" data-reactid=".1.4.1.2.0"></span><span class="tag-selected-desc"
+                                    data-reactid=".1.4.1.2.1"></span>
+                                <button class="remove-tag-button button button-small" data-reactid=".1.4.1.2.2">
+                                    Remove</button></div>
+                        </div>
+                    <div id="tag-menu" class="tag-menu" style="display: none;" data-reactid=".1.4.2">
+                        <div class="delete-button-container" data-reactid=".1.4.2.0">
+                            <button id="close-tag-menu" class="delete-button" data-reactid=".1.4.2.0.0">
+                                <i data-icon="h" data-reactid=".1.4.2.0.0.0"></i>
+                            </button>
+                        </div>
+                        <div class="tag-menu-header" data-reactid=".1.4.2.1">
+                            <ol class="breadcrumb" data-reactid=".1.4.2.1.0">
+                                <li data-reactid=".1.4.2.1.0.0"><span data-reactid=".1.4.2.1.0.0.0">CCSS</span></li></ol>
+                        </div>
+                        <div class="tag-menu-content" data-reactid=".1.4.2.2">
+                        </div>
+                    </div>
+                </div>
+                <div id="questions" data-reactid=".1.5">
+                    <div id="question1" data-reactid=".1.5.0">
+                        <div id="question-1" class="question edit-multiple-choice-question edit-mode" data-reactid=".1.5.0.0">
+                            <div class="edit-question-number clearfix" data-reactid=".1.5.0.0.0">
+                                <span class="question-number multiple-choice-question" data-reactid=".1.5.0.0.0.0">#1</span><span
+                                    class="align-right" data-reactid=".1.5.0.0.0.1">
+                                    <button class="button-primary button-small save-question align-right" data-reactid=".1.5.0.0.0.1.0">
+                                        <i data-icon="t" data-reactid=".1.5.0.0.0.1.0.0"></i><span data-reactid=".1.5.0.0.0.1.0.1">
+                                            Save</span></button><span class="align-right" style="display: inline-block;" data-reactid=".1.5.0.0.0.1.1"><span
+                                                class="formatting" data-reactid=".1.5.0.0.0.1.1.0">Formatting: </span>
+                                                <div class="toggle-slider" data-reactid=".1.5.0.0.0.1.1.1">
+                                                    <input id="format-toggle-question-1" type="checkbox" class="toggle-slider-checkbox"
+                                                        data-reactid=".1.5.0.0.0.1.1.1.0"><label class="toggle-slider-label" for="format-toggle-question-1"
+                                                            data-reactid=".1.5.0.0.0.1.1.1.1"><div class="toggle-slider-inner" data-reactid=".1.5.0.0.0.1.1.1.1.0">
+                                                            </div>
+                                                            <div class="toggle-slider-switch" data-reactid=".1.5.0.0.0.1.1.1.1.1">
+                                                            </div>
+                                                        </label>
+                                                </div>
+                                            </span></span>
+                            </div>
+                            <div class="clearfix" data-reactid=".1.5.0.0.1">
+                                <div class="resources-container align-left" data-reactid=".1.5.0.0.1.0">
+                                    <div class="add-resource-button" data-reactid=".1.5.0.0.1.0.0">
+                                        <span data-reactid=".1.5.0.0.1.0.0.0"><i data-icon="e" data-reactid=".1.5.0.0.1.0.0.0.0">
+                                        </i><i class="add-image-button" data-icon="u" data-reactid=".1.5.0.0.1.0.0.0.1"></i>
+                                        </span>
+                                        <input class="add-resource-input" type="file" accept="image/*" data-reactid=".1.5.0.0.1.0.0.1"></div>
+                                </div>
+                                <div class="question-text-entry text-entry-toggle in-editing align-left" data-reactid=".1.5.0.0.1.1">
+                                    <div class="text-entry-toggle-textbox-container question-text-setup-container" data-reactid=".1.5.0.0.1.1.0">
+                                        <textarea style="visibility: visible; overflow: hidden; word-wrap: break-word; resize: none;
+                                            height: 46px;" class="textfield question-textfield text-entry-toggle-textbox"
+                                            value="" autocomplete="off" autocorrect="off" autocapitalize="off" type="text"
+                                            data-reactid=".1.5.0.0.1.1.0.0" data-autosize-on="true"></textarea></div>
+                                </div>
+                            </div>
+                            <div class="edit-question-answers" data-reactid=".1.5.0.0.2">
+                                <div class="multiple-choice-menu" data-reactid=".1.5.0.0.2.0">
+                                    <div class="clearfix" data-reactid=".1.5.0.0.2.0.0">
+                                        <div class="multiple-choice-header align-left" data-reactid=".1.5.0.0.2.0.0.0">
+                                            Answer Choice</div>
+                                        <div class="multiple-choice-header align-right" style="display: block;" data-reactid=".1.5.0.0.2.0.0.1">
+                                            Correct?</div>
+                                    </div>
+                                    <div class="mc-choice-container clearfix" data-reactid=".1.5.0.0.2.0.1">
+                                        <div id="mc-answer-1" class="mc-answer is-correct" data-reactid=".1.5.0.0.2.0.1.0">
+                                            <span class="edit-question-number" data-reactid=".1.5.0.0.2.0.1.0.0">A</span><div
+                                                class="text-entry-toggle-textbox-container question-text-setup-container" data-reactid=".1.5.0.0.2.0.1.0.1">
+                                                <textarea style="visibility: visible; overflow: hidden; word-wrap: break-word; resize: none;
+                                                    height: 46px;" class="textfield question-textfield text-entry-toggle-textbox"
+                                                    value="" autocomplete="off" autocorrect="off" autocapitalize="off" type="text"
+                                                    data-reactid=".1.5.0.0.2.0.1.0.1.0" data-autosize-on="true"></textarea></div>
+                                            <div class="mc-answer-right-side" data-reactid=".1.5.0.0.2.0.1.0.2">
+                                                <div class="edit-mc-answer-correctness" data-reactid=".1.5.0.0.2.0.1.0.2.0">
+                                                    <input class="mc-correct-checkbox" type="checkbox" tabindex="-1" data-reactid=".1.5.0.0.2.0.1.0.2.0.0"></div>
+                                                <span class="delete-option-answer" data-reactid=".1.5.0.0.2.0.1.0.2.1"><i data-icon="h"
+                                                    data-reactid=".1.5.0.0.2.0.1.0.2.1.0"></i></span>
+                                            </div>
+                                        </div>
+                                        <div id="mc-answer-2" class="mc-answer" data-reactid=".1.5.0.0.2.0.1.1">
+                                            <span class="edit-question-number" data-reactid=".1.5.0.0.2.0.1.1.0">B</span><div
+                                                class="text-entry-toggle-textbox-container question-text-setup-container" data-reactid=".1.5.0.0.2.0.1.1.1">
+                                                <textarea style="visibility: visible; overflow: hidden; word-wrap: break-word; resize: none;
+                                                    height: 46px;" class="textfield question-textfield text-entry-toggle-textbox"
+                                                    value="" autocomplete="off" autocorrect="off" autocapitalize="off" type="text"
+                                                    data-reactid=".1.5.0.0.2.0.1.1.1.0" data-autosize-on="true"></textarea></div>
+                                            <div class="mc-answer-right-side" data-reactid=".1.5.0.0.2.0.1.1.2">
+                                                <div class="edit-mc-answer-correctness" data-reactid=".1.5.0.0.2.0.1.1.2.0">
+                                                    <input class="mc-correct-checkbox" type="checkbox" tabindex="-1" data-reactid=".1.5.0.0.2.0.1.1.2.0.0"></div>
+                                                <span class="delete-option-answer" data-reactid=".1.5.0.0.2.0.1.1.2.1"><i data-icon="h"
+                                                    data-reactid=".1.5.0.0.2.0.1.1.2.1.0"></i></span>
+                                            </div>
+                                        </div>
+                                        <div id="mc-answer-3" class="mc-answer" data-reactid=".1.5.0.0.2.0.1.2">
+                                            <span class="edit-question-number" data-reactid=".1.5.0.0.2.0.1.2.0">C</span><div
+                                                class="text-entry-toggle-textbox-container question-text-setup-container" data-reactid=".1.5.0.0.2.0.1.2.1">
+                                                <textarea style="visibility: visible; overflow: hidden; word-wrap: break-word; resize: none;
+                                                    height: 46px;" class="textfield question-textfield text-entry-toggle-textbox"
+                                                    value="" autocomplete="off" autocorrect="off" autocapitalize="off" type="text"
+                                                    data-reactid=".1.5.0.0.2.0.1.2.1.0" data-autosize-on="true"></textarea></div>
+                                            <div class="mc-answer-right-side" data-reactid=".1.5.0.0.2.0.1.2.2">
+                                                <div class="edit-mc-answer-correctness" data-reactid=".1.5.0.0.2.0.1.2.2.0">
+                                                    <input class="mc-correct-checkbox" type="checkbox" tabindex="-1" data-reactid=".1.5.0.0.2.0.1.2.2.0.0"></div>
+                                                <span class="delete-option-answer" data-reactid=".1.5.0.0.2.0.1.2.2.1"><i data-icon="h"
+                                                    data-reactid=".1.5.0.0.2.0.1.2.2.1.0"></i></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <span class="add-choice" style="display: inline-block;" data-reactid=".1.5.0.0.2.0.2">
+                                        <span class="add-choice-icon" data-reactid=".1.5.0.0.2.0.2.0">+ ADD ANSWER</span></span></div>
+                            </div>
+                            <div style="display: block;" data-reactid=".1.5.0.0.3">
+                                <span class="explanation-title" data-reactid=".1.5.0.0.3.0">Explanation:</span><div
+                                    class="edit-question-explanation text-entry-toggle in-editing" data-reactid=".1.5.0.0.3.1">
+                                    <div class="text-entry-toggle-textbox-container question-text-setup-container" data-reactid=".1.5.0.0.3.1.0">
+                                        <textarea style="visibility: visible; overflow: hidden; word-wrap: break-word; resize: none;
+                                            height: 46px;" class="textfield question-textfield text-entry-toggle-textbox"
+                                            value="" autocomplete="off" autocorrect="off" autocapitalize="off" type="text"
+                                            data-reactid=".1.5.0.0.3.1.0.0" data-autosize-on="true"></textarea></div>
+                                </div>
+                            </div>
+                            <div class="relocate-question-container" data-reactid=".1.5.0.0.4">
+                                <button class="delete-button button" tabindex="-1" data-reactid=".1.5.0.0.4.0">
+                                    <i data-icon="w" data-reactid=".1.5.0.0.4.0.0"></i>
+                                </button>
+                                <button class="move-up-button button" disabled="" data-reactid=".1.5.0.0.4.1">
+                                    <i data-icon="k" data-reactid=".1.5.0.0.4.1.0"></i>
+                                </button>
+                                <button class="move-down-button button" disabled="" data-reactid=".1.5.0.0.4.2">
+                                    <i data-icon="m" data-reactid=".1.5.0.0.4.2.0"></i>
+                                </button>
+                                <button class="duplicate-question-button button" disabled="" data-reactid=".1.5.0.0.4.3">
+                                    <i data-icon="y" data-reactid=".1.5.0.0.4.3.0"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div data-reactid=".1.6">
+                    <h4 id="add-quiz-objects-title" data-reactid=".1.6.0">
+                        ADD QUESTION:</h4>
+                    <div id="add-question-container" data-reactid=".1.6.1">
+                        <button id="add-mc-question-button" class="button" data-reactid=".1.6.1.0">
+                            MULTIPLE CHOICE</button>
+                        <button id="add-tf-question-button" class="button" data-reactid=".1.6.1.1">
+                                TRUE / FALSE</button>
+                        <button id="add-fr-question-button" class="button" data-reactid=".1.6.1.2">
+                                    SHORT ANSWER</button></div>
+                </div>
+            </div>
+        </div>
+        <footer class="footer vertical-align">
+    	<div class="footer-content vertical-align-middle">
+    		<span class="socrative">Socrative</span> Student Response by <span class="mc">MasteryConnect</span>
+    	</div>
+    </footer>
+        <div id="alert-message-container">
+        </div>
+    </div>
+    <div id="pubnub" ssl="on">
+    </div>
+    <script type="text/javascript" src="./Quz Test Design_files/saved_resource"></script>
+    <script type="text/javascript" src="./Quz Test Design_files/loading-state.js"></script>
+    <script type="text/javascript" src="./Quz Test Design_files/commons.js"></script>
+    <script type="text/javascript" src="./Quz Test Design_files/tinymce.min.js"></script>
+    <script type="text/javascript" src="./Quz Test Design_files/teacher.bundle.min.js"></script>
+    <!--
+        Load filepicker.js asynchronously.
+
+        Note that we set our API key immediately after filepicker is added to the window object.
+    -->
+    <script type="text/javascript">
+        (function (a) {
+            if (window.filepicker) { return } var b = a.createElement("script"); b.type = "text/javascript"; b.async = !0; b.src = ("https:" === a.location.protocol ? "https:" : "http:") + "//api.filepicker.io/v1/filepicker.js"; var c = a.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c); var d = {}; d._queue = []; var e = "pick,pickMultiple,pickAndStore,read,write,writeUrl,export,convert,store,storeUrl,remove,stat,setKey,constructWidget,makeDropPane".split(","); var f = function (a, b) { return function () { b.push([a, arguments]) } }; for (var g = 0; g < e.length; g++) { d[e[g]] = f(e[g], d._queue) }
+            window.filepicker = d;
+            window.filepicker.setKey('ARuL1bD1DQOa2bY3QZcm3z');
+        })(document);
+	</script>
+    <script type="text/javascript">
+        window.analytics || (window.analytics = []), window.analytics.methods = ["identify", "track", "trackLink", "trackForm", "trackClick", "trackSubmit", "page", "pageview", "ab", "alias", "ready", "group", "on", "once", "off"], window.analytics.factory = function (t) { return function () { var a = Array.prototype.slice.call(arguments); return a.unshift(t), window.analytics.push(a), window.analytics } }; for (var i = 0; i < window.analytics.methods.length; i++) { var method = window.analytics.methods[i]; window.analytics[method] = window.analytics.factory(method) } window.analytics.load = function (t) { var a = document.createElement("script"); a.type = "text/javascript", a.async = !0, a.src = ("https:" === document.location.protocol ? "https://" : "http://") + "d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/" + t + "/analytics.min.js"; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(a, n) }, window.analytics.SNIPPET_VERSION = "2.0.8"
+		 	 , window.analytics.load("uq6f8f6utp")
+		 	;
+		 </script>
+    <iframe name="filepicker_comm_iframe" id="filepicker_comm_iframe" src="./Quz Test Design_files/saved_resource.html"
+        style="display: none;"></iframe>
+    <iframe name="fpapi_comm_iframe" id="fpapi_comm_iframe" src="./Quz Test Design_files/saved_resource(1).html"
+        style="display: none;"></iframe>
+</body>
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;">
+</div>
+<div id="lightbox" class="lightbox" style="display: none;">
+    <div class="lb-outerContainer">
+        <div class="lb-container">
+            <div class="lb-dataContainer">
+                <div class="lb-data">
+                    <div class="lb-details">
+                        <span class="lb-caption"></span><span class="lb-number"></span>
+                    </div>
+                    <div class="lb-closeContainer">
+                        <a class="lb-close"></a>
+                    </div>
+                </div>
+            </div>
+            <img class="lb-image" src=""><div class="lb-loader">
+                <div class="spinner">
+                    <div class="bounce1">
+                    </div>
+                    <div class="bounce2">
+                    </div>
+                    <div class="bounce3">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</html>

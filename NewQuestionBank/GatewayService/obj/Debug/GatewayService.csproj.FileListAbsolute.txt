@@ -1,0 +1,469 @@
+D:\DebuxProduct\Debux.DL\GatewayService\bin\GatewayService.dll
+D:\DebuxProduct\Debux.DL\GatewayService\bin\GatewayService.pdb
+D:\DebuxProduct\Debux.DL\GatewayService\bin\Debux.BL.dll
+D:\DebuxProduct\Debux.DL\GatewayService\bin\Debux.Common.dll
+D:\DebuxProduct\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+D:\DebuxProduct\Debux.DL\GatewayService\bin\Debux.DL.dll
+D:\DebuxProduct\Debux.DL\GatewayService\bin\Debux.BL.pdb
+D:\DebuxProduct\Debux.DL\GatewayService\bin\Debux.Common.pdb
+D:\DebuxProduct\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+D:\DebuxProduct\Debux.DL\GatewayService\bin\Debux.DL.pdb
+D:\DebuxProduct\Debux.DL\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+D:\DebuxProduct\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+D:\DebuxProduct\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\GatewayService\bin\GatewayService.dll
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\GatewayService\bin\GatewayService.pdb
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\GatewayService\bin\Debux.BL.dll
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\GatewayService\bin\Debux.Common.dll
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\GatewayService\bin\Debux.DL.dll
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\GatewayService\bin\Debux.BL.pdb
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\GatewayService\bin\Debux.Common.pdb
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\GatewayService\bin\Debux.DL.pdb
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+D:\Rakesh\Date18-11-2014\Debux.DL\GatewayService\bin\GatewayService.dll
+D:\Rakesh\Date18-11-2014\Debux.DL\GatewayService\bin\GatewayService.pdb
+D:\Rakesh\Date18-11-2014\Debux.DL\GatewayService\bin\Debux.BL.dll
+D:\Rakesh\Date18-11-2014\Debux.DL\GatewayService\bin\Debux.Common.dll
+D:\Rakesh\Date18-11-2014\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+D:\Rakesh\Date18-11-2014\Debux.DL\GatewayService\bin\Debux.DL.dll
+D:\Rakesh\Date18-11-2014\Debux.DL\GatewayService\bin\Debux.BL.pdb
+D:\Rakesh\Date18-11-2014\Debux.DL\GatewayService\bin\Debux.Common.pdb
+D:\Rakesh\Date18-11-2014\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+D:\Rakesh\Date18-11-2014\Debux.DL\GatewayService\bin\Debux.DL.pdb
+D:\Rakesh\Date18-11-2014\Debux.DL\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+D:\Rakesh\Date18-11-2014\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+D:\Rakesh\Date18-11-2014\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\GatewayService\bin\GatewayService.dll
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\GatewayService\bin\GatewayService.pdb
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\GatewayService\bin\Debux.BL.dll
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\GatewayService\bin\Debux.Common.dll
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\GatewayService\bin\Debux.DL.dll
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\GatewayService\bin\Debux.BL.pdb
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\GatewayService\bin\Debux.Common.pdb
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\GatewayService\bin\Debux.DL.pdb
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\GatewayService\bin\GatewayService.dll
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\GatewayService\bin\GatewayService.pdb
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\GatewayService\bin\Debux.BL.dll
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\GatewayService\bin\Debux.Common.dll
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\GatewayService\bin\Debux.DL.dll
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\GatewayService\bin\Debux.BL.pdb
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\GatewayService\bin\Debux.Common.pdb
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\GatewayService\bin\Debux.DL.pdb
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\GatewayService\bin\GatewayService.dll
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\GatewayService\bin\GatewayService.pdb
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\GatewayService\bin\Debux.BL.dll
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\GatewayService\bin\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\GatewayService\bin\Debux.DL.dll
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\GatewayService\bin\Debux.BL.pdb
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\GatewayService\bin\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\GatewayService\bin\Debux.DL.pdb
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\GatewayService.dll
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\GatewayService.pdb
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Debux.BL.dll
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Debux.DL.dll
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Debux.BL.pdb
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Debux.DL.pdb
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\GatewayService.dll
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\GatewayService.pdb
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Debux.BL.dll
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Debux.Common.dll
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Debux.DL.dll
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Debux.BL.pdb
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Debux.Common.pdb
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\GatewayService\bin\Debux.DL.pdb
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\GatewayService\bin\GatewayService.dll
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\GatewayService\bin\GatewayService.pdb
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\GatewayService\bin\Debux.BL.dll
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\GatewayService\bin\Debux.Common.dll
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\GatewayService\bin\Debux.DL.dll
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\GatewayService\bin\Debux.BL.pdb
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\GatewayService\bin\Debux.Common.pdb
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\GatewayService\bin\Debux.DL.pdb
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\GatewayService\bin\GatewayService.dll
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\GatewayService\bin\GatewayService.pdb
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\GatewayService\bin\Debux.BL.dll
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\GatewayService\bin\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\GatewayService\bin\Debux.DL.dll
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\GatewayService\bin\Debux.BL.pdb
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\GatewayService\bin\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\GatewayService\bin\Debux.DL.pdb
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+E:\rakesh D\WORK\Current Application\Debux.DL\GatewayService\bin\GatewayService.dll
+E:\rakesh D\WORK\Current Application\Debux.DL\GatewayService\bin\GatewayService.pdb
+E:\rakesh D\WORK\Current Application\Debux.DL\GatewayService\bin\Debux.BL.dll
+E:\rakesh D\WORK\Current Application\Debux.DL\GatewayService\bin\Debux.Common.dll
+E:\rakesh D\WORK\Current Application\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+E:\rakesh D\WORK\Current Application\Debux.DL\GatewayService\bin\Debux.DL.dll
+E:\rakesh D\WORK\Current Application\Debux.DL\GatewayService\bin\Debux.BL.pdb
+E:\rakesh D\WORK\Current Application\Debux.DL\GatewayService\bin\Debux.Common.pdb
+E:\rakesh D\WORK\Current Application\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+E:\rakesh D\WORK\Current Application\Debux.DL\GatewayService\bin\Debux.DL.pdb
+E:\rakesh D\WORK\Current Application\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+E:\rakesh D\WORK\Current Application\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+D:\Shared Data\Work\Current Application\Debux.DL\GatewayService\bin\GatewayService.dll
+D:\Shared Data\Work\Current Application\Debux.DL\GatewayService\bin\GatewayService.pdb
+D:\Shared Data\Work\Current Application\Debux.DL\GatewayService\bin\Debux.BL.dll
+D:\Shared Data\Work\Current Application\Debux.DL\GatewayService\bin\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+D:\Shared Data\Work\Current Application\Debux.DL\GatewayService\bin\Debux.DL.dll
+D:\Shared Data\Work\Current Application\Debux.DL\GatewayService\bin\Debux.BL.pdb
+D:\Shared Data\Work\Current Application\Debux.DL\GatewayService\bin\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+D:\Shared Data\Work\Current Application\Debux.DL\GatewayService\bin\Debux.DL.pdb
+D:\Shared Data\Work\Current Application\Debux.DL\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\Current Application\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+D:\Shared Data\Work\Current Application\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+E:\Debux.DL\GatewayService\bin\GatewayService.dll
+E:\Debux.DL\GatewayService\bin\GatewayService.pdb
+E:\Debux.DL\GatewayService\bin\Debux.BL.dll
+E:\Debux.DL\GatewayService\bin\Debux.Common.dll
+E:\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+E:\Debux.DL\GatewayService\bin\Debux.DL.dll
+E:\Debux.DL\GatewayService\bin\Debux.BL.pdb
+E:\Debux.DL\GatewayService\bin\Debux.Common.pdb
+E:\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+E:\Debux.DL\GatewayService\bin\Debux.DL.pdb
+E:\Debux.DL\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+E:\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+E:\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+D:\Shared Data\Work\rakesh\Debux.DL17122014\GatewayService\bin\GatewayService.dll
+D:\Shared Data\Work\rakesh\Debux.DL17122014\GatewayService\bin\GatewayService.pdb
+D:\Shared Data\Work\rakesh\Debux.DL17122014\GatewayService\bin\Debux.BL.dll
+D:\Shared Data\Work\rakesh\Debux.DL17122014\GatewayService\bin\Debux.Common.dll
+D:\Shared Data\Work\rakesh\Debux.DL17122014\GatewayService\bin\Newtonsoft.Json.dll
+D:\Shared Data\Work\rakesh\Debux.DL17122014\GatewayService\bin\Debux.DL.dll
+D:\Shared Data\Work\rakesh\Debux.DL17122014\GatewayService\bin\Debux.BL.pdb
+D:\Shared Data\Work\rakesh\Debux.DL17122014\GatewayService\bin\Debux.Common.pdb
+D:\Shared Data\Work\rakesh\Debux.DL17122014\GatewayService\bin\Newtonsoft.Json.xml
+D:\Shared Data\Work\rakesh\Debux.DL17122014\GatewayService\bin\Debux.DL.pdb
+D:\Shared Data\Work\rakesh\Debux.DL17122014\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\rakesh\Debux.DL17122014\GatewayService\obj\Debug\GatewayService.dll
+D:\Shared Data\Work\rakesh\Debux.DL17122014\GatewayService\obj\Debug\GatewayService.pdb
+E:\rakesh D\WORK\Current Application\Debux.DL\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+C:\Users\kamlesh\Desktop\Debux.DL\GatewayService\bin\GatewayService.dll
+C:\Users\kamlesh\Desktop\Debux.DL\GatewayService\bin\GatewayService.pdb
+C:\Users\kamlesh\Desktop\Debux.DL\GatewayService\bin\Debux.BL.dll
+C:\Users\kamlesh\Desktop\Debux.DL\GatewayService\bin\Debux.Common.dll
+C:\Users\kamlesh\Desktop\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+C:\Users\kamlesh\Desktop\Debux.DL\GatewayService\bin\Debux.DL.dll
+C:\Users\kamlesh\Desktop\Debux.DL\GatewayService\bin\Debux.BL.pdb
+C:\Users\kamlesh\Desktop\Debux.DL\GatewayService\bin\Debux.Common.pdb
+C:\Users\kamlesh\Desktop\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+C:\Users\kamlesh\Desktop\Debux.DL\GatewayService\bin\Debux.DL.pdb
+C:\Users\kamlesh\Desktop\Debux.DL\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+C:\Users\kamlesh\Desktop\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+C:\Users\kamlesh\Desktop\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\GatewayService\bin\GatewayService.dll
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\GatewayService\bin\GatewayService.pdb
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\GatewayService\bin\Debux.BL.dll
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\GatewayService\bin\Debux.Common.dll
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\GatewayService\bin\Debux.DL.dll
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\GatewayService\bin\Debux.BL.pdb
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\GatewayService\bin\Debux.Common.pdb
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\GatewayService\bin\Debux.DL.pdb
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+E:\DaillyWork\Debux.DL\GatewayService\bin\GatewayService.dll
+E:\DaillyWork\Debux.DL\GatewayService\bin\GatewayService.pdb
+E:\DaillyWork\Debux.DL\GatewayService\bin\Debux.BL.dll
+E:\DaillyWork\Debux.DL\GatewayService\bin\Debux.Common.dll
+E:\DaillyWork\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+E:\DaillyWork\Debux.DL\GatewayService\bin\Debux.DL.dll
+E:\DaillyWork\Debux.DL\GatewayService\bin\Debux.BL.pdb
+E:\DaillyWork\Debux.DL\GatewayService\bin\Debux.Common.pdb
+E:\DaillyWork\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+E:\DaillyWork\Debux.DL\GatewayService\bin\Debux.DL.pdb
+E:\DaillyWork\Debux.DL\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+E:\DaillyWork\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+E:\DaillyWork\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\GatewayService\bin\GatewayService.dll
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\GatewayService\bin\GatewayService.pdb
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\GatewayService\bin\Debux.BL.dll
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\GatewayService\bin\Debux.Common.dll
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\GatewayService\bin\Debux.DL.dll
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\GatewayService\bin\Debux.BL.pdb
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\GatewayService\bin\Debux.Common.pdb
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\GatewayService\bin\Debux.DL.pdb
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\GatewayService\bin\GatewayService.dll
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\GatewayService\bin\GatewayService.pdb
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\GatewayService\bin\Debux.BL.dll
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\GatewayService\bin\Debux.Common.dll
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\GatewayService\bin\Debux.DL.dll
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\GatewayService\bin\Debux.BL.pdb
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\GatewayService\bin\Debux.Common.pdb
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\GatewayService\bin\Debux.DL.pdb
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\GatewayService\bin\GatewayService.dll
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\GatewayService\bin\GatewayService.pdb
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\GatewayService\bin\Debux.BL.dll
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\GatewayService\bin\Debux.Common.dll
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\GatewayService\bin\Debux.DL.dll
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\GatewayService\bin\Debux.BL.pdb
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\GatewayService\bin\Debux.Common.pdb
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\GatewayService\bin\Debux.DL.pdb
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+D:\Kamlesh Data\Debux docs\Debux.DL\GatewayService\bin\GatewayService.dll
+D:\Kamlesh Data\Debux docs\Debux.DL\GatewayService\bin\GatewayService.pdb
+D:\Kamlesh Data\Debux docs\Debux.DL\GatewayService\bin\Debux.BL.dll
+D:\Kamlesh Data\Debux docs\Debux.DL\GatewayService\bin\Debux.Common.dll
+D:\Kamlesh Data\Debux docs\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+D:\Kamlesh Data\Debux docs\Debux.DL\GatewayService\bin\Debux.DL.dll
+D:\Kamlesh Data\Debux docs\Debux.DL\GatewayService\bin\Debux.BL.pdb
+D:\Kamlesh Data\Debux docs\Debux.DL\GatewayService\bin\Debux.Common.pdb
+D:\Kamlesh Data\Debux docs\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+D:\Kamlesh Data\Debux docs\Debux.DL\GatewayService\bin\Debux.DL.pdb
+D:\Kamlesh Data\Debux docs\Debux.DL\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+D:\Kamlesh Data\Debux docs\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+D:\Kamlesh Data\Debux docs\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+D:\Work19June2015\Debux.DL\GatewayService\bin\GatewayService.dll
+D:\Work19June2015\Debux.DL\GatewayService\bin\GatewayService.pdb
+D:\Work19June2015\Debux.DL\GatewayService\bin\Debux.BL.dll
+D:\Work19June2015\Debux.DL\GatewayService\bin\Debux.Common.dll
+D:\Work19June2015\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+D:\Work19June2015\Debux.DL\GatewayService\bin\Debux.DL.dll
+D:\Work19June2015\Debux.DL\GatewayService\bin\Debux.BL.pdb
+D:\Work19June2015\Debux.DL\GatewayService\bin\Debux.Common.pdb
+D:\Work19June2015\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+D:\Work19June2015\Debux.DL\GatewayService\bin\Debux.DL.pdb
+D:\Work19June2015\Debux.DL\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+D:\Work19June2015\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+D:\Work19June2015\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+D:\Debux.DL\GatewayService\bin\GatewayService.dll
+D:\Debux.DL\GatewayService\bin\GatewayService.pdb
+D:\Debux.DL\GatewayService\bin\Debux.BL.dll
+D:\Debux.DL\GatewayService\bin\Debux.Common.dll
+D:\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+D:\Debux.DL\GatewayService\bin\Debux.DL.dll
+D:\Debux.DL\GatewayService\bin\Debux.BL.pdb
+D:\Debux.DL\GatewayService\bin\Debux.Common.pdb
+D:\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+D:\Debux.DL\GatewayService\bin\Debux.DL.pdb
+D:\Debux.DL\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+D:\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+D:\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+C:\Users\Abhi\Desktop\online\Debux.DL\GatewayService\bin\GatewayService.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\GatewayService\bin\GatewayService.pdb
+C:\Users\Abhi\Desktop\online\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\GatewayService\bin\QuestionBank.BL.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\GatewayService\bin\QuestionBank.Common.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\GatewayService\bin\QuestionBank.DL.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\GatewayService\bin\QuestionBank.BL.pdb
+C:\Users\Abhi\Desktop\online\Debux.DL\GatewayService\bin\QuestionBank.Common.pdb
+C:\Users\Abhi\Desktop\online\Debux.DL\GatewayService\bin\Newtonsoft.Json.xml
+C:\Users\Abhi\Desktop\online\Debux.DL\GatewayService\bin\QuestionBank.DL.pdb
+C:\Users\Abhi\Desktop\online\Debux.DL\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+C:\Users\Abhi\Desktop\online\Debux.DL\GatewayService\obj\Debug\GatewayService.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\GatewayService\obj\Debug\GatewayService.pdb
+C:\Users\Abhi\Desktop\online\QB\GatewayService\bin\GatewayService.dll
+C:\Users\Abhi\Desktop\online\QB\GatewayService\bin\GatewayService.pdb
+C:\Users\Abhi\Desktop\online\QB\GatewayService\bin\Newtonsoft.Json.dll
+C:\Users\Abhi\Desktop\online\QB\GatewayService\bin\QuestionBank.BL.dll
+C:\Users\Abhi\Desktop\online\QB\GatewayService\bin\QuestionBank.Common.dll
+C:\Users\Abhi\Desktop\online\QB\GatewayService\bin\QuestionBank.DL.dll
+C:\Users\Abhi\Desktop\online\QB\GatewayService\bin\QuestionBank.BL.pdb
+C:\Users\Abhi\Desktop\online\QB\GatewayService\bin\QuestionBank.Common.pdb
+C:\Users\Abhi\Desktop\online\QB\GatewayService\bin\Newtonsoft.Json.xml
+C:\Users\Abhi\Desktop\online\QB\GatewayService\bin\QuestionBank.DL.pdb
+C:\Users\Abhi\Desktop\online\QB\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+C:\Users\Abhi\Desktop\online\QB\GatewayService\obj\Debug\GatewayService.dll
+C:\Users\Abhi\Desktop\online\QB\GatewayService\obj\Debug\GatewayService.pdb
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\GatewayService\bin\GatewayService.dll
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\GatewayService\bin\GatewayService.pdb
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\GatewayService\bin\QuestionBank.BL.dll
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\GatewayService\bin\QuestionBank.Common.dll
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\GatewayService\bin\QuestionBank.DL.dll
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\GatewayService\bin\QuestionBank.BL.pdb
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\GatewayService\bin\QuestionBank.Common.pdb
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\GatewayService\bin\Newtonsoft.Json.xml
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\GatewayService\bin\QuestionBank.DL.pdb
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\GatewayService\obj\Debug\GatewayService.dll
+C:\Users\abhishek.mishra\Desktop\New Folder\QB\GatewayService\obj\Debug\GatewayService.pdb
+D:\work\18082015\QB\QB\GatewayService\bin\GatewayService.dll
+D:\work\18082015\QB\QB\GatewayService\bin\GatewayService.pdb
+D:\work\18082015\QB\QB\GatewayService\bin\QuestionBank.BL.dll
+D:\work\18082015\QB\QB\GatewayService\bin\QuestionBank.Common.dll
+D:\work\18082015\QB\QB\GatewayService\bin\QuestionBank.DL.dll
+D:\work\18082015\QB\QB\GatewayService\bin\QuestionBank.BL.pdb
+D:\work\18082015\QB\QB\GatewayService\bin\QuestionBank.Common.pdb
+D:\work\18082015\QB\QB\GatewayService\bin\Newtonsoft.Json.xml
+D:\work\18082015\QB\QB\GatewayService\bin\QuestionBank.DL.pdb
+D:\work\18082015\QB\QB\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+D:\work\18082015\QB\QB\GatewayService\obj\Debug\GatewayService.dll
+D:\work\18082015\QB\QB\GatewayService\obj\Debug\GatewayService.pdb
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\GatewayService\bin\GatewayService.dll
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\GatewayService\bin\GatewayService.pdb
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\GatewayService\bin\QuestionBank.BL.dll
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\GatewayService\bin\QuestionBank.Common.dll
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\GatewayService\bin\QuestionBank.DL.dll
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\GatewayService\bin\QuestionBank.BL.pdb
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\GatewayService\bin\QuestionBank.Common.pdb
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\GatewayService\bin\Newtonsoft.Json.xml
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\GatewayService\bin\QuestionBank.DL.pdb
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\GatewayService\obj\Debug\GatewayService.dll
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\GatewayService\obj\Debug\GatewayService.pdb
+D:\QuestionBank20082015\QB\GatewayService\bin\GatewayService.dll
+D:\QuestionBank20082015\QB\GatewayService\bin\GatewayService.pdb
+D:\QuestionBank20082015\QB\GatewayService\bin\QuestionBank.BL.dll
+D:\QuestionBank20082015\QB\GatewayService\bin\QuestionBank.Common.dll
+D:\QuestionBank20082015\QB\GatewayService\bin\QuestionBank.DL.dll
+D:\QuestionBank20082015\QB\GatewayService\bin\QuestionBank.BL.pdb
+D:\QuestionBank20082015\QB\GatewayService\bin\QuestionBank.Common.pdb
+D:\QuestionBank20082015\QB\GatewayService\bin\QuestionBank.DL.pdb
+D:\QuestionBank20082015\QB\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+D:\QuestionBank20082015\QB\GatewayService\obj\Debug\GatewayService.dll
+D:\QuestionBank20082015\QB\GatewayService\obj\Debug\GatewayService.pdb
+D:\QuestionBank20082015\QB\GatewayService\bin\Newtonsoft.Json.xml
+D:\QB Deployment\QB\GatewayService\bin\GatewayService.dll
+D:\QB Deployment\QB\GatewayService\bin\GatewayService.pdb
+D:\QB Deployment\QB\GatewayService\bin\QuestionBank.BL.dll
+D:\QB Deployment\QB\GatewayService\bin\QuestionBank.Common.dll
+D:\QB Deployment\QB\GatewayService\bin\QuestionBank.DL.dll
+D:\QB Deployment\QB\GatewayService\bin\QuestionBank.BL.pdb
+D:\QB Deployment\QB\GatewayService\bin\QuestionBank.Common.pdb
+D:\QB Deployment\QB\GatewayService\bin\Newtonsoft.Json.xml
+D:\QB Deployment\QB\GatewayService\bin\QuestionBank.DL.pdb
+D:\QB Deployment\QB\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+D:\QB Deployment\QB\GatewayService\obj\Debug\GatewayService.dll
+D:\QB Deployment\QB\GatewayService\obj\Debug\GatewayService.pdb
+D:\PravinQB\Question Bank Application\GatewayService\bin\GatewayService.dll
+D:\PravinQB\Question Bank Application\GatewayService\bin\GatewayService.pdb
+D:\PravinQB\Question Bank Application\GatewayService\bin\QuestionBank.BL.dll
+D:\PravinQB\Question Bank Application\GatewayService\bin\QuestionBank.Common.dll
+D:\PravinQB\Question Bank Application\GatewayService\bin\QuestionBank.DL.dll
+D:\PravinQB\Question Bank Application\GatewayService\bin\QuestionBank.BL.pdb
+D:\PravinQB\Question Bank Application\GatewayService\bin\QuestionBank.Common.pdb
+D:\PravinQB\Question Bank Application\GatewayService\bin\QuestionBank.DL.pdb
+D:\PravinQB\Question Bank Application\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+D:\PravinQB\Question Bank Application\GatewayService\obj\Debug\GatewayService.dll
+D:\PravinQB\Question Bank Application\GatewayService\obj\Debug\GatewayService.pdb
+D:\PravinQB\Question Bank Application\GatewayService\bin\Newtonsoft.Json.xml
+Z:\GatewayService\bin\GatewayService.dll
+Z:\GatewayService\bin\GatewayService.pdb
+Z:\GatewayService\bin\QuestionBank.BL.dll
+Z:\GatewayService\bin\QuestionBank.Common.dll
+Z:\GatewayService\bin\QuestionBank.DL.dll
+Z:\GatewayService\bin\QuestionBank.BL.pdb
+Z:\GatewayService\bin\QuestionBank.Common.pdb
+Z:\GatewayService\bin\Newtonsoft.Json.xml
+Z:\GatewayService\bin\QuestionBank.DL.pdb
+Z:\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+Z:\GatewayService\obj\Debug\GatewayService.dll
+Z:\GatewayService\obj\Debug\GatewayService.pdb
+D:\Ravi QB\Question Bank Application\GatewayService\bin\GatewayService.dll
+D:\Ravi QB\Question Bank Application\GatewayService\bin\GatewayService.pdb
+D:\Ravi QB\Question Bank Application\GatewayService\bin\QuestionBank.BL.dll
+D:\Ravi QB\Question Bank Application\GatewayService\bin\QuestionBank.Common.dll
+D:\Ravi QB\Question Bank Application\GatewayService\bin\QuestionBank.DL.dll
+D:\Ravi QB\Question Bank Application\GatewayService\bin\QuestionBank.BL.pdb
+D:\Ravi QB\Question Bank Application\GatewayService\bin\QuestionBank.Common.pdb
+D:\Ravi QB\Question Bank Application\GatewayService\bin\Newtonsoft.Json.xml
+D:\Ravi QB\Question Bank Application\GatewayService\bin\QuestionBank.DL.pdb
+D:\Ravi QB\Question Bank Application\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+D:\Ravi QB\Question Bank Application\GatewayService\obj\Debug\GatewayService.dll
+D:\Ravi QB\Question Bank Application\GatewayService\obj\Debug\GatewayService.pdb
+D:\PravinQB\NEWResponsive\GatewayService\bin\GatewayService.dll
+D:\PravinQB\NEWResponsive\GatewayService\bin\GatewayService.pdb
+D:\PravinQB\NEWResponsive\GatewayService\bin\QuestionBank.BL.dll
+D:\PravinQB\NEWResponsive\GatewayService\bin\QuestionBank.Common.dll
+D:\PravinQB\NEWResponsive\GatewayService\bin\QuestionBank.DL.dll
+D:\PravinQB\NEWResponsive\GatewayService\bin\QuestionBank.BL.pdb
+D:\PravinQB\NEWResponsive\GatewayService\bin\QuestionBank.Common.pdb
+D:\PravinQB\NEWResponsive\GatewayService\bin\QuestionBank.DL.pdb
+D:\PravinQB\NEWResponsive\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+D:\PravinQB\NEWResponsive\GatewayService\obj\Debug\GatewayService.dll
+D:\PravinQB\NEWResponsive\GatewayService\obj\Debug\GatewayService.pdb
+D:\PravinQB\NEWResponsive\GatewayService\bin\Newtonsoft.Json.xml
+D:\PravinQB\NewQuestionBank\GatewayService\bin\GatewayService.dll
+D:\PravinQB\NewQuestionBank\GatewayService\bin\GatewayService.pdb
+D:\PravinQB\NewQuestionBank\GatewayService\bin\QuestionBank.BL.dll
+D:\PravinQB\NewQuestionBank\GatewayService\bin\QuestionBank.Common.dll
+D:\PravinQB\NewQuestionBank\GatewayService\bin\QuestionBank.DL.dll
+D:\PravinQB\NewQuestionBank\GatewayService\bin\QuestionBank.BL.pdb
+D:\PravinQB\NewQuestionBank\GatewayService\bin\QuestionBank.Common.pdb
+D:\PravinQB\NewQuestionBank\GatewayService\bin\Newtonsoft.Json.xml
+D:\PravinQB\NewQuestionBank\GatewayService\bin\QuestionBank.DL.pdb
+D:\PravinQB\NewQuestionBank\GatewayService\obj\Debug\ResolveAssemblyReference.cache
+D:\PravinQB\NewQuestionBank\GatewayService\obj\Debug\GatewayService.dll
+D:\PravinQB\NewQuestionBank\GatewayService\obj\Debug\GatewayService.pdb
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\GatewayService\bin\GatewayService.dll
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\GatewayService\bin\GatewayService.pdb
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\GatewayService\bin\QuestionBank.BL.dll
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\GatewayService\bin\QuestionBank.Common.dll
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\GatewayService\bin\QuestionBank.DL.dll
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\GatewayService\bin\QuestionBank.BL.pdb
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\GatewayService\bin\QuestionBank.Common.pdb
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\GatewayService\bin\Newtonsoft.Json.xml
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\GatewayService\bin\QuestionBank.DL.pdb
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\GatewayService\obj\Debug\GatewayService.dll
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\GatewayService\obj\Debug\GatewayService.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\GatewayService\bin\GatewayService.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\GatewayService\bin\GatewayService.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\GatewayService\bin\QuestionBank.BL.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\GatewayService\bin\QuestionBank.Common.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\GatewayService\bin\QuestionBank.DL.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\GatewayService\bin\QuestionBank.BL.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\GatewayService\bin\QuestionBank.Common.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\GatewayService\bin\QuestionBank.DL.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\GatewayService\obj\Debug\GatewayService.csprojResolveAssemblyReference.cache
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\GatewayService\obj\Debug\GatewayService.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\GatewayService\obj\Debug\GatewayService.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\GatewayService\bin\Newtonsoft.Json.xml

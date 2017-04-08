@@ -1,0 +1,42 @@
+﻿<userinfo>
+
+  <Pdetail>
+  <PersonalDetails>
+    <Name>A</Name>
+    <Gender>M</Gender>
+  </PersonalDetails>
+  <PersonalDetails>
+    <Name>B</Name>
+    <Gender>F</Gender>
+  </PersonalDetails>
+  </Pdetail>
+
+  <QDetail>
+  <QualificationDetails>
+    <HSC>50%</HSC>
+    <SSC>20%</SSC>
+  </QualificationDetails>
+  <QualificationDetails>
+    <HSC>100%</HSC>
+    <SSC>90%</SSC>
+  </QualificationDetails>
+  </QDetail>
+
+</userinfo>
+
+
+<Root>
+  <UserID>U</UserID>
+  <QuestionID>Q</QuestionID>
+  <TopicID></TopicID>
+  <Details>
+    <Option>1</Option>
+  </Details>
+  <Details>
+    <Option>2</Option>
+  </Details>
+  <Details>
+    <Option>3</Option>
+  </Details>
+
+</Root>

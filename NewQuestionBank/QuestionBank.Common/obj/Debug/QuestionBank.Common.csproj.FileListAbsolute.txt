@@ -1,0 +1,90 @@
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.Common\bin\Debug\QuestionBank.Common.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.Common\bin\Debug\QuestionBank.Common.pdb
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.Common\obj\Debug\QuestionBank.Common.Message.resources
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.Common\obj\Debug\QuestionBank.Common.csproj.GenerateResource.Cache
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.Common\obj\Debug\QuestionBank.Common.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\Debux.Common\obj\Debug\QuestionBank.Common.pdb
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.Common\bin\Debug\QuestionBank.Common.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.Common\bin\Debug\QuestionBank.Common.pdb
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.Common\obj\Debug\QuestionBank.Common.Message.resources
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.Common\obj\Debug\QuestionBank.Common.csproj.GenerateResource.Cache
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.Common\obj\Debug\QuestionBank.Common.dll
+C:\Users\Abhi\Desktop\online\Debux.DL\QuestionBank.Common\obj\Debug\QuestionBank.Common.pdb
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.Common\bin\Debug\QuestionBank.Common.dll
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.Common\bin\Debug\QuestionBank.Common.pdb
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.Common\obj\Debug\QuestionBank.Common.Message.resources
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.Common\obj\Debug\QuestionBank.Common.csproj.GenerateResource.Cache
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.Common\obj\Debug\QuestionBank.Common.dll
+C:\Users\Abhi\Desktop\online\QB\QuestionBank.Common\obj\Debug\QuestionBank.Common.pdb
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.Common\bin\Debug\QuestionBank.Common.dll
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.Common\bin\Debug\QuestionBank.Common.pdb
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.Common\obj\Debug\QuestionBank.Common.Message.resources
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.Common\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.Common\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.Common\obj\Debug\QuestionBank.Common.dll
+C:\Users\kamlesh\AppData\Roaming\Skype\My Skype Received Files\QB\QuestionBank.Common\obj\Debug\QuestionBank.Common.pdb
+D:\QuestionBank20082015\QB\QuestionBank.Common\bin\Debug\QuestionBank.Common.dll
+D:\QuestionBank20082015\QB\QuestionBank.Common\bin\Debug\QuestionBank.Common.pdb
+D:\QuestionBank20082015\QB\QuestionBank.Common\obj\Debug\QuestionBank.Common.Message.resources
+D:\QuestionBank20082015\QB\QuestionBank.Common\obj\Debug\QuestionBank.Common.csproj.GenerateResource.Cache
+D:\QuestionBank20082015\QB\QuestionBank.Common\obj\Debug\QuestionBank.Common.dll
+D:\QuestionBank20082015\QB\QuestionBank.Common\obj\Debug\QuestionBank.Common.pdb
+D:\QB Deployment\QB\QuestionBank.Common\bin\Debug\QuestionBank.Common.dll
+D:\QB Deployment\QB\QuestionBank.Common\bin\Debug\QuestionBank.Common.pdb
+D:\QB Deployment\QB\QuestionBank.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\QB Deployment\QB\QuestionBank.Common\obj\Debug\QuestionBank.Common.Message.resources
+D:\QB Deployment\QB\QuestionBank.Common\obj\Debug\GenerateResource.read.1.tlog
+D:\QB Deployment\QB\QuestionBank.Common\obj\Debug\GenerateResource.write.1.tlog
+D:\QB Deployment\QB\QuestionBank.Common\obj\Debug\QuestionBank.Common.dll
+D:\QB Deployment\QB\QuestionBank.Common\obj\Debug\QuestionBank.Common.pdb
+D:\PravinQB\Question Bank Application\QuestionBank.Common\bin\Debug\QuestionBank.Common.dll
+D:\PravinQB\Question Bank Application\QuestionBank.Common\bin\Debug\QuestionBank.Common.pdb
+D:\PravinQB\Question Bank Application\QuestionBank.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\PravinQB\Question Bank Application\QuestionBank.Common\obj\Debug\QuestionBank.Common.Message.resources
+D:\PravinQB\Question Bank Application\QuestionBank.Common\obj\Debug\GenerateResource.read.1.tlog
+D:\PravinQB\Question Bank Application\QuestionBank.Common\obj\Debug\GenerateResource.write.1.tlog
+D:\PravinQB\Question Bank Application\QuestionBank.Common\obj\Debug\QuestionBank.Common.dll
+D:\PravinQB\Question Bank Application\QuestionBank.Common\obj\Debug\QuestionBank.Common.pdb
+Z:\QuestionBank.Common\bin\Debug\QuestionBank.Common.dll
+Z:\QuestionBank.Common\bin\Debug\QuestionBank.Common.pdb
+Z:\QuestionBank.Common\obj\Debug\ResolveAssemblyReference.cache
+Z:\QuestionBank.Common\obj\Debug\QuestionBank.Common.Message.resources
+Z:\QuestionBank.Common\obj\Debug\GenerateResource.read.1.tlog
+Z:\QuestionBank.Common\obj\Debug\GenerateResource.write.1.tlog
+Z:\QuestionBank.Common\obj\Debug\QuestionBank.Common.dll
+Z:\QuestionBank.Common\obj\Debug\QuestionBank.Common.pdb
+D:\Ravi QB\Question Bank Application\QuestionBank.Common\bin\Debug\QuestionBank.Common.dll
+D:\Ravi QB\Question Bank Application\QuestionBank.Common\bin\Debug\QuestionBank.Common.pdb
+D:\Ravi QB\Question Bank Application\QuestionBank.Common\obj\Debug\QuestionBank.Common.Message.resources
+D:\Ravi QB\Question Bank Application\QuestionBank.Common\obj\Debug\QuestionBank.Common.csproj.GenerateResource.Cache
+D:\Ravi QB\Question Bank Application\QuestionBank.Common\obj\Debug\QuestionBank.Common.dll
+D:\Ravi QB\Question Bank Application\QuestionBank.Common\obj\Debug\QuestionBank.Common.pdb
+D:\PravinQB\NEWResponsive\QuestionBank.Common\bin\Debug\QuestionBank.Common.dll
+D:\PravinQB\NEWResponsive\QuestionBank.Common\bin\Debug\QuestionBank.Common.pdb
+D:\PravinQB\NEWResponsive\QuestionBank.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\PravinQB\NEWResponsive\QuestionBank.Common\obj\Debug\QuestionBank.Common.Message.resources
+D:\PravinQB\NEWResponsive\QuestionBank.Common\obj\Debug\GenerateResource.read.1.tlog
+D:\PravinQB\NEWResponsive\QuestionBank.Common\obj\Debug\GenerateResource.write.1.tlog
+D:\PravinQB\NEWResponsive\QuestionBank.Common\obj\Debug\QuestionBank.Common.dll
+D:\PravinQB\NEWResponsive\QuestionBank.Common\obj\Debug\QuestionBank.Common.pdb
+D:\PravinQB\NewQuestionBank\QuestionBank.Common\bin\Debug\QuestionBank.Common.dll
+D:\PravinQB\NewQuestionBank\QuestionBank.Common\bin\Debug\QuestionBank.Common.pdb
+D:\PravinQB\NewQuestionBank\QuestionBank.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\PravinQB\NewQuestionBank\QuestionBank.Common\obj\Debug\QuestionBank.Common.Message.resources
+D:\PravinQB\NewQuestionBank\QuestionBank.Common\obj\Debug\GenerateResource.read.1.tlog
+D:\PravinQB\NewQuestionBank\QuestionBank.Common\obj\Debug\GenerateResource.write.1.tlog
+D:\PravinQB\NewQuestionBank\QuestionBank.Common\obj\Debug\QuestionBank.Common.dll
+D:\PravinQB\NewQuestionBank\QuestionBank.Common\obj\Debug\QuestionBank.Common.pdb
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.Common\bin\Debug\QuestionBank.Common.dll
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.Common\bin\Debug\QuestionBank.Common.pdb
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.Common\obj\Debug\QuestionBank.Common.Message.resources
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.Common\obj\Debug\QuestionBank.Common.csproj.GenerateResource.Cache
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.Common\obj\Debug\QuestionBank.Common.dll
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\QuestionBank.Common\obj\Debug\QuestionBank.Common.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.Common\bin\Debug\QuestionBank.Common.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.Common\bin\Debug\QuestionBank.Common.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.Common\obj\Debug\QuestionBank.Common.Message.resources
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.Common\obj\Debug\QuestionBank.Common.csproj.GenerateResource.Cache
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.Common\obj\Debug\QuestionBank.Common.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.Common\obj\Debug\QuestionBank.Common.pdb

@@ -1,0 +1,253 @@
+D:\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+D:\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+D:\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+D:\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+D:\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+D:\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+D:\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+D:\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+D:\DebuxProduct\Debux.DL\Debux.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\DebuxProduct\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+D:\DebuxProduct\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.BL\obj\Debug\ResolveAssemblyReference.cache
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.BL\obj\Debug\ResolveAssemblyReference.cache
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+E:\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+E:\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+E:\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+E:\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+E:\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+E:\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+E:\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+E:\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+E:\Debux.DL\Debux.BL\obj\Debug\Debux.BL.csprojResolveAssemblyReference.cache
+E:\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+E:\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.BL\bin\Debug\Debux.BL.dll
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.BL\bin\Debug\Debux.BL.pdb
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.BL\bin\Debug\Debux.Common.dll
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.BL\bin\Debug\Debux.DL.dll
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.BL\bin\Debug\Debux.Common.pdb
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.BL\bin\Debug\Debux.DL.pdb
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.BL\obj\Debug\Debux.BL.dll
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.BL\obj\Debug\Debux.BL.pdb
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.BL\obj\Debug\Debux.BL.csprojResolveAssemblyReference.cache
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.BL\obj\Debug\Debux.BL.csprojResolveAssemblyReference.cache
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+E:\DaillyWork\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+E:\DaillyWork\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+E:\DaillyWork\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+E:\DaillyWork\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+E:\DaillyWork\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+E:\DaillyWork\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+E:\DaillyWork\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+E:\DaillyWork\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+E:\DaillyWork\Debux.DL\Debux.BL\obj\Debug\Debux.BL.csprojResolveAssemblyReference.cache
+E:\DaillyWork\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+E:\DaillyWork\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.BL\obj\Debug\Debux.BL.csprojResolveAssemblyReference.cache
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.BL\obj\Debug\Debux.BL.csprojResolveAssemblyReference.cache
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.BL\obj\Debug\Debux.BL.csprojResolveAssemblyReference.cache
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.BL\obj\Debug\Debux.BL.csprojResolveAssemblyReference.cache
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+D:\Work19June2015\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+D:\Work19June2015\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+D:\Work19June2015\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+D:\Work19June2015\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+D:\Work19June2015\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+D:\Work19June2015\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+D:\Work19June2015\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+D:\Work19June2015\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+D:\Work19June2015\Debux.DL\Debux.BL\obj\Debug\Debux.BL.csprojResolveAssemblyReference.cache
+D:\Work19June2015\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+D:\Work19June2015\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb
+D:\Debux.DL\Debux.BL\bin\Debug\Debux.BL.dll
+D:\Debux.DL\Debux.BL\bin\Debug\Debux.BL.pdb
+D:\Debux.DL\Debux.BL\bin\Debug\Debux.Common.dll
+D:\Debux.DL\Debux.BL\bin\Debug\Debux.DL.dll
+D:\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.dll
+D:\Debux.DL\Debux.BL\bin\Debug\Debux.Common.pdb
+D:\Debux.DL\Debux.BL\bin\Debug\Debux.DL.pdb
+D:\Debux.DL\Debux.BL\bin\Debug\Newtonsoft.Json.xml
+D:\Debux.DL\Debux.BL\obj\Debug\Debux.BL.csprojResolveAssemblyReference.cache
+D:\Debux.DL\Debux.BL\obj\Debug\Debux.BL.dll
+D:\Debux.DL\Debux.BL\obj\Debug\Debux.BL.pdb

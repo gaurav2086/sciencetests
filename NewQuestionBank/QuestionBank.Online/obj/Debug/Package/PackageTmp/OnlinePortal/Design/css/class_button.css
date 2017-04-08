@@ -1,0 +1,127 @@
+.classbutton{
+	
+}
+.classbutton ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+
+}
+
+/*Create a horizontal list with spacing*/
+.classbutton li {
+	display:inline-block;
+	float: left;
+	margin-right: 1px;
+}
+
+/*Style for menu links*/
+.classbutton li a {
+	display:block;
+	min-width:45px;
+	margin-right:10px;
+	text-align: center;
+	-webkit-box-shadow: 2px 2px 0px 0px rgba(216,216,216,0.75);
+-moz-box-shadow: 2px 2px 0px 0px rgba(216,216,216,0.75);
+box-shadow: 2px 2px 0px 0px rgba(216,216,216,0.75);
+border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	background-color:#65d2fd;
+	border:1px solid #00adf1;
+	padding:10px 0px;
+	height:41px;
+	vertical-align:middle;
+	text-align:center;
+	color:#122b35;
+	font-size:15px;
+	text-decoration:none;
+	font-family: 'open_sansregular';
+}
+
+/*Hover state for top level links*/
+.classbutton li:hover a {
+	background: #3BBBED;
+	text-decoration:none;
+}
+
+/*Style for dropdown links*/
+.classbutton li:hover ul a {
+	background: #f3f3f3;
+	color: #2f3036;
+	height: 40px;
+	line-height: 40px;
+}
+
+/*Hover state for dropdown links*/
+.classbutton li:hover ul a:hover {
+	background: #19c589;
+	color: #fff;
+}
+
+/*Hide dropdown links until they are needed*/
+.classbutton li ul {
+	display: none;
+}
+
+/*Make dropdown links vertical*/
+.classbutton li ul li {
+	display: block;
+	float: none;
+}
+
+/*Prevent text wrapping*/
+.classbutton li ul li a {
+	width: auto;
+	min-width: 100px;
+	padding: 0 20px;
+}
+
+/*Display the dropdown on hover*/
+.classbutton ul li a:hover + .hidden, .hidden:hover {
+	display: block;
+}
+
+/*Style 'show menu' label button and hide it by default*/
+.show-menu {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-decoration: none;
+	color: #fff;
+	background: #19c589;
+	text-align: center;
+	padding: 10px 0;
+	display: none;
+}
+
+/*Hide checkbox*/
+input[type=checkbox]{
+    display: none;
+}
+
+/*Show menu when invisible checkbox is checked*/
+input[type=checkbox]:checked ~ #menu{
+    display: block;
+}
+
+
+/*Responsive Styles*/
+
+@media screen and (max-width : 760px){
+	/*Make dropdown links appear inline*/
+	.classbutton ul {
+		position: static;
+		display: none;
+	}
+	/*Create vertical spacing*/
+	.classbutton li {
+		margin-bottom: 1px;
+	}
+	/*Make all menu links full width*/
+	.classbutton ul li, li a {
+		width: 100%;
+	}
+	/*Display 'show menu' link*/
+	.show-menu {
+		display:block;
+	}
+}

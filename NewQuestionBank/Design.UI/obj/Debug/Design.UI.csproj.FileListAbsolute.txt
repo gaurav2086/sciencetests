@@ -1,0 +1,32 @@
+D:\PravinQB\Question Bank Application\Design.UI\bin\Design.UI.dll
+D:\PravinQB\Question Bank Application\Design.UI\bin\Design.UI.pdb
+D:\PravinQB\Question Bank Application\Design.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\PravinQB\Question Bank Application\Design.UI\obj\Debug\Design.UI.dll
+D:\PravinQB\Question Bank Application\Design.UI\obj\Debug\Design.UI.pdb
+Z:\Design.UI\bin\Design.UI.dll
+Z:\Design.UI\bin\Design.UI.pdb
+Z:\Design.UI\obj\Debug\ResolveAssemblyReference.cache
+Z:\Design.UI\obj\Debug\Design.UI.dll
+Z:\Design.UI\obj\Debug\Design.UI.pdb
+D:\Ravi QB\Question Bank Application\Design.UI\bin\Design.UI.dll
+D:\Ravi QB\Question Bank Application\Design.UI\bin\Design.UI.pdb
+D:\Ravi QB\Question Bank Application\Design.UI\obj\Debug\Design.UI.dll
+D:\Ravi QB\Question Bank Application\Design.UI\obj\Debug\Design.UI.pdb
+D:\PravinQB\NEWResponsive\Design.UI\bin\Design.UI.dll
+D:\PravinQB\NEWResponsive\Design.UI\bin\Design.UI.pdb
+D:\PravinQB\NEWResponsive\Design.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\PravinQB\NEWResponsive\Design.UI\obj\Debug\Design.UI.dll
+D:\PravinQB\NEWResponsive\Design.UI\obj\Debug\Design.UI.pdb
+D:\PravinQB\NewQuestionBank\Design.UI\bin\Design.UI.dll
+D:\PravinQB\NewQuestionBank\Design.UI\bin\Design.UI.pdb
+D:\PravinQB\NewQuestionBank\Design.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\PravinQB\NewQuestionBank\Design.UI\obj\Debug\Design.UI.dll
+D:\PravinQB\NewQuestionBank\Design.UI\obj\Debug\Design.UI.pdb
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\Design.UI\bin\Design.UI.dll
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\Design.UI\bin\Design.UI.pdb
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\Design.UI\obj\Debug\Design.UI.dll
+E:\Ajay jijaji work\Latest code\QuestionBank\NewQuestionBank\Design.UI\obj\Debug\Design.UI.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\Design.UI\bin\Design.UI.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\Design.UI\bin\Design.UI.pdb
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\Design.UI\obj\Debug\Design.UI.dll
+E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\Design.UI\obj\Debug\Design.UI.pdb

@@ -1,0 +1,167 @@
+D:\DebuxProduct\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+D:\DebuxProduct\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+D:\DebuxProduct\Debux.DL\Debux.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\DebuxProduct\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+D:\DebuxProduct\Debux.DL\Debux.Common\obj\Debug\GenerateResource.read.1.tlog
+D:\DebuxProduct\Debux.DL\Debux.Common\obj\Debug\GenerateResource.write.1.tlog
+D:\DebuxProduct\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+D:\DebuxProduct\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.Common\obj\Debug\GenerateResource.read.1.tlog
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.Common\obj\Debug\GenerateResource.write.1.tlog
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+D:\Abhisek\Abhishek\DebuxProduct\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.Common\obj\Debug\GenerateResource.read.1.tlog
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.Common\obj\Debug\GenerateResource.write.1.tlog
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+D:\Rakesh\Date18-11-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.Common\obj\Debug\GenerateResource.read.1.tlog
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.Common\obj\Debug\GenerateResource.write.1.tlog
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+D:\Rakesh\DebuxDLBackup\Date26-11-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.Common\obj\Debug\GenerateResource.read.1.tlog
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.Common\obj\Debug\GenerateResource.write.1.tlog
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+D:\Shared Data\Work\Application Backup\DebuxDLBackup26112014\Date26-11-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.Common\obj\Debug\GenerateResource.read.1.tlog
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.Common\obj\Debug\GenerateResource.write.1.tlog
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Date04-11-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.Common\obj\Debug\GenerateResource.read.1.tlog
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.Common\obj\Debug\GenerateResource.write.1.tlog
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Date04-12-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.Common\obj\Debug\GenerateResource.read.1.tlog
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.Common\obj\Debug\GenerateResource.write.1.tlog
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+E:\rakesh D\WORK\Current Application\Date04-12-2014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.Common\obj\Debug\GenerateResource.read.1.tlog
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.Common\obj\Debug\GenerateResource.write.1.tlog
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+E:\rakesh D\WORK\Current Application\Debux Product\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.Common\obj\Debug\GenerateResource.read.1.tlog
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.Common\obj\Debug\GenerateResource.write.1.tlog
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Debux Product08122014\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.Common\obj\Debug\GenerateResource.read.1.tlog
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.Common\obj\Debug\GenerateResource.write.1.tlog
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+D:\Shared Data\Work\Current Application\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+E:\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+E:\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+E:\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+E:\Debux.DL\Debux.Common\obj\Debug\Debux.Common.csproj.GenerateResource.Cache
+E:\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+E:\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.Common\bin\Debug\Debux.Common.dll
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.Common\bin\Debug\Debux.Common.pdb
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.Common\obj\Debug\Debux.Common.Message.resources
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.Common\obj\Debug\GenerateResource.read.1.tlog
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.Common\obj\Debug\GenerateResource.write.1.tlog
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.Common\obj\Debug\Debux.Common.dll
+D:\Shared Data\Work\rakesh\Debux.DL17122014\Debux.Common\obj\Debug\Debux.Common.pdb
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.Common\obj\Debug\Debux.Common.csproj.GenerateResource.Cache
+E:\rakesh D\WORK\Current Application\Debux.DL\Debux.Common\obj\Debug\Debux.Common.csprojResolveAssemblyReference.cache
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.Common\obj\Debug\Debux.Common.csproj.GenerateResource.Cache
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+C:\Users\kamlesh\Desktop\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.Common\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.Common\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+C:\Users\Rakeshr\Desktop\Latest\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+E:\DaillyWork\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+E:\DaillyWork\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+E:\DaillyWork\Debux.DL\Debux.Common\obj\Debug\Debux.Common.csprojResolveAssemblyReference.cache
+E:\DaillyWork\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+E:\DaillyWork\Debux.DL\Debux.Common\obj\Debug\Debux.Common.csproj.GenerateResource.Cache
+E:\DaillyWork\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+E:\DaillyWork\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.Common\obj\Debug\Debux.Common.csproj.GenerateResource.Cache
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+D:\Kamlesh Data\Debux docs\Latest\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.Common\obj\Debug\Debux.Common.csproj.GenerateResource.Cache
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+D:\Kamlesh Data\Debux docs\Back up\rakesh 04062015\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.Common\obj\Debug\Debux.Common.csproj.GenerateResource.Cache
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+C:\Users\Abhi\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Debux.DL06102015\Debux.DL\Debux.Common\obj\Debug\Debux.Common.csprojResolveAssemblyReference.cache
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.Common\obj\Debug\Debux.Common.csproj.GenerateResource.Cache
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+D:\Kamlesh Data\Debux docs\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+D:\Work19June2015\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+D:\Work19June2015\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+D:\Work19June2015\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+D:\Work19June2015\Debux.DL\Debux.Common\obj\Debug\Debux.Common.csproj.GenerateResource.Cache
+D:\Work19June2015\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+D:\Work19June2015\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
+D:\Debux.DL\Debux.Common\bin\Debug\Debux.Common.dll
+D:\Debux.DL\Debux.Common\bin\Debug\Debux.Common.pdb
+D:\Debux.DL\Debux.Common\obj\Debug\Debux.Common.Message.resources
+D:\Debux.DL\Debux.Common\obj\Debug\Debux.Common.csproj.GenerateResource.Cache
+D:\Debux.DL\Debux.Common\obj\Debug\Debux.Common.dll
+D:\Debux.DL\Debux.Common\obj\Debug\Debux.Common.pdb
