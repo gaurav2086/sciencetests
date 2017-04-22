@@ -373,7 +373,7 @@ function GetBredCrumb(Breadcrumbtype, EbId, subjctid) {
     var INXML = "<Getlookup><ActionType>SelectBreadcrumbDetail</ActionType><GQEM_ID>" + EbId + "</GQEM_ID><SubjectId>" + subjctid + "</SubjectId></Getlookup>"
     $.ajax({
         type: "POST",
-        url: "frmExamBoardInfo.aspx/GetExamBoardDesc", // Location of the service 
+        url: "ExamBoardInfo.aspx/GetExamBoardDesc", // Location of the service 
 
         data: "{inXML : '" + INXML + "'}", //Data sent to server
         contentType: "application/json; charset=utf-8",
@@ -406,7 +406,7 @@ function GetExamBoardDesc(XML) {
 
     $.ajax({
         type: "POST",
-        url: "frmExamBoardInfo.aspx/GetExamBoardDesc", // Location of the service 
+        url: "ExamBoardInfo.aspx/GetExamBoardDesc", // Location of the service 
 
         data: "{inXML : '" + XML + "'}", //Data sent to server
         contentType: "application/json; charset=utf-8",

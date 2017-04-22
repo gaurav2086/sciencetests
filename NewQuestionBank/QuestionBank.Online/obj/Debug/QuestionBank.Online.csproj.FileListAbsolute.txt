@@ -42,3 +42,12 @@ E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank
 E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.Online\obj\Debug\QuestionBank.Online.dll
 E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.Online\obj\Debug\QuestionBank.Online.pdb
 E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.Online\bin\Newtonsoft.Json.xml
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.Online\bin\QuestionBank.Online.dll
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.Online\bin\QuestionBank.Online.pdb
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.Online\bin\Newtonsoft.Json.dll
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.Online\bin\QuestionBank.Common.dll
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.Online\bin\QuestionBank.Common.pdb
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.Online\bin\Newtonsoft.Json.xml
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.Online\obj\Debug\QuestionBank.Online.csprojResolveAssemblyReference.cache
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.Online\obj\Debug\QuestionBank.Online.dll
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.Online\obj\Debug\QuestionBank.Online.pdb
