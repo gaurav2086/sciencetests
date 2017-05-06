@@ -6050,6 +6050,7 @@ blockquote p {
 }
 .widget .styled-icons li a {
   margin-bottom: 0;
+  padding:8px;
 }
 .widget .tags a {
   border: 1px solid #404040;

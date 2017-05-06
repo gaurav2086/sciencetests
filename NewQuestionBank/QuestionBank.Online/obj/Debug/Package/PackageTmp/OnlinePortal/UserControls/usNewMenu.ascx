@@ -1,15 +1,12 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="usNewMenu.ascx.cs" Inherits="QuestionBank.Online.OnlinePortal.UserControls.usNewMenu" %>
-<script src='<%= ResolveUrl("../CommonFiles/OnlinePortalJS/Menu/newMenu.js")%>' type="text/javascript"></script>
-<ul class="menuzord-menu" id="MainMenu">
+<%--<script src='<%= ResolveUrl("../CommonFiles/OnlinePortalJS/Menu/newMenu.js")%>' type="text/javascript"></script>--%>
+<%--<script src="../CommonFiles/OnlinePortalJS/Menu/newMenu.js" type="text/javascript"></script>--%>
+<%--<ul class="menuzord-menu" id="MainMenu" >
     <li class="active"><a href="Home.aspx">Home </a></li>
-</ul>
-<%--
-
-
-
+</ul>--%>
 <ul class="menuzord-menu menuzord-indented scrollable" style="max-height: 400px;">
     <li class="scrollable-fix"></li>
-    <li><a href="Home.aspx">Home </a></li>
+    <li class="active"><a href="Home.aspx">Home </a></li>
     <li><a id="AllQlnkMenu-1-Qualification-A2" href="ExamBoardInfo.aspx?Type=Qualification">
         Qualification <span class="label label-info">New</span></a><ul class="dropdown">
             <li><a id="QlnkMenu-8-ExamBoard-A2" href="ExamBoardInfo.aspx?QualificationID=8&amp;QualificationName=A2">
@@ -109,7 +106,8 @@
                     <span>Physics</span></a></li><li><a id="CatgorySaubject-3-Category-Chemistry" href="ExamBoardInfo.aspx?SubjectName=Chemistry">
                         <span>Chemistry</span></a></li></ul>
     </li>
-    <li><a href="../../onlineportal/Pages/frmPromotionalSignIn.aspx"><span>Report</span></a></li>
-    <li><a href="../../onlineportal/Pages/frmPromotionalSignIn.aspx"><span>Membership</span></a></li>
-    </ul>
---%>
+    <li runat="server" id="lnkReportBeforelogin"><a href="../../onlineportal/Pages/frmPromotionalSignIn.aspx"><span>Report</span></a></li>
+    <li runat="server" id="lnkReportAfterLogin"><a href="../../onlineportal/Pages/frmReport.aspx"><span>Report</span></a></li>
+    
+    <%--<li><a href="../../onlineportal/Pages/frmPromotionalSignIn.aspx"><span>Membership</span></a></li>--%>
+</ul>

@@ -11,5 +11,23 @@ namespace QuestionBank.Online.OnlinePortal.UserControls {
     
     
     public partial class usNewMenu {
+        
+        /// <summary>
+        /// lnkReportBeforelogin control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl lnkReportBeforelogin;
+        
+        /// <summary>
+        /// lnkReportAfterLogin control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl lnkReportAfterLogin;
     }
 }

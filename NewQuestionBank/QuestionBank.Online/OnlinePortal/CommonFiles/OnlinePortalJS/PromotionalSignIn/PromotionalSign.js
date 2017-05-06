@@ -152,7 +152,8 @@ function Save_PromotionUserDetail() {
             window.location.href = 'frmDefault.aspx';
         },
         failur: function (msg) {
-            alert(msg);
+            //alert(msg);
+            alert("An error occurred please try again later..");
         }
     });
 }

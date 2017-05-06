@@ -19,6 +19,9 @@
                                 <th style="width: 8%; text-align: center;">
                                 User Name
                                 </th>
+                                  <th style="width: 8%; text-align: center;">
+                                User Email
+                                </th>
                                 <th style="width: 8%; text-align: center;">
                                 Plan Name
                                 </th>

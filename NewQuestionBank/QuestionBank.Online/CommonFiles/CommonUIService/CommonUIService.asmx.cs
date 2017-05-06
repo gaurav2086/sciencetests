@@ -56,7 +56,7 @@ namespace QuestionBank.Online.CommonFiles.CommonUIService
             }
             else
             {
-               // inXML = "<root><LookUp><Text>" + inXML + "</Text></LookUp></root>";
+                // inXML = "<root><LookUp><Text>" + inXML + "</Text></LookUp></root>";
                 GatewayServiceClient objRoutingService = new GatewayServiceClient();
                 string strOutput = string.Empty;
                 strOutput = objRoutingService.Execute(Module.Admin, ActionType.Select_Lookups, inXML, "", OutputType.JSON);
@@ -71,7 +71,7 @@ namespace QuestionBank.Online.CommonFiles.CommonUIService
 
         [WebMethod(EnableSession = true)]
         [ScriptMethod(ResponseFormat = ResponseFormat.Json, UseHttpGet = false)]
-        public  clsResponse GetExamBoardDesc(string inXML)
+        public clsResponse GetExamBoardDesc(string inXML)
         {
             return ClsUICommon.CallToGateWay(Module.Admin, ActionType.Select_ExamBoardDesc, inXML, OutputType.JSON);
         }

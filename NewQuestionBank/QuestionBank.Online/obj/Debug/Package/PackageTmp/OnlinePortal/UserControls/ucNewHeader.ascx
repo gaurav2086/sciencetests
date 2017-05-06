@@ -1,8 +1,8 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ucNewHeader.ascx.cs"
     Inherits="QuestionBank.Online.OnlinePortal.UserControls.ucNewHeader" %>
 <%@ Register TagPrefix="uc" TagName="Menu" Src="~/OnlinePortal/UserControls/usNewMenu.ascx" %>
-
 <header id="header" class="header">
+     
     <div class="header-top bg-theme-color-2 sm-text-center p-0">
       <div class="container">
         <div class="row">
@@ -16,14 +16,19 @@
                 <li>
                   <a class="text-white" href="#">Help Desk</a>
                 </li>
-                <li class="text-white">|</li>
-                <li>
+                <li class="text-white" runat="server" id="lblWhiteBar">|</li>
+                <li runat="server" id="loginLink">
                   <a class="text-white" href="../../onlineportal/Pages/frmPromotionalSignIn.aspx">Login</a>
                 </li>
 				<li class="text-white">|</li>
-                <li>
+                <li  runat="server" id="SignInLink">
                   <a class="text-white" href="/OnlinePortal/Pages/frmPromotionalSignIn.aspx">Register Here</a>
                 </li>
+                 <li runat="server" id="lnkUserName" class="text-white">
+              <b>   <asp:Label runat="server" ID="lblUserName"></asp:Label></b> 
+                
+                  </li>
+                
               </ul>
             </div>
           </div>

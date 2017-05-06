@@ -11,7 +11,16 @@ namespace QuestionBank.Online.OnlinePortal.UserControls
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (Convert.ToString(Session["DisplayUserName"]) != null && Convert.ToString(Session["DisplayUserName"]) != "")
+            {
+                lnkReportAfterLogin.Visible = true;
+                lnkReportBeforelogin.Visible = false;
+            }
+            else
+            {
+                lnkReportAfterLogin.Visible = false;
+                lnkReportBeforelogin.Visible = true;
+            }
         }
     }
 }

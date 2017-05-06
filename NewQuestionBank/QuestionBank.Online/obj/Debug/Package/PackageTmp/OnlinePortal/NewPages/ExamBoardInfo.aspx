@@ -1,6 +1,64 @@
-﻿<%@ Page Title="Science Tests | Education & Courses" Language="C#" MasterPageFile="~/OnlinePortal/NewMasterPage/newOnlinePortal.Master" AutoEventWireup="true" CodeBehind="ExamBoardInfo.aspx.cs" Inherits="QuestionBank.Online.OnlinePortal.NewPages.ExamBoardInfo" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+﻿<%@ Page Title="Science Tests | Education & Courses" Language="C#" MasterPageFile="~/OnlinePortal/NewMasterPage/newOnlinePortal.Master"
+    AutoEventWireup="true" CodeBehind="ExamBoardInfo.aspx.cs" Inherits="QuestionBank.Online.OnlinePortal.NewPages.ExamBoardInfo" %>
 
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <style type="text/css">
+        .subjectcontainer a
+        {
+            padding: 12px 10px;
+            display: block;
+            text-decoration: none;
+            text-align: center;
+            border: 4px solid;
+            color: #000;
+            font-family: 'open_sanssemibold';
+            border-color: transparent;
+        }
+        
+        
+        .color1
+        {
+            background-color: #95dde5;
+        }
+        
+        .color2
+        {
+            background-color: #95e5b3;
+        }
+        .color3
+        {
+            background-color: #c8e595;
+        }
+        .qualification_box
+        {
+            background-color: #d3d3d3;
+            font-family: 'open_sanslight';
+            text-align: center;
+            padding: 20px 2px 2px 20px;
+        }
+        
+        
+        
+        .quali_heading
+        {
+            font-size: 35px;
+            color: #F2184F;
+        }
+        .quali_desc
+        {
+            font-size: 14px;
+            color: #00adf1;
+        }
+        .topicSelect
+        {
+            background-color: #202C45 !important;
+            border-right: 6px solid #F2184F !important;
+            padding: 5px 5px 5px 15px;
+            color: white;
+            width: 20%;
+            margin-left: 106px;
+        }
+    </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <!-- Breadcrumb Start Here -->
@@ -48,9 +106,10 @@
                 </center>
             </div>
             <div id="Unit">
-                <div class="container text15pxblue">
+                <div class="container text15pxblue topicSelect">
                     Select Unit or Topics.
                 </div>
+                <br />
                 <div class="container">
                     <div class="row" id="DivUnit">
                     </div>
@@ -80,7 +139,8 @@
                 <div class="col-sm-8 questionmainbox">
                     <div class="blue20px row" id="Question">
                     </div>
-                    <div id="Divfiboptn"></div>
+                    <div id="Divfiboptn">
+                    </div>
                     <hr id="h1" />
                     <div id="DivMsgNonRegUser" style="visibility: hidden">
                         <span style='color: Red; font-size: 20px'>To Get All Question.Please Register with us.</span>
@@ -98,11 +158,8 @@
                     <div id="AnswerControl">
                     </div>
                     <div id="DivfibQuest">
-                
-                    
                     </div>
-
-                  <%--  <div id="DivfibQuest1">
+                    <%--  <div id="DivfibQuest1">
                     </div>--%>
                     <div class="questionimg" id="Expalnation">
                     </div>
@@ -159,12 +216,12 @@
                             </div>
                         </div>
                     </div>
-                  <div class="col-xs-12">
-                    <div class="row prob_attem_container">
-                        <br />
-                        <label id="Timer">
-                        </label>
-                        <%-- <div  id="Timer"></div>--%>
+                    <div class="col-xs-12">
+                        <div class="row prob_attem_container">
+                            <br />
+                            <label id="Timer">
+                            </label>
+                            <%-- <div  id="Timer"></div>--%>
                         </div>
                     </div>
                 </div>

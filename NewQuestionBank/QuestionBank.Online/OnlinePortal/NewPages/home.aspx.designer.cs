@@ -11,7 +11,7 @@ namespace QuestionBank.Online.OnlinePortal.NewPages
 {
 
 
-    public partial class frmExamBoardInfo
+    public partial class home
     {
     }
 }

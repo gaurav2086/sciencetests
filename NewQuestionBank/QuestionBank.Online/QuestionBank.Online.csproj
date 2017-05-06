@@ -2284,6 +2284,7 @@
     <Content Include="OnlinePortal\CommonFiles\OnlinePortalJS\ExamBoard\newExamBoardDesc.js" />
     <Content Include="OnlinePortal\CommonFiles\OnlinePortalJS\Membership\Membership.js" />
     <Content Include="OnlinePortal\CommonFiles\OnlinePortalJS\Menu\newMenu.js" />
+    <Content Include="OnlinePortal\CommonFiles\OnlinePortalJS\PromotionalSignIn\HomePromotionalSign.js" />
     <Content Include="OnlinePortal\CommonFiles\OnlinePortalJS\PromotionalSignIn\PromotionalSign.js" />
     <Content Include="OnlinePortal\Img\new.gif" />
     <Content Include="OnlinePortal\Includes\ajax-load\bootstrap-parent-modal.html" />
@@ -3158,6 +3159,7 @@
     <Compile Include="Admin\frmHome.aspx.designer.cs">
       <DependentUpon>frmHome.aspx</DependentUpon>
     </Compile>
+    <Compile Include="EmailHelper.cs" />
     <Compile Include="frmLogin.aspx.cs">
       <DependentUpon>frmLogin.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

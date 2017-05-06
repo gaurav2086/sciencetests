@@ -7,6 +7,9 @@ $(function () {
 
 });
 
+//$(document).ready(function () {
+//    BindMenu();
+//});
 
 
 
@@ -94,7 +97,8 @@ function BindMenu() {
             }
             //  MainMenu += "</ul>";
             $("#MainMenu").append(MainMenu);
-         
+            $('.dropdown-toggle').dropdown();
+
         },
         failur: function (msg) {
 

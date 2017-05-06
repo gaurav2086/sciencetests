@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="Science Tests | Education & Courses" Language="C#" MasterPageFile="~/OnlinePortal/NewMasterPage/newOnlinePortal.Master"
-    AutoEventWireup="true" CodeBehind="home.aspx.cs" Inherits="QuestionBank.Online.OnlinePortal.NewPages.frmExamBoardInfo" %>
+    AutoEventWireup="true" CodeBehind="home.aspx.cs" Inherits="QuestionBank.Online.OnlinePortal.NewPages.home" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
@@ -494,34 +494,57 @@
               </div>
             </div>
             <div class="col-md-4">
-             <div class="p-30 mt-0 bg-theme-colored" style="display:none">
+             <div class="p-30 mt-0 bg-theme-colored">
               <h3 class="title-pattern mt-0"><span class="text-white">Promotional <span class="text-theme-color-2">Sign In</span></span></h3>
               <!-- Appilication Form Start-->
               <form id="promotonal_signin" name="signin" class="reservation-form mt-20" method="post" action="#">
                 <div class="row">
                   <div class="col-sm-12">
                     <div class="form-group mb-20">
-                      <input placeholder="Enter Name" type="text" id="enter _your_name" name="enter _your_name" required="" class="form-control">
+                      <input placeholder="Enter Name" type="text" id="txtFirstName" name="enter _your_name" required="" class="form-control">
                     </div>
                   </div>
-                  <div class="col-sm-12">
+                    <div class="col-sm-12">
                     <div class="form-group mb-20">
-                      <input placeholder="Email" type="text" id="email" name="email" class="form-control" required="">
+                      <input placeholder="Enter Surname" type="text" id="txtSurmane" name="enter _your_name" required="" class="form-control">
                     </div>
-                  </div>                  
+                  </div>
                   
                   <div class="col-sm-12">
                     <div class="form-group mb-20">
-                      <input name="Password" class="form-control required" type="password" placeholder="Password" aria-required="true">
+                      <input placeholder="Email" type="text" id="txtEmailId" name="email" class="form-control" required=""  >
+                      <span id="lblemailerror" style="color: red !important"> Invalid email address</span>
                     </div>
                   </div>                  
+                   <div class="col-sm-12">
+                    <div class="form-group mb-20">
+                      <input placeholder="Phone" type="text" id="txtPhone" name="Phone" class="form-control" >
+                      <span id="lblPhone" style="color: red !important"> Invalid Phone Number</span>
+                    </div>
+                  </div>    
+                  <div class="col-sm-12">
+                    <div class="form-group mb-20">
+                      <input name="Password" id="txtPwd" class="form-control required" type="password" placeholder="Password" aria-required="true">
+                    </div>
+                  </div>       
+                   <div class="col-sm-12">
+                    <div class="form-group mb-20">
+                      <input name="Password" id="txtConPwd" class="form-control required" type="password" placeholder="Password Confirm" aria-required="true">
+                      <span id="stxtpwd" style="color:red !important"> </span>
+                    </div>
+                  </div> 
+                             
                   <div class="col-sm-12">
                     <div class="form-group mb-0 mt-10">
                       <input name="form_botcheck" class="form-control" type="hidden" value="">
-                      <button type="submit" class="btn btn-colored btn-theme-color-2 text-white btn-lg btn-block" data-loading-text="Please wait...">Create Account</button>
+                      <button type="button" id="btnSubmit" class="btn btn-colored btn-theme-color-2 text-white btn-lg btn-block" data-loading-text="Please wait...">Create Account</button>
+                   <%--
+                   <input type="button" id="Button1" class="btn btn-primary" value="Create Acc." /></div>--%>
+                   
                     </div>
                   </div>
                 </div>
+                 <script src="../CommonFiles/OnlinePortalJS/PromotionalSignIn/HomePromotionalSign.js"   type="text/javascript"></script>
               </form>
               <!-- Application Form End-->
 

@@ -10,6 +10,7 @@ using QuestionBank.Common;
 using QuestionBank.Online.App_Code;
 using QuestionBank.Online.GatewayService;
 
+
 namespace QuestionBank.Online.OnlinePortal.Pages
 {
     public partial class frmPromotionalSignIn : System.Web.UI.Page
@@ -24,7 +25,23 @@ namespace QuestionBank.Online.OnlinePortal.Pages
         public static clsResponse Save_PromotionUserDetail(string inXML)
         {
 
-            return ClsUICommon.CallToGateWay(Module.Admin, ActionType.Save_MembershipDetails, inXML, OutputType.JSON);
+            clsResponse retVal = null;
+            string displayUserName = string.Empty;
+            try
+            {
+                retVal = ClsUICommon.CallToGateWay(Module.Admin, ActionType.Save_MembershipDetails, inXML, OutputType.JSON);
+
+                EmailHelper.SendRegistrationEmail(inXML, out displayUserName);
+
+                if (!string.IsNullOrEmpty(displayUserName))
+                    HttpContext.Current.Session["DisplayUserName"] = displayUserName;
+
+            }
+            catch (Exception ex)
+            {
+                string msg = ex.Message;
+            }
+            return retVal;
         }
     }
 }
