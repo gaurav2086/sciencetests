@@ -2283,6 +2283,7 @@
     <Content Include="OnlinePortal\CommonFiles\css\style.css" />
     <Content Include="OnlinePortal\CommonFiles\OnlinePortalJS\ExamBoard\newExamBoardDesc.js" />
     <Content Include="OnlinePortal\CommonFiles\OnlinePortalJS\Membership\Membership.js" />
+    <Content Include="OnlinePortal\CommonFiles\OnlinePortalJS\Menu\OldMenu.js" />
     <Content Include="OnlinePortal\CommonFiles\OnlinePortalJS\Menu\newMenu.js" />
     <Content Include="OnlinePortal\CommonFiles\OnlinePortalJS\PromotionalSignIn\HomePromotionalSign.js" />
     <Content Include="OnlinePortal\CommonFiles\OnlinePortalJS\PromotionalSignIn\PromotionalSign.js" />

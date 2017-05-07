@@ -70,7 +70,8 @@
         <div class="row">
           <div class="col-xs-12 col-sm-4 col-md-5">
             <div class="widget no-border m-0">
-              <a class="menuzord-brand pull-left flip xs-pull-center mb-15" href="javascript:void(0)"><img src="../Includes/images/logo.jpg" alt="" /></a>
+              <%--<a class="menuzord-brand pull-left flip xs-pull-center mb-15" href="javascript:void(0)"><img src="../Includes/images/logo.jpg" alt="" /></a>--%>
+              <a class="menuzord-brand pull-left flip xs-pull-center mb-15" href="../../OnlinePortal/NewPages/Home.aspx"><img src="../Includes/images/logo.jpg" alt="" /></a>
             </div>
           </div>
           <div class="col-xs-12 col-sm-4 col-md-4">

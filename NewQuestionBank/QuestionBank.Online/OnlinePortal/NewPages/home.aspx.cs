@@ -22,6 +22,15 @@ namespace QuestionBank.Online.OnlinePortal.NewPages
         protected void Page_Load(object sender, EventArgs e)
         {
 
+            if (Session["DisplayUserName"] != null)
+            {
+                divSignIn.Visible = false;
+            }
+            else
+            {
+                divSignIn.Visible = true;
+            }
+
         }
         [WebMethod(EnableSession = true)]
         [ScriptMethod(ResponseFormat = ResponseFormat.Json, UseHttpGet = false)]

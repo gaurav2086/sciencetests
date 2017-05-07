@@ -18,11 +18,11 @@
           <div class="widget dark">
             <h4 class="widget-title">Useful Links</h4>
             <ul class="list angle-double-right list-border">
-              <li><a href="#">About Us</a></li>
+              <li><a href="../../onlineportal/Pages/frmAboutUs.aspx">About Us</a></li>
               <li><a href="#">Our Courses</a></li>
-              <li><a href="#">Reports</a></li>
+              <li><a href="../../onlineportal/pages/frmReport.aspx">Reports</a></li>
               <li><a href="#">Membership</a></li>
-              <li><a href="#">Contact US</a></li>              
+              <li><a href="../../onlineportal/Pages/frmContactus.aspx">Contact US</a></li>              
             </ul>
           </div>
         </div>
@@ -50,7 +50,7 @@
 		  <div class="widget dark">
             <h5 class="widget-title mb-10">Connect With Us</h5>
             <ul class="styled-icons icon-bordered icon-sm">
-              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="https://www.facebook.com/sciencetests/"><i class="fa fa-facebook"></i></a></li>
               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
               <li><a href="#"><i class="fa fa-skype"></i></a></li>
               <li><a href="#"><i class="fa fa-youtube"></i></a></li>

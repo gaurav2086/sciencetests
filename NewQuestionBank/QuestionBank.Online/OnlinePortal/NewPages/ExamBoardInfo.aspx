@@ -3,6 +3,54 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <style type="text/css">
+        .questionmainbox {
+    padding: 37px 20px 20px 20px;
+  
+}
+.flip-clock-wrapper ul{
+	
+	width: 41px !important;
+}
+        .prob_attem_container
+        {
+         padding-bottom:10px;
+            }
+        .score_box {
+    display: block;
+    min-width: 45px;
+    margin-right: 10px;
+    text-align: center;
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    background-color: #7f5799;
+    padding: 10px 0px;
+    height: 41px;
+    vertical-align: middle;
+    text-align: center;
+    color: #fff;
+    font-size: 13px;
+    text-decoration: none;
+    font-family: 'open_sansregular';
+}
+        .problems_box {
+    display: block;
+    min-width: 45px;
+    margin-right: -15px;
+    text-align: center;
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    background-color: #7ea82b;
+    padding: 10px 0px;
+    height: 41px;
+    vertical-align: middle;
+    color: #ffffff;
+    font-size: 13px;
+    text-decoration: none;
+    float: right !important;
+    font-family: 'open_sansregular';
+}
         .subjectcontainer a
         {
             padding: 12px 10px;

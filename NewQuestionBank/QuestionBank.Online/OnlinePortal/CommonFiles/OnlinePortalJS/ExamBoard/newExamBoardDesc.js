@@ -1067,7 +1067,8 @@ function SubmitAnswer() {
     var XML = CreateXML(parameters, values);
     $.ajax({
         type: "POST",
-        url: "frmExamBoardInfo.aspx/SubmitAnswer", // Location of the service 
+        //   url: "frmExamBoardInfo.aspx/SubmitAnswer", // Location of the service 
+        url: "ExamBoardInfo.aspx/SubmitAnswer", // Location of the service 
         data: "{inXML : '" + XML + "'}", //Data sent to server
         contentType: "application/json; charset=utf-8",
         dataType: "json",
