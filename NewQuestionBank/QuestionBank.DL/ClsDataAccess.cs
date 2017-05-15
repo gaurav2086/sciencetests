@@ -115,7 +115,8 @@ namespace QuestionBank.DL
                             MYCommand.CommandType = CommandType.StoredProcedure; 						//'Setting the Command Type as Stored Procedure
                             MYCommand.CommandTimeout = 900;
                             MYCommand.Parameters.Add(new SqlParameter("@XMLParam", strXMLInput));    //'Adding the Parameter to the Stored Procedure
-                            returnValue = Convert.ToInt32(MYCommand.ExecuteScalar());
+                            var retval = MYCommand.ExecuteNonQuery(); //MYCommand.ExecuteScalar();
+                            returnValue = Convert.ToInt32(retval);
                         }
 
                         MyConnection.Close();
@@ -255,7 +256,7 @@ namespace QuestionBank.DL
                     case Select.Select_DistinctSubject:
                         strSPName = "SP_Select_DistinctSubject";
                         break;
-                        
+
                     case Select.Select_Unit:
                         strSPName = "SP_Select_Unit";
                         break;
@@ -282,14 +283,14 @@ namespace QuestionBank.DL
                         break;
                     case Select.Select_MembershipPlanDetails:
                         strSPName = "QSP_GetMembershipPlanDetails";
-                    break;
+                        break;
                     case Select.Select_ReportDetails:
-                    strSPName = "QSP_GetReportDetails";
-                    break;
+                        strSPName = "QSP_GetReportDetails";
+                        break;
                     case Select.Select_UserDetail:
-                    strSPName = "QSP_Select_UserDetail";
-                    break;
-                        
+                        strSPName = "QSP_Select_UserDetail";
+                        break;
+
                     //.........End
                 }
 
@@ -511,7 +512,7 @@ namespace QuestionBank.DL
                         case Delete.Delete_UserDetail:
                             strSPName = "QB_Delete_UserDetail";
                             break;
-                            
+
                     }
 
                     if (strSPName != "")

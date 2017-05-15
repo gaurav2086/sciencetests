@@ -20,7 +20,7 @@ namespace QuestionBank.Online.OnlinePortal.Pages
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Response.Redirect("~/OnlinePortal/NewPages/home.aspx");
         }
 
         [WebMethod(EnableSession = true)]
@@ -35,9 +35,9 @@ namespace QuestionBank.Online.OnlinePortal.Pages
         public static clsResponse SaveMembershipDetails(string inXML)
         {
             DataTable dtUserInfo = new DataTable();
-           // DataSet ds = new DataSet();
+            // DataSet ds = new DataSet();
             //ds.Tables.Add(dtUserInfo);
-            
+
             GatewayServiceClient objRoutingService = new GatewayServiceClient();
             clsResponse objResponse = new clsResponse();
             string strOutput = string.Empty;
@@ -65,7 +65,7 @@ namespace QuestionBank.Online.OnlinePortal.Pages
             dtUserInfo.Columns.Add(DCUCurrencyCode);
             dtUserInfo.Columns.Add(DCUTotalPaid);
 
-           
+
 
             XmlDocument xmldoc = new XmlDocument();
             xmldoc.LoadXml(strinXML.ToString());

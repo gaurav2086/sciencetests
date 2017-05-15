@@ -4,7 +4,7 @@ var GlobalServiceURL = GlobalPath + "/CommonFiles/CommonUIService/CommonUIServic
 
 $(function () {
     BindMenu();
-   
+
 });
 
 
@@ -38,7 +38,7 @@ function BindMenu() {
                     for (var l = 0; l < obj.Table3.length; l++) {// for loop start for Bind Subject
 
                         if (obj.Table2[j].GQEMID == obj.Table3[l].GQEMID) {
-//                            Subject += "<li><a  id='SubjectlnkMenu-" + obj.Table3[l].SubjectID + "-Unit-" + obj.Table3[l].SubjectName + "' href='frmExamBoardInfo.aspx?SubjectID=" + obj.Table3[l].SubjectID + "&SubjectNames=" + obj.Table3[l].SubjectName + "'><span>" + obj.Table3[l].SubjectName + "</span></a></li>";
+                            //                            Subject += "<li><a  id='SubjectlnkMenu-" + obj.Table3[l].SubjectID + "-Unit-" + obj.Table3[l].SubjectName + "' href='frmExamBoardInfo.aspx?SubjectID=" + obj.Table3[l].SubjectID + "&SubjectNames=" + obj.Table3[l].SubjectName + "'><span>" + obj.Table3[l].SubjectName + "</span></a></li>";
                             Subject += "<li><a  id='SubjectlnkMenu-" + obj.Table3[l].SubjectID + "-Unit-" + obj.Table3[l].SubjectName + "' href='../NewPages/ExamBoardInfo.aspx?SubjectID=" + obj.Table3[l].SubjectID + "&SubjectNames=" + obj.Table3[l].SubjectName + "'><span>" + obj.Table3[l].SubjectName + "</span></a></li>";
                         }
 
@@ -77,19 +77,19 @@ function BindMenu() {
                 }
                 else {
 
-                    if (obj.Table[k].MenuId == '3') {
-                        MainMenu += " <li><a href='frmReport.aspx'><span>" + obj.Table[k].MenuName + "</span></a></li>";
-                    }
+                    //                    if (obj.Table[k].MenuId == '3') {
+                    //                        MainMenu += " <li><a href='frmReport.aspx'><span>" + obj.Table[k].MenuName + "</span></a></li>";
+                    //                    }
                     //To show Membership remove commnet
-//                    else if (obj.Table[k].MenuId == '4') {
-//                        MainMenu += " <li><a href='frmMembership.aspx'><span>" + obj.Table[k].MenuName + "</span></a></li>";
-//                    }
-                   
+                    //                    else if (obj.Table[k].MenuId == '4') {
+                    //                        MainMenu += " <li><a href='frmMembership.aspx'><span>" + obj.Table[k].MenuName + "</span></a></li>";
+                    //                    }
+
                 }
 
 
             }
-          //  MainMenu += "</ul>";
+            //  MainMenu += "</ul>";
             $("#MainMenu").append(MainMenu);
 
         },

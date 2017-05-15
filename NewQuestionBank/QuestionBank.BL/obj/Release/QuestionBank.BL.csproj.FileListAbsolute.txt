@@ -9,3 +9,14 @@ E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank
 E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.BL\obj\Release\QuestionBank.BL.csprojResolveAssemblyReference.cache
 E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.BL\obj\Release\QuestionBank.BL.dll
 E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.BL\obj\Release\QuestionBank.BL.pdb
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.BL\bin\Release\QuestionBank.BL.dll
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.BL\bin\Release\QuestionBank.BL.pdb
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.BL\bin\Release\QuestionBank.Common.dll
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.BL\bin\Release\QuestionBank.DL.dll
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.BL\bin\Release\Newtonsoft.Json.dll
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.BL\bin\Release\QuestionBank.Common.pdb
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.BL\bin\Release\QuestionBank.DL.pdb
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.BL\bin\Release\Newtonsoft.Json.xml
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.BL\obj\Release\QuestionBank.BL.csprojResolveAssemblyReference.cache
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.BL\obj\Release\QuestionBank.BL.dll
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.BL\obj\Release\QuestionBank.BL.pdb

@@ -6,7 +6,7 @@
 
 
     $("#btnSubmit").click(function () {
-        debugger;
+       
         if ($("#txtPwd").val() != $("#txtConPwd").val()) {
             $("#stxtpwd").text("Confirm Password not match with password ");
             return false;
@@ -38,7 +38,7 @@
 });
 
 $("#txtEmailId").change(function () {
-    debugger;
+    
     if (EmailValidation($("#txtEmailId").val()) == false) {
         $("#lblemailerror").show();
         return false;
@@ -50,7 +50,7 @@ $("#txtEmailId").change(function () {
 
 
 $("#txtPhone").change(function () {
-    debugger;
+   
     if (PhoneValidation($("#txtPhone").val()) == false) {
         $("#lblPhone").show();
         return false;
@@ -98,9 +98,15 @@ function Save_PromotionUserDetail() {
         contentType: "application/json; charset=utf-8",
         dataType: "json",
         success: function (data) {
-            alert("Your promotional account has been created successfully....!");
-            ClearControl();
-            window.location.href = 'home.aspx';
+           
+            if (data.d.responseMessage == "Success") {
+                alert("Your promotional account has been created successfully....!");
+                ClearControl();
+                window.location.href = 'home.aspx';
+            }
+            else {
+                alert("This email id is already registered with up....!");
+            }
 
         },
         failur: function (msg) {

@@ -9,6 +9,7 @@
 <head runat="server">
  <title>Online Portal</title>
  <link rel="stylesheet" type="text/css" href="../CommonFiles/css/main.css"/>
+ <link rel="stylesheet" type="text/css" href="../CommonFiles/css/flipclock.css"/>
     <link rel="stylesheet" href="../CommonFiles/homeslider/responsiveslides.css"/>
 <link rel="stylesheet" type="text/css" href="../CommonFiles/css/bootstrap.css"/>
     <link href="../CommonFiles/menu/styles.css" rel="stylesheet" type="text/css" />

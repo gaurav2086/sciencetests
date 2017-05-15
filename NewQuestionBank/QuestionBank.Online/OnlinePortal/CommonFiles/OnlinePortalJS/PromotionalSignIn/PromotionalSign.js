@@ -147,9 +147,14 @@ function Save_PromotionUserDetail() {
         contentType: "application/json; charset=utf-8",
         dataType: "json",
         success: function (data) {
+            // if (data.d.responseMessage == "Success") {
             alert("Your promotional account has been created successfully....!");
             ClearControl();
-            window.location.href = 'frmDefault.aspx';
+            // window.location.href = 'frmDefault.aspx';
+            window.location.href = '../../OnlinePortal/NewPages/Home.aspx';
+            //            } else {
+            //                alert("This email id is already registered with up....!");
+            //            }
         },
         failur: function (msg) {
             //alert(msg);

@@ -2,3 +2,7 @@ E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank
 E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\Design.UI\bin\Design.UI.pdb
 E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\Design.UI\obj\Release\Design.UI.dll
 E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\Design.UI\obj\Release\Design.UI.pdb
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\Design.UI\bin\Design.UI.dll
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\Design.UI\bin\Design.UI.pdb
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\Design.UI\obj\Release\Design.UI.dll
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\Design.UI\obj\Release\Design.UI.pdb

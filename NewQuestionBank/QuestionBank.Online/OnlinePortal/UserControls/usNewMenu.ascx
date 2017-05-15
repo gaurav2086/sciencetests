@@ -4,6 +4,34 @@
 <%--<ul class="menuzord-menu" id="MainMenu" >
     <li class="active"><a href="Home.aspx">Home </a></li>
 </ul>--%>
+<style>
+    .formStype
+    {
+    }
+    .adminLink
+    {
+        margin-left: 90px;
+    }
+    .useName
+    {
+        color: white;
+        margin-left: 90px;
+        font-size: 13pt;
+    }
+    @media screen and (max-width: 600px) and (min-width: 320px)
+    {
+        .adminLink
+        {
+            margin-left: 0px;
+        }
+        .useName
+        {
+            margin-left: 0px;
+        }
+    }
+</style>
+<a class="menuzord-brand pull-left flip xs-pull-center mb-15" href="../../OnlinePortal/NewPages/Home.aspx">
+    <img src="../Includes/images/logo.jpg" alt="" /></a>
 <ul class="menuzord-menu menuzord-indented scrollable" style="max-height: 400px;">
     <li class="scrollable-fix"></li>
     <li class="active"><a href="Home.aspx">Home </a></li>
@@ -99,15 +127,30 @@
             </li>
         </ul>
     </li>
-    <li><a id="SubjectforCategory-2-Category-Biology" href="ExamBoardInfo.aspx?Type=SubjectCategory">
+    <li style="display: none"><a id="SubjectforCategory-2-Category-Biology" href="ExamBoardInfo.aspx?Type=SubjectCategory">
         Subject</a><ul class="dropdown">
             <li><a id="CatgorySaubject-1-Category-Biology" href="ExamBoardInfo.aspx?SubjectName=Biology">
                 <span>Biology</span></a></li><li><a id="CatgorySaubject-2-Category-Physics" href="ExamBoardInfo.aspx?SubjectName=Physics">
                     <span>Physics</span></a></li><li><a id="CatgorySaubject-3-Category-Chemistry" href="ExamBoardInfo.aspx?SubjectName=Chemistry">
                         <span>Chemistry</span></a></li></ul>
     </li>
-    <li runat="server" id="lnkReportBeforelogin"><a href="../../onlineportal/Pages/frmPromotionalSignIn.aspx"><span>Report</span></a></li>
-    <li runat="server" id="lnkReportAfterLogin"><a href="../../onlineportal/Pages/frmReport.aspx"><span>Report</span></a></li>
-    
+    <%--remove this section --%>
+    <li><a href="ExamBoardInfo.aspx?SubjectName=Biology">BIOLOGY</a></li>
+    <li><a href="ExamBoardInfo.aspx?SubjectName=Physics">PHYSICS</a></li>
+    <li><a href="ExamBoardInfo.aspx?SubjectName=Chemistry">CHEMISTRY</a></li>
+    <li style="display: none" runat="server" id="lnkReportBeforelogin"><a href="../../onlineportal/Pages/frmPromotionalSignIn.aspx">
+        <span>Report</span></a></li>
+    <li style="display: none" runat="server" id="lnkReportAfterLogin"><a href="../../onlineportal/Pages/frmReport.aspx">
+        <span>Report</span></a></li>
+    <li id="lnkSignIn" runat="server"><a href="../../onlineportal/Pages/frmPromotionalSignIn.aspx"
+        class="blink"><i class="fa fa-cog fa-spin fa-fw"></i>Free Login</a></li>
     <%--<li><a href="../../onlineportal/Pages/frmPromotionalSignIn.aspx"><span>Membership</span></a></li>--%>
+    <li id="lnkAdminEmail" runat="server"><a class="adminLink" href="mailto:admin@sciencetests.co.uk">
+        [ Contact us - admin@sciencetests.co.uk ]</a></li>
+   <%-- <li class="useName" id="divLoginAfter" runat="server">
+        <form id="Form1" runat="server" style="margin-bottom: 0">
+        <asp:Label runat="server" ID="lblUserName"></asp:Label>&nbsp;&nbsp;
+        <asp:Button ID="btnlogout" runat="server" Text="Logout" class="btn-default" OnClick="btnlogout_Click" />
+        </form>
+    </li>--%>
 </ul>

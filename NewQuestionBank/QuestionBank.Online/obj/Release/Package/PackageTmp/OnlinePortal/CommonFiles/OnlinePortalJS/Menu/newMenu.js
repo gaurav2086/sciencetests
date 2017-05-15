@@ -7,6 +7,9 @@ $(function () {
 
 });
 
+//$(document).ready(function () {
+//    BindMenu();
+//});
 
 
 
@@ -80,10 +83,10 @@ function BindMenu() {
                 else {
 
                     if (obj.Table[k].MenuId == '3') {
-                        MainMenu += " <li><a href='frmReport.aspx'><span>" + obj.Table[k].MenuName + "</span></a></li>";
+                        MainMenu += " <li><a href='../Pages/frmReport.aspx'><span>" + obj.Table[k].MenuName + "</span></a></li>";
                     }
                     else if (obj.Table[k].MenuId == '4') {
-                        MainMenu += " <li><a href='frmMembership.aspx'><span>" + obj.Table[k].MenuName + "</span></a></li>";
+                        MainMenu += " <li><a href='../Pages/frmMembership.aspx'><span>" + obj.Table[k].MenuName + "</span></a></li>";
                     }
                     //                    else {
                     //                        MainMenu += " <li><a href='#'><span>" + obj.Table[k].MenuName + "</span></a></li>";
@@ -94,7 +97,8 @@ function BindMenu() {
             }
             //  MainMenu += "</ul>";
             $("#MainMenu").append(MainMenu);
-         
+            $('.dropdown-toggle').dropdown();
+
         },
         failur: function (msg) {
 

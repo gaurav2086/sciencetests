@@ -2,8 +2,8 @@
     AutoEventWireup="true" CodeBehind="frmDefault.aspx.cs" Inherits="QuestionBank.Online.OnlinePortal.Pages.defaut" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-<style type="text/css">
-/*   #container {
+    <style type="text/css">
+        /*   #container {
     border-radius: 10px;
     text-align: left;
  
@@ -61,99 +61,106 @@
     word-wrap: break-word;
     clear: both;
 }*/
-
-
-
-#header {
-    margin: 0px;
-    padding: 5px 5px 5px 5px;
-    color: #FFFFFF;
-     width:300px;
-  overflow: hidden;
-  float:inherit;
-  margin-top:10px;
-    background-color: #0D8EFF;
-    background-image: none;
-
-}
-#header .feed_title {
-    margin: 0;
-    padding: 0;
-     color: #FFFFFF;
-    font-weight: bold;
-    word-wrap: break-word;
-}
-
- .feed_item {
-    margin: 0 0 7px 0;
-    padding: 0 0 7px 0;
-    border-bottom: 0px dashed #CCCCCC;
-    clear: both;
-}
-
-.feed_item_title {
-    margin: 1px 0 1px 3px;
-    padding: 1px 2px 1px 3px;
-    color: #0D8EFF;
-    font-weight: bold;
-}
-
-.feed_item_description {
-    overflow: hidden;
-    margin: 0 0 0 3px;
-    padding: 0 2px 0 3px;
-    color: #757575;
-    line-height: 135%;
-    word-wrap: break-word;
-    clear: both;
-}
-
-
-.text-center { text-align: center; }
-
-.text-right { text-align: right; }
-
-.text-justify { text-align: justify; }
-
-.newstape 
-{
-    
-    text-align: left;
- 
-    margin: 0;
-    margin-top:0px;
-    padding: 0;
-    width: 300px;
-  
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
-    border: 0px solid #CCCCCC;
-   
-  background-color: #FFFFFF;
-  color: #757575;
-  line-height: 135%;
-  height:200px;
-  width:300px;
-  overflow: hidden;
-  float:inherit;
-  margin-top:2px;
-}
-
-.newstape-content {
-  position: relative;
-  padding: 15px;
-  
-}
-
-.newstape-drag { cursor: ns-resize; }
-
-
-</style>
+        
+        
+        
+        #header
+        {
+            margin: 0px;
+            padding: 5px 5px 5px 5px;
+            color: #FFFFFF;
+            width: 300px;
+            overflow: hidden;
+            float: inherit;
+            margin-top: 10px;
+            background-color: #0D8EFF;
+            background-image: none;
+        }
+        #header .feed_title
+        {
+            margin: 0;
+            padding: 0;
+            color: #FFFFFF;
+            font-weight: bold;
+            word-wrap: break-word;
+        }
+        
+        .feed_item
+        {
+            margin: 0 0 7px 0;
+            padding: 0 0 7px 0;
+            border-bottom: 0px dashed #CCCCCC;
+            clear: both;
+        }
+        
+        .feed_item_title
+        {
+            margin: 1px 0 1px 3px;
+            padding: 1px 2px 1px 3px;
+            color: #0D8EFF;
+            font-weight: bold;
+        }
+        
+        .feed_item_description
+        {
+            overflow: hidden;
+            margin: 0 0 0 3px;
+            padding: 0 2px 0 3px;
+            color: #757575;
+            line-height: 135%;
+            word-wrap: break-word;
+            clear: both;
+        }
+        
+        
+        .text-center
+        {
+            text-align: center;
+        }
+        
+        .text-right
+        {
+            text-align: right;
+        }
+        
+        .text-justify
+        {
+            text-align: justify;
+        }
+        
+        .newstape
+        {
+            text-align: left;
+            margin: 0;
+            margin-top: 0px;
+            padding: 0;
+            width: 300px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            border: 0px solid #CCCCCC;
+            background-color: #FFFFFF;
+            color: #757575;
+            line-height: 135%;
+            height: 200px;
+            width: 300px;
+            overflow: hidden;
+            float: inherit;
+            margin-top: 2px;
+        }
+        
+        .newstape-content
+        {
+            position: relative;
+            padding: 15px;
+        }
+        
+        .newstape-drag
+        {
+            cursor: ns-resize;
+        }
+    </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-
-
-   
     <div class="homeslider">
         <ul class="rslides" id="slider1">
             <li>
@@ -166,11 +173,8 @@
                 <img src='<%=ResolveUrl ("../CommonFiles/img/img4.jpg")%>' alt=""></li>
         </ul>
     </div>
-   
-  
-   
     <!-- Collage End Here -->
-   <%-- <div class="Subject_Container">
+    <%-- <div class="Subject_Container">
         <div class="container">
         <div class="col-md-8">
             <div class="heading">
@@ -194,11 +198,8 @@
         </div>
         
     </div>--%>
-   
-   
-  
     <!-- Middle Start Here -->
-   <%-- <div class="Qualifi_Container">
+    <%-- <div class="Qualifi_Container">
         <div class="container">
             <div class="heading">
                 Qualification</div>
@@ -208,49 +209,39 @@
             </div>
         </div>
     </div>--%>
-
- <div class="Subject_Container">
-    <div class="container">
-      
-      <div class="col-sm-8">
-      <%--<div id="DivMainsubject" style="visibility:hidden">
+    <div class="Subject_Container">
+        <div class="container">
+            <div class="col-sm-8">
+                <%--<div id="DivMainsubject" style="visibility:hidden">
       <div class="heading">
                 Subjects</div>
             <div class="row" id="DivSubject">
             </div>
       </div>--%>
-      
-       <div class="Qualifi_Container">
-
-      <div class="heading">Qualification</div>
-      <div class="row">
-            <div class="row" id="QualifDiv">
-            </div>
-            <div id="QualifDiv1" class="row rowmargin">
-            </div>
-      </div>
-      
-      </div>
-      </div>
-      
-      <div class="col-sm-4">
-      <div id="header">
-                    <div class="feed_title">
-                       <a href="#" target="_blank" rel="nofollow">BBC News</a>
-                     </div>
-           </div>
-            <div class="newstape">
-           
-                <div class="newstape-content" id="content">
-                  
+                <div class="Qualifi_Container">
+                    <div class="heading">
+                        Qualification</div>
+                    <div class="row">
+                        <div class="row" id="QualifDiv">
+                        </div>
+                        <div id="QualifDiv1" class="row rowmargin">
+                        </div>
+                    </div>
                 </div>
             </div>
-      </div>
-      
+            <div class="col-sm-4">
+                <div id="header">
+                    <div class="feed_title">
+                        <a href="#" target="_blank" rel="nofollow">BBC News</a>
+                    </div>
+                </div>
+                <div class="newstape">
+                    <div class="newstape-content" id="content">
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-
-
     <div class="icon_section">
         <article>
 			<img src='<%=ResolveUrl ("../CommonFiles/img/home_bg_img.jpg")%>' alt="" data-parallax='{"y": 130}'/>

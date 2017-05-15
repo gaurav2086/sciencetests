@@ -519,7 +519,7 @@ function GetExamBoardDesc(XML) {
             else if (Type == "Unit") { //Start Unit
 
 
-                if (data.d.responseCode == 2 || obj.Table1.length == 0) {
+                if (data.d.responseCode == 2 || obj == 0) {
                     $("#DivNoTopic").css("visibility", "visible");
                     $("#DivNoTopic").show();
                     $("#Unit").hide();
@@ -644,7 +644,7 @@ function GetExamBoardDesc(XML) {
             else if (Type == "Category") {//start category Bind
 
 
-                if (data.d.responseCode == 2 || obj.Table1.length == 0) {
+                if (data.d.responseCode == 2 || obj == null) {
                     $("#DivNocategory").show();
                     $("#DivNocategory").css("visibility", "visible");
                     $("#Category").hide();
@@ -653,23 +653,33 @@ function GetExamBoardDesc(XML) {
                     $("#DivNocategory").hide();
                     $("#Category").show();
                 }
+                if (obj != null) {
+                    for (var i = 0; i < obj.Table.length; i++) {
 
-                $("#DivCategory").append('<div class="col-sm-4 col-margin">' +
-                                    '<div class="topicbox">' +
-                                    '<div class="quali_heading2" style="padding-bottom:10px;">Chapter Name</div><div class="questions" id="Categorylist">');
-                for (var i = 0; i < obj.Table1.length; i++) {
-
-                    $("#Categorylist").append('<li><a id="CategoryWiseQues-' + obj.Table1[i].CategoryID + '-' + obj.Table1[i].CategoryName + '" href="javascript:;">' + obj.Table1[i].CategoryName + '</a></li></div></div></div>');
-
-
+                        $("#DivCategory").append('<div class="col-sm-4 col-margin">' +
+                            '<div class="topicbox">' +
+                            '<div class="quali_heading2" style="padding-bottom:10px;"> ' +
+							'<a id="CategoryWiseQues-' + obj.Table[i].CategoryID + '-' + obj.Table[i].CategoryName + '" href="javascript:;">' + obj.Table[i].CategoryName + '</a>'
+							+ ' </div>' +
+                            '<div class="questions" id="divQuestion-' + i + '">');
+                    }
                 }
-                if (obj.Table.length > 5) {
-                    $("#Categorylist").append('<hr style="padding:0px !important;"/>' +
-                                    ' <div class="blue13px"><a  href="javascript:;"  id="SelectAllCategory-' + SubjectNamecatg + '"   >View all ' + obj.Table.length + ' Chapters</a></div>' +
-                                    ' </div>' +
-                                    '</div>' +
-                                    '</div>');
-                }
+                //                $("#DivCategory").append('<div class="col-sm-4 col-margin">' +
+                //                                    '<div class="topicbox">' +
+                //                                    '<div class="quali_heading2" style="padding-bottom:10px;">Chapter Name</div><div class="questions" id="Categorylist">');
+                //                for (var i = 0; i < obj.Table1.length; i++) {
+
+                //                    $("#Categorylist").append('<li><a id="CategoryWiseQues-' + obj.Table1[i].CategoryID + '-' + obj.Table1[i].CategoryName + '" href="javascript:;">' + obj.Table1[i].CategoryName + '</a></li></div></div></div>');
+
+
+                //                }
+                //                if (obj.Table.length > 5) {
+                //                    $("#Categorylist").append('<hr style="padding:0px !important;"/>' +
+                //                                    ' <div class="blue13px"><a  href="javascript:;"  id="SelectAllCategory-' + SubjectNamecatg + '"   >View all ' + obj.Table.length + ' Chapters</a></div>' +
+                //                                    ' </div>' +
+                //                                    '</div>' +
+                //                                    '</div>');
+                //                }
             } //End Category Binding
 
             else if (Type == "SelectAllCategory") {//Start Bind All Category

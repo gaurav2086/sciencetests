@@ -4,3 +4,9 @@ E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank
 E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.Common\obj\Release\QuestionBank.Common.csproj.GenerateResource.Cache
 E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.Common\obj\Release\QuestionBank.Common.dll
 E:\Ajay jijaji work\Science Test\Latest code\QuestionBank_new_UI\NewQuestionBank\QuestionBank.Common\obj\Release\QuestionBank.Common.pdb
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.Common\bin\Release\QuestionBank.Common.dll
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.Common\bin\Release\QuestionBank.Common.pdb
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.Common\obj\Release\QuestionBank.Common.Message.resources
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.Common\obj\Release\QuestionBank.Common.csproj.GenerateResource.Cache
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.Common\obj\Release\QuestionBank.Common.dll
+E:\Ajay jijaji work\Science Test\Science Test Repository\NewQuestionBank\QuestionBank.Common\obj\Release\QuestionBank.Common.pdb

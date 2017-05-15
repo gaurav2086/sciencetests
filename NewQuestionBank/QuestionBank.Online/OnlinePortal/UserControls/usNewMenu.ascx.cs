@@ -11,16 +11,24 @@ namespace QuestionBank.Online.OnlinePortal.UserControls
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (Convert.ToString(Session["DisplayUserName"]) != null && Convert.ToString(Session["DisplayUserName"]) != "")
+            bool isLogIn = false;
+            if (Session["DisplayUserName"] != null)
             {
-                lnkReportAfterLogin.Visible = true;
-                lnkReportBeforelogin.Visible = false;
+                // lblUserName.Text = "Welcome :" + "  " + Session["DisplayUserName"].ToString();
+                isLogIn = true;
+
             }
-            else
-            {
-                lnkReportAfterLogin.Visible = false;
-                lnkReportBeforelogin.Visible = true;
-            }
+
+            //  divLoginAfter.Visible = isLogIn;
+            lnkAdminEmail.Visible = !isLogIn;
+            lnkSignIn.Visible = !isLogIn;
         }
+
+        protected void btnlogout_Click(object sender, EventArgs e)
+        {
+            Session.Abandon();
+            Response.Redirect("Home.aspx");
+        }
+
     }
 }

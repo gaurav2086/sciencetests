@@ -18,17 +18,17 @@
           <div class="widget dark">
             <h4 class="widget-title">Useful Links</h4>
             <ul class="list angle-double-right list-border">
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">Our Courses</a></li>
-              <li><a href="#">Reports</a></li>
-              <li><a href="#">Membership</a></li>
-              <li><a href="#">Contact US</a></li>              
+              <li><a href="../../onlineportal/Pages/frmAboutUs.aspx">About Us</a></li>
+             <%-- <li><a href="#">Our Courses</a></li>--%>
+              <li><a href="../../onlineportal/pages/frmReport.aspx">Reports</a></li>
+           <%--   <li><a href="#">Membership</a></li>--%>
+              <li><a href="../../onlineportal/Pages/frmContactus.aspx">Contact US</a></li>              
             </ul>
           </div>
         </div>
         
-        <div class="col-sm-6 col-md-4">
-          <div class="widget dark">
+        <div class="col-sm-6 col-md-4" >
+          <div class="widget dark" style="display:none">
             <h4 class="widget-title line-bottom-theme-colored-2">Opening Hours</h4>
             <div class="opening-hours">
               <ul class="list-border">
@@ -50,12 +50,12 @@
 		  <div class="widget dark">
             <h5 class="widget-title mb-10">Connect With Us</h5>
             <ul class="styled-icons icon-bordered icon-sm">
-              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="https://www.facebook.com/sciencetests/"><i class="fa fa-facebook"></i></a></li>
+          <%--    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
               <li><a href="#"><i class="fa fa-skype"></i></a></li>
               <li><a href="#"><i class="fa fa-youtube"></i></a></li>
               <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-              <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+              <li><a href="#"><i class="fa fa-pinterest"></i></a></li>--%>
             </ul>
           </div>
         </div>
@@ -71,7 +71,7 @@
           <div class="col-md-6 text-right">
             <div class="widget no-border m-0">
               <ul class="list-inline sm-text-center mt-5 font-12">
-                <li>
+                <%--<li>
                   <a href="#">FAQ</a>
                 </li>
                 <li>|</li>
@@ -82,7 +82,7 @@
                 <li>
                   <a href="#">Support</a>
                 </li>
-              </ul>
+              </ul>--%>
             </div>
           </div>
         </div>

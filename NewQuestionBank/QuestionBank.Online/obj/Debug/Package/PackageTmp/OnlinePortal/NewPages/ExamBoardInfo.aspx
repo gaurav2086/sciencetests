@@ -3,6 +3,65 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <style type="text/css">
+        .divChapterName
+        {
+            margin: 0px 0px 20px 0px !important;
+        }
+        .questionmainbox
+        {
+            padding: 37px 20px 20px 20px;
+        }
+        .flip-clock-wrapper ul
+        {
+            width: 41px !important;
+        }
+        .prob_attem_container
+        {
+            padding-bottom: 10px;
+        }
+        .topicbox
+        {
+            margin-bottom: 20px;
+            border-right: 6px solid #F2184F !important;
+        }
+        .score_box
+        {
+            display: block;
+            min-width: 45px;
+            margin-right: 10px;
+            text-align: center;
+            border-radius: 5px 5px 5px 5px;
+            -moz-border-radius: 5px 5px 5px 5px;
+            -webkit-border-radius: 5px 5px 5px 5px;
+            background-color: #7f5799;
+            padding: 10px 0px;
+            height: 41px;
+            vertical-align: middle;
+            text-align: center;
+            color: #fff;
+            font-size: 13px;
+            text-decoration: none;
+            font-family: 'open_sansregular';
+        }
+        .problems_box
+        {
+            display: block;
+            min-width: 45px;
+            margin-right: -15px;
+            text-align: center;
+            border-radius: 5px 5px 5px 5px;
+            -moz-border-radius: 5px 5px 5px 5px;
+            -webkit-border-radius: 5px 5px 5px 5px;
+            background-color: #7ea82b;
+            padding: 10px 0px;
+            height: 41px;
+            vertical-align: middle;
+            color: #ffffff;
+            font-size: 13px;
+            text-decoration: none;
+            float: right !important;
+            font-family: 'open_sansregular';
+        }
         .subjectcontainer a
         {
             padding: 12px 10px;
@@ -35,9 +94,8 @@
             font-family: 'open_sanslight';
             text-align: center;
             padding: 20px 2px 2px 20px;
+            margin-bottom: 20px;
         }
-        
-        
         
         .quali_heading
         {
@@ -57,6 +115,43 @@
             color: white;
             width: 20%;
             margin-left: 106px;
+        }
+        @media screen and (max-width: 600px) and (min-width: 320px)
+        {
+            .topicSelect
+            {
+                width: 45%;
+                margin-left: 16px;
+            }
+            .flip-clock-wrapper ul
+            {
+                width: 32px !important;
+            }
+            .flip-clock-divider
+            {
+                width: 0px !important;
+            }
+            .flip-clock-divider .flip-clock-label
+            {
+                right: -62px;
+            }
+            .flip-clock-divider.minutes .flip-clock-label
+            {
+                right: -65px;
+            }
+        
+            .flip-clock-divider.seconds .flip-clock-label
+            {
+                right: -62px;
+            }
+            .score_box
+            {
+                min-width: 35px !important;
+            }
+            .problems_box
+            {
+                min-width: 35px !important;
+            }
         }
     </style>
 </asp:Content>
@@ -96,6 +191,9 @@
             </div>
             <div id="Category">
                 <div class="container">
+                    <div class="container text15pxblue topicSelect divChapterName">
+                        Chapter Name
+                    </div>
                     <div class="row rowmargin" id="DivCategory">
                     </div>
                 </div>
@@ -106,9 +204,6 @@
                 </center>
             </div>
             <div id="Unit">
-                <div class="container text15pxblue topicSelect">
-                    Select Unit or Topics.
-                </div>
                 <br />
                 <div class="container">
                     <div class="row" id="DivUnit">
@@ -130,6 +225,9 @@
         </div>
     </div>
     <div id="DivNoQuestion" style="visibility: hidden">
+        <div class="container text15pxblue topicSelect">
+            Select Unit or Topics.
+        </div>
         <center>
             <span style='color: #00adef; font-size: 18px'>No Question Available for this category</span></center>
     </div>

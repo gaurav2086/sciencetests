@@ -102,7 +102,7 @@
                     <div class="col-md-6">
                         <div class="form-group">
                             <input class="textfield col-md-10" type="text" placeholder="Country of Residence"
-                                id="txtCountry" />
+                                id="txtCountry" /> <span style="color: Red; font-size: 16px">*</span>
                             <label id="lblCountryerror" style="font-size: 12px; color: Red">
                                 Please Enter Country</label>
                         </div>

@@ -34,8 +34,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>..\GatewayService\bin\Newtonsoft.Json.dll</HintPath>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DllInclude\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.ServiceModel" />
@@ -2162,6 +2163,7 @@
     <Content Include="Design\services.html" />
     <Content Include="Design\typography.html" />
     <Content Include="Admin\frmHome.aspx" />
+    <Content Include="DllInclude\Newtonsoft.Json.dll" />
     <Content Include="frmLogin.aspx" />
     <Content Include="frmLogout.aspx" />
     <Content Include="img\about_1.jpg" />
@@ -2364,6 +2366,9 @@
     <Content Include="OnlinePortal\Includes\images\logo-wide.png" />
     <Content Include="OnlinePortal\Includes\images\logo.jpg" />
     <Content Include="OnlinePortal\Includes\images\photos\1.jpg" />
+    <Content Include="OnlinePortal\Includes\images\photos\b.jpg" />
+    <Content Include="OnlinePortal\Includes\images\photos\c.jpg" />
+    <Content Include="OnlinePortal\Includes\images\photos\p.jpg" />
     <Content Include="OnlinePortal\Includes\images\products\sm1.jpg" />
     <Content Include="OnlinePortal\Includes\images\products\sm2.jpg" />
     <Content Include="OnlinePortal\Includes\images\project\4.jpg" />
@@ -2408,6 +2413,7 @@
     <Content Include="OnlinePortal\NewPages\ajax-load\reservation-form.html" />
     <Content Include="OnlinePortal\NewPages\home.aspx" />
     <Content Include="OnlinePortal\NewPages\ExamBoardInfo.aspx" />
+    <Content Include="OnlinePortal\NewPages\RecoverPassword.aspx" />
     <Content Include="OnlinePortal\obj\css\bootstrap-theme.css" />
     <Content Include="OnlinePortal\obj\css\bootstrap-theme.min.css" />
     <Content Include="OnlinePortal\obj\css\bootstrap.css" />
@@ -3021,13 +3027,26 @@
     <None Include="PlugIns\Sort Row\README.md" />
     <None Include="RND\Quz Test Design_files\293197f6eb" />
     <None Include="RND\Quz Test Design_files\saved_resource" />
-    <None Include="Service References\GatewayService\GatewayService.disco" />
     <None Include="Service References\GatewayService\configuration91.svcinfo" />
     <None Include="Service References\GatewayService\configuration.svcinfo" />
+    <None Include="Service References\GatewayService\GatewayService1.wsdl" />
+    <None Include="Service References\GatewayService\GatewayService4.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\GatewayService\GatewayService41.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\GatewayService\GatewayService42.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\GatewayService\GatewayService43.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Service References\GatewayService\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
+    <None Include="Service References\GatewayService\GatewayService1.disco" />
     <Content Include="Stuff\PrepareXML.xml" />
     <Content Include="Styles\calenderstyle.css" />
     <Content Include="Styles\Site.css" />
@@ -3042,19 +3061,6 @@
     <Content Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
-    <None Include="Service References\GatewayService\GatewayService.wsdl" />
-    <None Include="Service References\GatewayService\GatewayService.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\GatewayService\GatewayService1.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\GatewayService\GatewayService2.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\GatewayService\GatewayService3.xsd">
-      <SubType>Designer</SubType>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Admin\frmAddEditQM.aspx.cs">
@@ -3205,6 +3211,13 @@
     </Compile>
     <Compile Include="OnlinePortal\NewPages\ExamBoardInfo.aspx.designer.cs">
       <DependentUpon>ExamBoardInfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OnlinePortal\NewPages\RecoverPassword.aspx.cs">
+      <DependentUpon>RecoverPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OnlinePortal\NewPages\RecoverPassword.aspx.designer.cs">
+      <DependentUpon>RecoverPassword.aspx</DependentUpon>
     </Compile>
     <Compile Include="OnlinePortal\Pages\frmAboutus.aspx.cs">
       <DependentUpon>frmAboutus.aspx</DependentUpon>

@@ -1,20 +1,24 @@
 ﻿<%@ Page Title="Science Tests | Education & Courses" Language="C#" MasterPageFile="~/OnlinePortal/NewMasterPage/newOnlinePortal.Master"
-    AutoEventWireup="true" CodeBehind="home.aspx.cs" Inherits="QuestionBank.Online.OnlinePortal.NewPages.frmExamBoardInfo" %>
+    AutoEventWireup="true" CodeBehind="home.aspx.cs" Inherits="QuestionBank.Online.OnlinePortal.NewPages.home" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <!-- Start main-content -->
+    <style>
+        .ulwhy
+        {
+            background-color: #f1f1f1;
+            list-style-type: none;
+            padding: 10px 20px;
+            list-style-type: square;
+        }
+    </style>
     <div class="main-content">
-        <!-- Section: home -->
         <section id="home">
       <div class="container-fluid p-0">
-        
-        <!-- Slider Revolution Start -->
         <div class="rev_slider_wrapper">
           <div class="rev_slider" data-version="5.0">
             <ul>
-
               <!-- SLIDE 1 -->
               <li data-index="rs-1" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" 
 			  data-easeout="default" data-masterspeed="default" data-thumb="../Includes/images/bg/bg3.jpg" data-rotate="0" data-saveperformance="off" 
@@ -119,7 +123,7 @@
                   data-splitin="none" 
                   data-splitout="none" 
                   data-responsive_offset="on"
-                  style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored border-left-theme-color-2-6px pl-20 pr-20" href="mailto:admin@sciencetests.co.uk">View Details</a> 
+                  style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored border-left-theme-color-2-6px pl-20 pr-20" href="../../onlineportal/Pages/frmPromotionalSignIn.aspx">View Details</a> 
                 </div>
               </li>
 
@@ -224,7 +228,7 @@
                   data-splitin="none" 
                   data-splitout="none" 
                   data-responsive_offset="on"
-                  style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-default btn-circled btn-transparent pl-20 pr-20" href="#">Apply Now</a> 
+                  style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-default btn-circled btn-transparent pl-20 pr-20" href="../../onlineportal/Pages/frmPromotionalSignIn.aspx">Apply Now</a> 
                 </div>
               </li>
 
@@ -329,7 +333,7 @@
                   data-splitin="none" 
                   data-splitout="none" 
                   data-responsive_offset="on"
-                  style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored btn-theme-colored border-right-theme-color-2-6px pl-20 pr-20" href="#">Apply Now</a> 
+                  style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored btn-theme-colored border-right-theme-color-2-6px pl-20 pr-20" href="../../onlineportal/Pages/frmPromotionalSignIn.aspx">Apply Now</a> 
                 </div>
               </li>
 
@@ -435,7 +439,6 @@
 
       </div>
     </section>
-        <!-- Section:about-->
         <section>
       <div class="container pb-60">
         <div class="section-content">
@@ -449,79 +452,114 @@
               <div class="row mb-sm-30">
                 <div class="col-sm-6 col-md-6">
                   <div class="icon-box p-0 mb-20">
-                   <a class="icon bg-theme-colored icon-circled icon-border-effect effect-circle icon-sm pull-left sm-pull-none flip" href="#">
+                   <a class="icon bg-theme-colored icon-circled icon-border-effect effect-circle icon-sm pull-left sm-pull-none flip" href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?QualificationID=8&QualificationName=A2">
                     <i class="pe-7s-scissors text-white"></i>
                    </a>
                    <div class="ml-70 ml-sm-0">
-                    <h5 class="icon-box-title mt-10 text-uppercase letter-space-2 mb-10">A2</h5>
-                    <p class="text-gray">Physics, Chemistry, Biology</p>
+                    <h5 class="icon-box-title mt-10 text-uppercase letter-space-2 mb-10">
+                    <a target="_blank" href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?QualificationID=8&QualificationName=A2">
+                    A2</a></h5>
+                    <p class="text-gray">  <a target="_blank" href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?QualificationID=8&QualificationName=A2">Physics, Chemistry, Biology</a> </p>
                    </div>
                   </div>
                 </div>
                 <div class="col-sm-6 col-md-6">
                   <div class="icon-box p-0 mb-20">
-                   <a class="icon bg-theme-color-2 icon-circled icon-border-effect effect-circle icon-sm pull-left sm-pull-none flip" href="#">
+                   <a class="icon bg-theme-color-2 icon-circled icon-border-effect effect-circle icon-sm pull-left sm-pull-none flip" href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?QualificationID=1&QualificationName=GCSE">
                     <i class="pe-7s-pen text-white"></i>
                    </a>
                    <div class="ml-70 ml-sm-0">
-                    <h5 class="icon-box-title mt-10 text-uppercase letter-space-2 mb-10">GCSE</h5>
-                    <p class="text-gray">Physics, Chemistry, Biology</p>
+                    <h5 class="icon-box-title mt-10 text-uppercase letter-space-2 mb-10">
+                    <a target="_blank" href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?QualificationID=1&QualificationName=GCSE">
+                    GCSE</a>
+                    </h5>
+                    <p class="text-gray">  <a target="_blank" href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?QualificationID=1&QualificationName=GCSE">Physics, Chemistry, Biology</a></p>
                    </div>
                   </div>
                 </div>
                 <div class="col-sm-6 col-md-6">
                   <div class="icon-box p-0 mb-20">
-                   <a class="icon bg-theme-color-2 icon-circled icon-border-effect effect-circle icon-sm pull-left sm-pull-none flip" href="#">
+                   <a class="icon bg-theme-color-2 icon-circled icon-border-effect effect-circle icon-sm pull-left sm-pull-none flip" href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?QualificationID=2&QualificationName=AS%20Level">
                     <i class="pe-7s-tools text-white"></i>
                    </a>
                    <div class="ml-70 ml-sm-0">
-                    <h5 class="icon-box-title mt-10 text-uppercase letter-space-2 mb-10">AS</h5>
-                    <p class="text-gray">Physics, Chemistry, Biology</p>
+                    <h5 class="icon-box-title mt-10 text-uppercase letter-space-2 mb-10">
+                    
+                       <a target="_blank" href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?QualificationID=2&QualificationName=AS%20Level">AS</a>
+                    </h5>
+                    <p class="text-gray">  <a target="_blank" href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?QualificationID=2&QualificationName=AS%20Level">Physics, Chemistry, Biology
+                    </a>
+                    </p>
                    </div>
                   </div>
                 </div>
                 <div class="col-sm-6 col-md-6">
                   <div class="icon-box p-0 mb-20">
-                   <a class="icon bg-theme-colored icon-circled icon-border-effect effect-circle icon-sm pull-left sm-pull-none flip" href="#">
+                   <a class="icon bg-theme-colored icon-circled icon-border-effect effect-circle icon-sm pull-left sm-pull-none flip" href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?QualificationID=4&QualificationName=IGCSE">
                     <i class="pe-7s-vector text-white"></i>
                    </a>
                    <div class="ml-70 ml-sm-0">
-                    <h5 class="icon-box-title mt-10 text-uppercase letter-space-2 mb-10">IGCSE</h5>
-                    <p class="text-gray">Physics, Chemistry, Biology</p>
+                    <h5 class="icon-box-title mt-10 text-uppercase letter-space-2 mb-10">
+                      <a target="_blank" href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?QualificationID=4&QualificationName=IGCSE">IGCSE</a>
+                    </h5>
+                    <p class="text-gray"><a target="_blank" href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?QualificationID=4&QualificationName=IGCSE">Physics, Chemistry, Biology</a></p>
                    </div>
                   </div>
                 </div>               
               </div>
             </div>
-            <div class="col-md-4">
-             <div class="p-30 mt-0 bg-theme-colored" style="display:none">
+            <div class="col-md-4" runat="server" id="divSignIn">
+             <div class="p-30 mt-0 bg-theme-colored">
               <h3 class="title-pattern mt-0"><span class="text-white">Promotional <span class="text-theme-color-2">Sign In</span></span></h3>
               <!-- Appilication Form Start-->
               <form id="promotonal_signin" name="signin" class="reservation-form mt-20" method="post" action="#">
                 <div class="row">
                   <div class="col-sm-12">
                     <div class="form-group mb-20">
-                      <input placeholder="Enter Name" type="text" id="enter _your_name" name="enter _your_name" required="" class="form-control">
+                      <input placeholder="Enter Name" type="text" id="txtFirstName" name="enter _your_name" required="" class="form-control">
                     </div>
                   </div>
-                  <div class="col-sm-12">
+                    <div class="col-sm-12">
                     <div class="form-group mb-20">
-                      <input placeholder="Email" type="text" id="email" name="email" class="form-control" required="">
+                      <input placeholder="Enter Surname" type="text" id="txtSurmane" name="enter _your_name" required="" class="form-control">
                     </div>
-                  </div>                  
+                  </div>
                   
                   <div class="col-sm-12">
                     <div class="form-group mb-20">
-                      <input name="Password" class="form-control required" type="password" placeholder="Password" aria-required="true">
+                      <input placeholder="Email" type="text" id="txtEmailId" name="email" class="form-control" required=""  >
+                      <span id="lblemailerror" style="color: red !important"> Invalid email address</span>
                     </div>
                   </div>                  
+                   <div class="col-sm-12">
+                    <div class="form-group mb-20">
+                      <input placeholder="Phone" type="text" id="txtPhone" name="Phone" class="form-control" >
+                      <span id="lblPhone" style="color: red !important"> Invalid Phone Number</span>
+                    </div>
+                  </div>    
+                  <div class="col-sm-12">
+                    <div class="form-group mb-20">
+                      <input name="Password" id="txtPwd" class="form-control required" type="password" placeholder="Password" aria-required="true">
+                    </div>
+                  </div>       
+                   <div class="col-sm-12">
+                    <div class="form-group mb-20">
+                      <input name="Password" id="txtConPwd" class="form-control required" type="password" placeholder="Password Confirm" aria-required="true">
+                      <span id="stxtpwd" style="color:red !important"> </span>
+                    </div>
+                  </div> 
+                             
                   <div class="col-sm-12">
                     <div class="form-group mb-0 mt-10">
                       <input name="form_botcheck" class="form-control" type="hidden" value="">
-                      <button type="submit" class="btn btn-colored btn-theme-color-2 text-white btn-lg btn-block" data-loading-text="Please wait...">Create Account</button>
+                      <button type="button" id="btnSubmit" class="btn btn-colored btn-theme-color-2 text-white btn-lg btn-block" data-loading-text="Please wait...">Create Account</button>
+                   <%--
+                   <input type="button" id="Button1" class="btn btn-primary" value="Create Acc." /></div>--%>
+                   
                     </div>
                   </div>
                 </div>
+                 <script src="../CommonFiles/OnlinePortalJS/PromotionalSignIn/HomePromotionalSign.js"   type="text/javascript"></script>
               </form>
               <!-- Application Form End-->
 
@@ -558,7 +596,7 @@
     </section>
         <!-- Section: COURSES -->
         <section class="bg-lighter">
-      <div class="container pb-40">
+     <%-- <div class="container pb-40">
         <div class="section-title mb-0">
         <div class="row">
           <div class="col-md-8">
@@ -662,6 +700,105 @@
             </div>
          </div>
         </div>
+      </div>--%>
+         <div class="container pb-40">
+        <div class="section-title mb-0">
+        <div class="row">
+          <div class="col-md-8">
+            <h2 class="text-uppercase font-28 line-bottom mt-0 line-height-1">Our <span class="text-theme-color-2 font-weight-400">Subjects</span></h2>
+            <h4 class="pb-20">Explore our subjects</h4>
+         </div>
+        </div>
+        </div>
+        <div class="section-content">
+         <div class="row">
+            <div class="col-sm-6 col-md-4">
+              <div class="service-block bg-white">
+                <div class="thumb">
+                <a href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?SubjectName=Physics">
+                <img alt="featured project" src="../Includes/images/photos/p.jpg" class="img-fullwidth">
+                </a>
+
+                </div>
+                <div class="content text-left flip p-25 pt-0">
+                  <h4 class="line-bottom mb-10"><a href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?SubjectName=Physics">Physics</a></h4>
+                  <p>
+<i>
+   "The release of atomic power has changed everything except our way of thinking ... the solution to this problem lies in the heart of mankind. If only I had known, I should have become a watchmaker. (1945)"
+				  -<b> Albert Einstein</b><br><br>
+
+				  "It is often stated that of all the theories proposed in this century, the silliest is quantum theory. In fact, some say that the only thing that quantum theory has going for it is that it is unquestionably correct."
+				  - <b>Michio Kaku, Hyperspace</b>
+
+</i>
+                  </p>
+                 <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?SubjectName=Physics">Physics - Start Practising</a>
+                </div>
+              </div>
+            </div>
+
+
+
+
+             <div class="col-sm-6 col-md-4">
+			              <div class="service-block bg-white">
+			                <div class="thumb">
+			                <a href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?SubjectName=Chemistry">
+			                <img alt="featured project" src="../Includes/images/photos/c.jpg" class="img-fullwidth">
+			                </a>
+
+			                </div>
+			                <div class="content text-left flip p-25 pt-0">
+			                  <h4 class="line-bottom mb-10"><a href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?SubjectName=Chemistry">Chemistry</a></h4>
+			                  <p>
+
+			                 <i> "I realized it was like a dating agency: the ions are the lost souls looking for mates; the electrolyte is the agency that can help them find each other."
+							  - <b>Victoria Finlay, Jewels: A Secret History</b><br><br>
+
+							  "For many centuries chemists labored to change Lead into precious Gold and eventually found that precious Uranium turned to lead without any human effort at all"
+							  -<b> Isaac Asimov</b>
+
+                             </i>
+
+			                  </p>
+			                 <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?SubjectName=Chemistry">Chemistry - Start Practising</a>
+			                </div>
+			              </div>
+			            </div>
+
+
+
+
+
+             <div class="col-sm-6 col-md-4">
+			              <div class="service-block bg-white">
+			                <div class="thumb">
+			                <a href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?SubjectName=Biology">
+			                <img alt="featured project" src="../Includes/images/photos/b.jpg" class="img-fullwidth">
+			                </a>
+
+			                </div>
+			                <div class="content text-left flip p-25 pt-0">
+			                  <h4 class="line-bottom mb-10"><a href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?SubjectName=Biology">Biology</a></h4>
+			                  <p>
+
+
+
+							  <i>"Every single cell in the human body replaces itself over a period of seven years. That means there's not even the smallest part of you now that was part of you seven years ago."
+							   - <b>Steven Hall, The Raw Shark Texts</b><br><br>
+
+
+							  "These mysteries about how we evolved should not distract us from the indisputable fact that we did evolve."
+							  - <b>Jerry A. Coyne, Why Evolution Is True </b>
+							  </i>
+			                  </p>
+			                 <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="https://www.sciencetests.co.uk/onlineportal/newpages/ExamBoardInfo.aspx?SubjectName=Biology">Biology - Start Practising</a>
+			                </div>
+			              </div>
+			            </div>
+
+         </div>
+        </div>
       </div>
     </section>
         <!-- Section: Why Choose Us -->
@@ -670,17 +807,39 @@
         <div class="section-content">
          <div class="row">
             <div class="col-md-5"> 
-             <img src="../Includes/images/photos/1.jpg" class="img-fullwidth" alt="">
+             <%--<img src="../Includes/images/photos/1.jpg" class="img-fullwidth" alt="">--%>
+                <script type="text/javascript">
+                    document.write('\x3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https://' : 'http://') + 'feed.mikle.com/js/rssmikle.js">\x3C/script>');
+                  </script>
+			        <script type="text/javascript">			            (function () { var params = { rssmikle_url: "https://rss.sciencedaily.com/top/science.xml", rssmikle_frame_width: "400", rssmikle_frame_height: "400", frame_height_by_article: "0", rssmikle_target: "_blank", rssmikle_font: "Arial, Helvetica, sans-serif", rssmikle_font_size: "12", rssmikle_border: "off", responsive: "off", rssmikle_css_url: "", text_align: "left", text_align2: "left", corner: "off", scrollbar: "on", autoscroll: "on_mc", scrolldirection: "up", scrollstep: "3", mcspeed: "20", sort: "Off", rssmikle_title: "on", rssmikle_title_sentence: " Daily Science News ", rssmikle_title_link: "https://www.ft.com/rss/home/uk", rssmikle_title_bgcolor: "#0066FF", rssmikle_title_color: "#FFFFFF", rssmikle_title_bgimage: "", rssmikle_item_bgcolor: "#FFFFFF", rssmikle_item_bgimage: "", rssmikle_item_title_length: "55", rssmikle_item_title_color: "#0066FF", rssmikle_item_border_bottom: "on", rssmikle_item_description: "on", item_link: "off", rssmikle_item_description_length: "150", rssmikle_item_description_color: "#666666", rssmikle_item_date: "gl1", rssmikle_timezone: "Etc/GMT", datetime_format: "%b %e, %Y %l:%M %p", item_description_style: "text", item_thumbnail: "full", item_thumbnail_selection: "auto", article_num: "15", rssmikle_item_podcast: "off", keyword_inc: "", keyword_exc: "" }; feedwind_show_widget_iframe(params); })();</script>
+			        <div style="font-size: 10px; text-align: center; width: 400px;">
+			          <a href="http://feed.mikle.com/" target="_blank" style="color: #CCCCCC;">RSS Feed Widget</a>
+			          <!--Please display the above link in your web page according to Terms of Service.-->
+			        </div>
             </div>
             <div class="col-md-7 pb-sm-20">
               <h3 class="title line-bottom mb-20 font-28 mt-0 line-height-1">Why <span class="text-theme-color-2 font-weight-400">Choose Us</span> ?</h3>
-              <p class="mb-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam ipsum quis ipsum facilisis sit amet.. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam ipsum quis ipsum facilisis sit amet.</p>
+              <%--<p class="mb-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam ipsum quis ipsum facilisis sit amet.. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam ipsum quis ipsum facilisis sit amet.</p>
+             --%>
+             <ul class="ulwhy">
+             <li>	An ideal platform to revise Science subjects for secondary school students </li>
+			  <li>	Thousands of Questions </li>
+			   <li>	Physics, Chemistry and Biology </li>
+			   <li>	Single Choice, Multiple Choice </li>
+			   <li>	Fill in the blanks, Match the columns </li>
+			   <li>	Detailed Explanation for each question </li>
+			   <li>	Regular Report to monitor your performance </li>
+			   <li>	All the important exam boards covered </li>
+			   <li>	Help with homework and exam preparation </li>
+
+
+</ul>
               <div class="col-sm-6 col-md-3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
                 <div class="icon-box text-center pl-0 pr-0 mb-0">
                   <a href="#" class="icon bg-theme-colored icon-circled icon-border-effect effect-circle icon-md">
                     <i class="pe-7s-phone text-white"></i>
                   </a>
-                  <h5 class="icon-box-title mt-15 mb-10 letter-space-4 text-uppercase"><strong>Responsive</strong></h5>
+                  <h5 class="icon-box-title mt-15 mb-10 letter-space-4 text-uppercase"><strong>FREE QUIZ</strong></h5>
                 </div>
               </div>
               <div class="col-sm-6 col-md-3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
@@ -688,7 +847,7 @@
                   <a href="#" class="icon bg-theme-color-2 icon-circled icon-border-effect effect-circle icon-md">
                     <i class="pe-7s-pen text-white"></i>
                   </a>
-                  <h5 class="icon-box-title mt-15 mb-10 letter-space-4 text-uppercase"><strong>validation</strong></h5>
+                  <h5 class="icon-box-title mt-15 mb-10 letter-space-4 text-uppercase"><strong>MULTIPLE CHOICE QUESTIONS</strong></h5>
                 </div>
               </div>
               <div class="col-sm-6 col-md-3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
@@ -696,7 +855,7 @@
                   <a href="#" class="icon bg-theme-colored icon-circled icon-border-effect effect-circle icon-md">
                     <i class="pe-7s-light text-white"></i>
                   </a>
-                  <h5 class="icon-box-title mt-15 mb-0 letter-space-4 text-uppercase"><strong>CERTIFICATION</strong></h5>
+                  <h5 class="icon-box-title mt-15 mb-0 letter-space-4 text-uppercase"><strong>STUDENT REPORTS</strong></h5>
                 </div>
               </div>
              </div>
@@ -707,8 +866,8 @@
         <!-- Divider: Funfact -->
         <section class="divider parallax layer-overlay overlay-theme-colored-9" data-bg-img="../Includes/images/bg/bg2.jpg"
             data-parallax-ratio="0.7">
-      <div class="container">
-        <div class="row">
+      <div class="container" style="display:none">
+        <div class="row" >
           <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
             <div class="funfact text-center">
               <i class="pe-7s-smile mt-5 text-theme-color-2"></i>
@@ -742,7 +901,7 @@
     </section>
         <!-- Section: blog -->
         <section id="blog" class="">
-      <div class="container pt-60 pb-60">
+      <div class="container pt-60 pb-60" style="display:none">
         <div class="section-title mb-0">
           <div class="row">
             <div class="col-md-8">
@@ -871,8 +1030,8 @@
         <section class="bg-theme-color-2">
       <div class="container pt-10 pb-20">
         <div class="row">
-          <div class="call-to-action">
-            <div class="col-md-6">
+          <div class="call-to-action" style="display:none">
+            <div class="col-md-6" >
               <h3 class="mt-5 mb-5 text-white vertical-align-middle"><i class="pe-7s-mail mr-10 font-48 vertical-align-middle"></i> SUBSCRIBE TO OUR NEWSLETTER</h3>
             </div>
             <div class="col-md-6">

@@ -577,14 +577,12 @@
 <div class="LogoMenuRow">
     <div class="container">
         <div class="col-md-2 logo">
-           <%--  <a href='<%= ResolveUrl("../Pages/frmDefault.aspx")%>'>
+            <%--  <a href='<%= ResolveUrl("../Pages/frmDefault.aspx")%>'>
                
                <img src='<%= ResolveUrl("../CommonFiles/img/logo.jpg")%>' alt="" /></a></div>--%>
-
-                 <a href='<%= ResolveUrl("../homepage/home.html")%>'>
+            <%--<a href='<%= ResolveUrl("../../homepage/home.html")%>'>--%>
+            <a href='<%= ResolveUrl("../../OnlinePortal/NewPages/Home.aspx")%>'>
                 <img src='<%= ResolveUrl("../Includes/images/logo.jpg")%>' alt="" /></a></div>
-                
-
         <%--<a href='<%= ResolveUrl("/OnlinePortal/newPages/Home.aspx")%>'>
                 <img src='<%= ResolveUrl("../Includes/images/logo.jpg")%>' alt="" /></a></div>--%>
         <div class="col-md-7">

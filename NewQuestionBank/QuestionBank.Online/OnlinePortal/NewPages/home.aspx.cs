@@ -41,13 +41,17 @@ namespace QuestionBank.Online.OnlinePortal.NewPages
             try
             {
                 retVal = ClsUICommon.CallToGateWay(QuestionBank.Online.GatewayService.Module.Admin, ActionType.Save_MembershipDetails, inXML, OutputType.JSON);
+                if (retVal != null)
+                {
+                    //if (retVal.responseMessage == "Success")
+                    //{
+                        EmailHelper.SendRegistrationEmail(inXML, out displayUserName);
 
-                EmailHelper.SendRegistrationEmail(inXML, out displayUserName);
 
-
-                if (!string.IsNullOrEmpty(displayUserName))
-                    HttpContext.Current.Session["DisplayUserName"] = displayUserName;
-
+                        if (!string.IsNullOrEmpty(displayUserName))
+                            HttpContext.Current.Session["DisplayUserName"] = displayUserName;
+                    //}
+                }
             }
             catch (Exception ex)
             {
@@ -55,7 +59,6 @@ namespace QuestionBank.Online.OnlinePortal.NewPages
             }
 
             return retVal;
-
 
         }
     }

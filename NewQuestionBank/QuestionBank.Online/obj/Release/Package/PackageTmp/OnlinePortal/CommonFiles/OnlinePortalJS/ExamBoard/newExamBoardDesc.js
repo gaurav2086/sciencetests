@@ -1,6 +1,6 @@
 ﻿
-var QualificationId = 0, GQEMID = 0, SubjectId = 0, TopicId = 0, Index = 0,EBID=0,SbjctId=0;
-var XML = "", Type = "", ControlType = "", ExamBoardName = "", QualificationName = "", SubjectName = "", TopicName = "", QualId = "", QualName = "", SubjectNamecatg = "", EBName = "", SbjctName="",BredcrumbType="",MainType="";
+var QualificationId = 0, GQEMID = 0, SubjectId = 0, TopicId = 0, Index = 0, EBID = 0, SbjctId = 0;
+var XML = "", Type = "", ControlType = "", ExamBoardName = "", QualificationName = "", SubjectName = "", TopicName = "", QualId = "", QualName = "", SubjectNamecatg = "", EBName = "", SbjctName = "", BredcrumbType = "", MainType = "";
 var ControlDetails = [], ControlDetailsMapCol = [], MltChOptionId = [], MltChCorrectAnswer = [], obj = [], CorrectAnswer = [];
 var userstatus = "";
 var Totalmarks = 0
@@ -483,7 +483,7 @@ function GetExamBoardDesc(XML) {
                     }
                 }
                 else {
-                    var colorno = 0; 
+                    var colorno = 0;
                     for (var i = 0; i < obj.Table.length; i++) {
 
                         var subject = ""
@@ -519,7 +519,7 @@ function GetExamBoardDesc(XML) {
             else if (Type == "Unit") { //Start Unit
 
 
-                if (data.d.responseCode == 2 || obj.Table1.length == 0) {
+                if (data.d.responseCode == 2 || obj == 0) {
                     $("#DivNoTopic").css("visibility", "visible");
                     $("#DivNoTopic").show();
                     $("#Unit").hide();
@@ -644,7 +644,7 @@ function GetExamBoardDesc(XML) {
             else if (Type == "Category") {//start category Bind
 
 
-                if (data.d.responseCode == 2 || obj.Table1.length == 0) {
+                if (data.d.responseCode == 2 || obj == null) {
                     $("#DivNocategory").show();
                     $("#DivNocategory").css("visibility", "visible");
                     $("#Category").hide();
@@ -653,23 +653,33 @@ function GetExamBoardDesc(XML) {
                     $("#DivNocategory").hide();
                     $("#Category").show();
                 }
+                if (obj != null) {
+                    for (var i = 0; i < obj.Table.length; i++) {
 
-                $("#DivCategory").append('<div class="col-sm-4 col-margin">' +
-                                    '<div class="topicbox">' +
-                                    '<div class="quali_heading2" style="padding-bottom:10px;">Chapter Name</div><div class="questions" id="Categorylist">');
-                for (var i = 0; i < obj.Table1.length; i++) {
-
-                    $("#Categorylist").append('<li><a id="CategoryWiseQues-' + obj.Table1[i].CategoryID + '-' + obj.Table1[i].CategoryName + '" href="javascript:;">' + obj.Table1[i].CategoryName + '</a></li></div></div></div>');
-
-
+                        $("#DivCategory").append('<div class="col-sm-4 col-margin">' +
+                            '<div class="topicbox">' +
+                            '<div class="quali_heading2" style="padding-bottom:10px;"> ' +
+							'<a id="CategoryWiseQues-' + obj.Table[i].CategoryID + '-' + obj.Table[i].CategoryName + '" href="javascript:;">' + obj.Table[i].CategoryName + '</a>'
+							+ ' </div>' +
+                            '<div class="questions" id="divQuestion-' + i + '">');
+                    }
                 }
-                if (obj.Table.length > 5) {
-                    $("#Categorylist").append('<hr style="padding:0px !important;"/>' +
-                                    ' <div class="blue13px"><a  href="javascript:;"  id="SelectAllCategory-' + SubjectNamecatg + '"   >View all ' + obj.Table.length + ' Chapters</a></div>' +
-                                    ' </div>' +
-                                    '</div>' +
-                                    '</div>');
-                }
+                //                $("#DivCategory").append('<div class="col-sm-4 col-margin">' +
+                //                                    '<div class="topicbox">' +
+                //                                    '<div class="quali_heading2" style="padding-bottom:10px;">Chapter Name</div><div class="questions" id="Categorylist">');
+                //                for (var i = 0; i < obj.Table1.length; i++) {
+
+                //                    $("#Categorylist").append('<li><a id="CategoryWiseQues-' + obj.Table1[i].CategoryID + '-' + obj.Table1[i].CategoryName + '" href="javascript:;">' + obj.Table1[i].CategoryName + '</a></li></div></div></div>');
+
+
+                //                }
+                //                if (obj.Table.length > 5) {
+                //                    $("#Categorylist").append('<hr style="padding:0px !important;"/>' +
+                //                                    ' <div class="blue13px"><a  href="javascript:;"  id="SelectAllCategory-' + SubjectNamecatg + '"   >View all ' + obj.Table.length + ' Chapters</a></div>' +
+                //                                    ' </div>' +
+                //                                    '</div>' +
+                //                                    '</div>');
+                //                }
             } //End Category Binding
 
             else if (Type == "SelectAllCategory") {//Start Bind All Category
@@ -717,7 +727,7 @@ function CreateControl(type, Details, DetailsMapColm) {
         for (var i = 0; i < ControlDetails.length; i++) {
 
             cntrl += '<label><input type="radio"   id="rdoS-' + ControlDetails[i].OptionID + '-' + ControlDetails[i].CorrectAnswer + '-' + ControlDetails[i].Option + '"  name="SingleChoice" value="' + ControlDetails[i].Option + '"/>' + ' ' + ControlDetails[i].Option + '</label><br/>';
-           // cntrl += "<label><input type='radio'   id="+ ControlDetails[i].Option + "  name='SingleChoice' value=" + ControlDetails[i].Option + "/>"+ ControlDetails[i].Option + "</label><br/>";
+            // cntrl += "<label><input type='radio'   id="+ ControlDetails[i].Option + "  name='SingleChoice' value=" + ControlDetails[i].Option + "/>"+ ControlDetails[i].Option + "</label><br/>";
 
         }
 
@@ -739,29 +749,29 @@ function CreateControl(type, Details, DetailsMapColm) {
 
 
 
-        
+
         MapColumnA = "<table ><tr><td><h2 style='margin-left:65px'>A</h2></td>"
         + "<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><h2 style='margin-left:65px'>B</h2></td></tr>"
-        +"<tr><td><ul class='dd-list' id='MapColA'>"
+        + "<tr><td><ul class='dd-list' id='MapColA'>"
 
 
 
-         for (var i = 0; i < ControlDetails.length; i++) {
+        for (var i = 0; i < ControlDetails.length; i++) {
             MapColumnA += '<li class="widget dd-item dd-handle" id="MapColmnA-' + ControlDetails[i].OptionID + '">' + ControlDetails[i].Option + '</li>';
         }
-       
+
 
 
         for (var j = 0; j < ControlDetailsMapColmn.length; j++) {
             MapColumnB += '<li class="widget dd-item dd-handle" id="MapColmnB-' + ControlDetailsMapColmn[j].OptionID + '">' + ControlDetailsMapColmn[j].RightOption + ''
             + '<div id="Imgcorrect-' + ControlDetailsMapColmn[j].OptionID + '" style="margin-top:-23px;margin-left:250px;visibility:hidden;"><img src="../CommonFiles/img/correctm.png" /></div>'
             + '<div id="Imgincorrect-' + ControlDetailsMapColmn[j].OptionID + '" style="margin-top:-12px;margin-left:250px; visibility:hidden;"><img src="../CommonFiles/img/incorrect.png" /></div></li>';
-           // $("#Imgcorrect-640").hide();
-           
+            // $("#Imgcorrect-640").hide();
+
 
         }
 
-      
+
         cntrl += MapColumnA + "</ul></td>" + "<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td id='RightText'><ul class='dd-list' id='MapColB'>" + MapColumnB + "</ul></td></tr></table>";
 
 
@@ -771,66 +781,66 @@ function CreateControl(type, Details, DetailsMapColm) {
         var MatrixCount = 0;
         var CrosswordText = "";
         var crosswordIndex = -1;
-        var MatrixNumber=0;
+        var MatrixNumber = 0;
         MatrixCount = ControlDetails[0].MatrixCount;
         CrosswordText = ControlDetails[0].CrosswordText;
 
         var CrosswordTextt = CrosswordText.split(",");
 
-         cntrl ="<table id='tblcrossword'>"
-         for (i = 0; i < MatrixCount; i++) {
-             cntrl += "<tr id='trcw-" + i + "'><td>"
-             for (j = 0; j < MatrixCount; j++) {
-                 crosswordIndex++;
-                 MatrixNumber++
+        cntrl = "<table id='tblcrossword'>"
+        for (i = 0; i < MatrixCount; i++) {
+            cntrl += "<tr id='trcw-" + i + "'><td>"
+            for (j = 0; j < MatrixCount; j++) {
+                crosswordIndex++;
+                MatrixNumber++
 
 
 
-                 if (CrosswordTextt[crosswordIndex] != "") {
+                if (CrosswordTextt[crosswordIndex] != "") {
 
-                     cntrl += "<input style='width:40px;text-align: center;background-color:Snow;' placeholder=" + MatrixNumber + " type='text' id='txtcwv-" + i + '' + j + "-" + CrosswordTextt[crosswordIndex] + "-" + ControlDetails[0].OptionID + "' maxlength='1' ></input>";
-                 }
-                 else {
-                     cntrl += "<input style='width:40px;text-align: center;background-color:Black;' placeholder=" + MatrixNumber + " type='text' disabled id='txtcw-" + i + '' + j + "-" + CrosswordTextt[crosswordIndex] + "-" + ControlDetails[0].OptionID + "' maxlength='1' ></input>";
-                 }
-             }
-             cntrl += "</tr></td>";
-         }
+                    cntrl += "<input style='width:40px;text-align: center;background-color:Snow;' placeholder=" + MatrixNumber + " type='text' id='txtcwv-" + i + '' + j + "-" + CrosswordTextt[crosswordIndex] + "-" + ControlDetails[0].OptionID + "' maxlength='1' ></input>";
+                }
+                else {
+                    cntrl += "<input style='width:40px;text-align: center;background-color:Black;' placeholder=" + MatrixNumber + " type='text' disabled id='txtcw-" + i + '' + j + "-" + CrosswordTextt[crosswordIndex] + "-" + ControlDetails[0].OptionID + "' maxlength='1' ></input>";
+                }
+            }
+            cntrl += "</tr></td>";
+        }
 
-         cntrl += "</table>";
+        cntrl += "</table>";
 
     }
 
-     else if (type == "Fill in the blank") {
+    else if (type == "Fill in the blank") {
 
 
 
 
-         cntrl = '<table width=60% border=2 align=center cellspacing="10"  bgcolor="#d1d1f1">'
-           cntrl += '<tr>'
-           cntrl +='<td><br> <select name="quest" id="drpblank">'
-           cntrl += '<option value="0">--Select--</option>'       
-           cntrl +='</select></td>'
-           cntrl +='<td><br>'
-           cntrl += '<table>'
-           cntrl += '<tr>'
-           for (var i = 0; i < ControlDetails.length; i++) {
+        cntrl = '<table width=60% border=2 align=center cellspacing="10"  bgcolor="#d1d1f1">'
+        cntrl += '<tr>'
+        cntrl += '<td><br> <select name="quest" id="drpblank">'
+        cntrl += '<option value="0">--Select--</option>'
+        cntrl += '</select></td>'
+        cntrl += '<td><br>'
+        cntrl += '<table>'
+        cntrl += '<tr>'
+        for (var i = 0; i < ControlDetails.length; i++) {
 
 
-               cntrl += '<td style="padding-right: 20px;"><input type="button" value=' + ControlDetails[i].Option + ' id="btnfib-' + ControlDetails[i].Option + '-' + ControlDetails[i].BlankNumber + '-' + ControlDetails[i].OptionID + '"></button></td>'
+            cntrl += '<td style="padding-right: 20px;"><input type="button" value=' + ControlDetails[i].Option + ' id="btnfib-' + ControlDetails[i].Option + '-' + ControlDetails[i].BlankNumber + '-' + ControlDetails[i].OptionID + '"></button></td>'
 
-           }
+        }
 
-           cntrl += '</tr>'
-           cntrl += '</table></td>'
-           cntrl += '</tr>'
-           cntrl +='</table>'
-
-
-           
+        cntrl += '</tr>'
+        cntrl += '</table></td>'
+        cntrl += '</tr>'
+        cntrl += '</table>'
 
 
-   }
+
+
+
+    }
 
     return cntrl;
 
@@ -866,7 +876,7 @@ function SubmitAnswer() {
     var FIBOptionId = "";
     var FIBNumber = "";
     var croswordOptionId = 0;
-    var username=""
+    var username = ""
 
     var Second = clock.getTime().getSeconds(true);
     var Minutes = clock.getTime().getMinutes(true);
@@ -880,14 +890,14 @@ function SubmitAnswer() {
 
     username = $('#lblusername').text();
 
-    if (username=="") {
+    if (username == "") {
         UserId = 0;
     }
     else {
-        UserId = $('#lblUserid').text(); 
+        UserId = $('#lblUserid').text();
     }
 
-   
+
     var parameters = [];
     var values = [];
 
@@ -902,14 +912,13 @@ function SubmitAnswer() {
     if (ControlType == "Crossword") {
         parameters.push('CrosswordText')
     }
-    if (ControlType == "Fill in the blank")
-    {
-      parameters.push('BlankNumber')
+    if (ControlType == "Fill in the blank") {
+        parameters.push('BlankNumber')
     }
-   
+
     parameters.push('IsCorrectAnsAttempt')
     parameters.push('QuestionAttenTime')
-   
+
 
     values.push(ControlType);
     values.push(UserId);
@@ -922,7 +931,7 @@ function SubmitAnswer() {
         SnglChCorrectAnswer = $('input[name=SingleChoice]:radio:checked').attr("id").split('-')[2];
         SnglChAnswerd = $('input[name=SingleChoice]:radio:checked').attr("id").split('-')[3];
         values.push(SnglChOptionId);
-        if (SnglChCorrectAnswer==1) {
+        if (SnglChCorrectAnswer == 1) {
             values.push('1');
         }
         else {
@@ -943,12 +952,12 @@ function SubmitAnswer() {
         MltChAnswerd = MltChAnswerd.slice(0, -1);
         MltChOptionId = MltChOptionId.slice(0, -1);
         values.push(MltChOptionId);
-       if (MltChCorrectAnswer == 1) {
-           values.push('1');
-       }
-       else {
-           values.push('0');
-       }
+        if (MltChCorrectAnswer == 1) {
+            values.push('1');
+        }
+        else {
+            values.push('0');
+        }
     }
     else if (ControlType == "True/False") {
 
@@ -967,7 +976,7 @@ function SubmitAnswer() {
 
     else if (ControlType == "Map the Column") {
 
-   
+
         $('#MapColA li').each(function () {
             LeftOptionIds += this.id.split('-')[1] + ',';
             arryLeftOptionIds.push(this.id.split('-')[1]);
@@ -993,7 +1002,7 @@ function SubmitAnswer() {
 
         }
 
-     
+
         values.push(LeftOptionIds);
         values.push(RightOptionIds);
         if (MapColmnCorrectAnslegth == MapColmnCorrectAnswCount) {
@@ -1003,8 +1012,8 @@ function SubmitAnswer() {
             values.push('0');
         }
 
-        
-       
+
+
     }
     else if (ControlType == "Crossword") {
 
@@ -1022,7 +1031,7 @@ function SubmitAnswer() {
         CWUserAnsewerd = CWUserAnsewerd.slice(0, -1);
         CorrectCrosswordText = CorrectCrosswordText.slice(0, -1);
         CorrectcwTextlength = arrCorrectcwTextlength.length;
-        
+
         values.push(croswordOptionId);
         values.push(CWUserAnsewerd);
 
@@ -1036,31 +1045,31 @@ function SubmitAnswer() {
 
     else if (ControlType == "Fill in the blank") {
 
-      TotalBalnk = $('#DivfibQuest input[type="hidden"]').length;
+        TotalBalnk = $('#DivfibQuest input[type="hidden"]').length;
 
-      $('#DivfibQuest input[type="hidden"]').each(function () {
+        $('#DivfibQuest input[type="hidden"]').each(function () {
 
-          FIBBalnkIndex = this.id.split('-')[1];
-          FIBNumber += this.id.split('-')[1] + ',';
-          FIBOptionId += $(this).val().split('-')[1] + ',';
+            FIBBalnkIndex = this.id.split('-')[1];
+            FIBNumber += this.id.split('-')[1] + ',';
+            FIBOptionId += $(this).val().split('-')[1] + ',';
 
 
-          if (FIBBalnkIndex == $(this).val().split('-')[0]) {
-              CountCorrectFIB++
-          }
-      });
-      FIBOptionId = FIBOptionId.slice(0, -1);
-      FIBNumber = FIBNumber.slice(0, -1);
-      values.push(FIBOptionId);
-      values.push(FIBNumber);
-      if (TotalBalnk == CountCorrectFIB) {
-          values.push('1');
-      }
-      else {
-          values.push('0');
-      }
-     
- }
+            if (FIBBalnkIndex == $(this).val().split('-')[0]) {
+                CountCorrectFIB++
+            }
+        });
+        FIBOptionId = FIBOptionId.slice(0, -1);
+        FIBNumber = FIBNumber.slice(0, -1);
+        values.push(FIBOptionId);
+        values.push(FIBNumber);
+        if (TotalBalnk == CountCorrectFIB) {
+            values.push('1');
+        }
+        else {
+            values.push('0');
+        }
+
+    }
 
 
     values.push(Time);
@@ -1068,6 +1077,7 @@ function SubmitAnswer() {
     var XML = CreateXML(parameters, values);
     $.ajax({
         type: "POST",
+        //   url: "frmExamBoardInfo.aspx/SubmitAnswer", // Location of the service 
         url: "ExamBoardInfo.aspx/SubmitAnswer", // Location of the service 
         data: "{inXML : '" + XML + "'}", //Data sent to server
         contentType: "application/json; charset=utf-8",
@@ -1082,36 +1092,36 @@ function SubmitAnswer() {
 
             $("#lblQAttempt").text(Index);
 
-            if (username1 == "" && Number(Index) == 15) {
-                $("#AnswerControl").empty();
-                $("#Question").empty();
-                $("#Divfiboptn").empty();
-                $("#DivfibQuest").empty();
-                $("#btnSubmit").hide();
-                $("#DivMsgNonRegUser").css("visibility", "visible");
-                $("#DivMsgNonRegUser").show();
-                setTimeout(function () {
-                    window.location.href = 'frmMembership.aspx';
-                }, 2000);
+            //            if (username1 == "" && Number(Index) == 15) {
+            //                $("#AnswerControl").empty();
+            //                $("#Question").empty();
+            //                $("#Divfiboptn").empty();
+            //                $("#DivfibQuest").empty();
+            //                $("#btnSubmit").hide();
+            //                $("#DivMsgNonRegUser").css("visibility", "visible");
+            //                $("#DivMsgNonRegUser").show();
+            //                setTimeout(function () {
+            //                    window.location.href = 'frmMembership.aspx';
+            //                }, 2000);
 
-                return
-            }
+            //                return
+            //            }
 
-            if (username1 != "" && Number(Index) == 15 && userstatus == 'False') {
+            //            if (username1 != "" && Number(Index) == 15 && userstatus == 'False') {
 
-                $("#AnswerControl").empty();
-                $("#Question").empty();
-                $("#Divfiboptn").empty();
-                $("#DivfibQuest").empty();
-                $("#btnSubmit").hide();
-                $("#DivMsgRenewalplan").css("visibility", "visible");
-                $("#DivMsgRenewalplan").show();
-                setTimeout(function () {
-                    window.location.href = 'frmMembership.aspx?Status=False';
-                }, 2000);
+            //                $("#AnswerControl").empty();
+            //                $("#Question").empty();
+            //                $("#Divfiboptn").empty();
+            //                $("#DivfibQuest").empty();
+            //                $("#btnSubmit").hide();
+            //                $("#DivMsgRenewalplan").css("visibility", "visible");
+            //                $("#DivMsgRenewalplan").show();
+            //                setTimeout(function () {
+            //                    window.location.href = 'frmMembership.aspx?Status=False';
+            //                }, 2000);
 
-                return
-            }
+            //                return
+            //            }
 
 
             $("#QuestionComplete").hide();
@@ -1394,7 +1404,7 @@ function ShowQualSubject(Type, id) {
     if (Type == "ExamBoard") {
         $("#Subject").hide();
         $("#ExamBoard").show();
-        $("#Qualification").hide(); 
+        $("#Qualification").hide();
         $("#Unit").hide();
         $("#QuationsDiv").hide();
         $("#DivSubEXamUnit").show();
@@ -1403,7 +1413,7 @@ function ShowQualSubject(Type, id) {
     }
     else if (Type == "Subject") {
         $("#ExamBoard").hide();
-        $("#Qualification").hide(); 
+        $("#Qualification").hide();
         $("#Subject").show();
         $("#Unit").hide();
         $("#QuationsDiv").hide();
@@ -1413,17 +1423,17 @@ function ShowQualSubject(Type, id) {
     else if (Type == "Qualification") {
         $("#Subject").hide();
         $("#ExamBoard").hide();
-        $("#Qualification").show(); 
+        $("#Qualification").show();
         $("#Unit").hide();
         $("#QuationsDiv").hide();
         $("#DivSubEXamUnit").show();
 
         XML = "<Getlookup><ActionType>SelectQualfication</ActionType></Getlookup>";
     }
-     else if (Type == "SubjectCategory") {
+    else if (Type == "SubjectCategory") {
         $("#Subject").hide();
         $("#ExamBoard").hide();
-        $("#Qualification").show(); 
+        $("#Qualification").show();
         $("#Unit").hide();
         $("#QuationsDiv").hide();
         $("#DivSubEXamUnit").show();
@@ -1433,8 +1443,8 @@ function ShowQualSubject(Type, id) {
     else if (Type == "Unit") {
         $("#Subject").hide();
         $("#ExamBoard").hide();
-        $("#Qualification").hide(); 
-//        $("#Unit").show();
+        $("#Qualification").hide();
+        //        $("#Unit").show();
         $("#QuationsDiv").hide();
         $("#DivSubEXamUnit").show();
         XML = "<Getlookup><ActionType>SelectUnit</ActionType><SubjectId>" + id + "</SubjectId></Getlookup>";
@@ -1513,8 +1523,8 @@ function CreateXML(Parameters, values) {
 
 function BindQuestionControl(Index) {
 
-   // $("#lblQuestNo").text(obj.Table[Index].RN)
-   
+    // $("#lblQuestNo").text(obj.Table[Index].RN)
+
 
 
 
@@ -1532,7 +1542,7 @@ function BindQuestionControl(Index) {
     var cntrl = CreateControl(ControlType, ControlDetails, ControlDetailsMapCol);
 
     var finalcntrl = cntrl.replace(/(<p>|<\/p>)/g, "")
-    
+
 
     if (ControlType == 'Fill in the blank') {
 
@@ -1540,12 +1550,12 @@ function BindQuestionControl(Index) {
         var strNewString1 = "";
         var Question = obj.Table[Index].Question;
         var BlankIndex = 0, m = 0;
-      
+
         for (var k = 0; k < ControlDetails[0].Noofoption; k++) {
 
             BlankIndex++
             if (BlankIndex == 1) {
-                strNewString1 = Question.replace('(' + BlankIndex + ')', '<u><font color=green><b>___<span id="place_' + BlankIndex + '">(' + BlankIndex + ')</span>___</b></font><input type="hidden" id="hdn-' + BlankIndex +  '" /></u>');
+                strNewString1 = Question.replace('(' + BlankIndex + ')', '<u><font color=green><b>___<span id="place_' + BlankIndex + '">(' + BlankIndex + ')</span>___</b></font><input type="hidden" id="hdn-' + BlankIndex + '" /></u>');
             }
             else if (BlankIndex == 2) {
 
@@ -1558,14 +1568,14 @@ function BindQuestionControl(Index) {
         }
 
 
-         $("#DivfibQuest").append('<span>' + obj.Table[Index].RN + '.</span><div style="margin-top:-21px;margin-left:25px"  id="divQuestion-' + obj.Table[Index].QuestionID + '-' + obj.Table[Index].TopicID + '-' + obj.Table[Index].Marks + '">' + strNewString + '</div>');
+        $("#DivfibQuest").append('<span>' + obj.Table[Index].RN + '.</span><div style="margin-top:-21px;margin-left:25px"  id="divQuestion-' + obj.Table[Index].QuestionID + '-' + obj.Table[Index].TopicID + '-' + obj.Table[Index].Marks + '">' + strNewString + '</div>');
         $("#Divfiboptn").append(finalcntrl.replace(/<\/?span[^>]*>/g, ""));
 
         var BlankNumber = 0;
         for (var j = 0; j < ControlDetails[0].Noofoption; j++) {
 
             BlankNumber++;
-            $("#drpblank").append($("<option></option>").val(BlankNumber).html('Blank'+' '+ BlankNumber));
+            $("#drpblank").append($("<option></option>").val(BlankNumber).html('Blank' + ' ' + BlankNumber));
         }
 
     }
@@ -1573,8 +1583,8 @@ function BindQuestionControl(Index) {
         $("#AnswerControl").append(finalcntrl.replace(/<\/?span[^>]*>/g, ""));
         $("#Question").append('<span>' + obj.Table[Index].RN + '.</span><div style="margin-top:-28px;margin-left:25px"  id="divQuestion-' + obj.Table[Index].QuestionID + '-' + obj.Table[Index].TopicID + '-' + obj.Table[Index].Marks + '">' + obj.Table[Index].Question + '</div>');
     }
-   
-    
+
+
     $("#lblTotalQuest").text(obj.Table2[0].TotalQuation);
     $("#lblTotalMrks").text(obj.Table2[0].TotalMarks);
 
@@ -1583,15 +1593,14 @@ function BindQuestionControl(Index) {
 
     DraggablePortlet1.init();
 
-    if (ControlType == "Single Choice"  )
-    {
+    if (ControlType == "Single Choice") {
         var isChecked = jQuery("input[name=SingleChoice]:checked").val();
 
         if (!isChecked) {
             $("#btnSubmit").attr("disabled", true);
 
-           
-            $("#btnSubmit").attr('title','Please Select at least one option');
+
+            $("#btnSubmit").attr('title', 'Please Select at least one option');
         } else {
             $("#btnSubmit").attr("disabled", false);
         }
@@ -1605,8 +1614,7 @@ function BindQuestionControl(Index) {
             $("#btnSubmit").attr("disabled", false);
         }
     }
-    else if(ControlType == "True/False")
-    {
+    else if (ControlType == "True/False") {
         var isChecked = jQuery("input[name=TrueFalse]:checked").val();
 
         if (!isChecked) {
@@ -1619,8 +1627,7 @@ function BindQuestionControl(Index) {
         }
     }
 
-    else if (ControlType == 'Fill in the blank')
-    {
+    else if (ControlType == 'Fill in the blank') {
         $('#DivfibQuest input[type="hidden"]').each(function () {
 
             if ($(this).val() == "") {
@@ -1668,7 +1675,7 @@ $(document).on('change', '[id^="chkM-"]', function () {
 
 
 
-function BindExplanation(Index,YouAnswered) {
+function BindExplanation(Index, YouAnswered) {
 
     Index = Number(Index) - 1;
     $("#Expalnation").empty();
@@ -1730,7 +1737,7 @@ function BindExplanation(Index,YouAnswered) {
 
         for (var j = 0; j < CorrectAnswer.length; j++) {
             MapColumnB += '<li class="widget dd-item dd-handle" id="MapColmnB-' + CorrectAnswer[j].OptionID + '">' + CorrectAnswer[j].RightOption + '</li>';
-           
+
         }
 
 
@@ -1738,12 +1745,11 @@ function BindExplanation(Index,YouAnswered) {
 
 
     }
-    else if (ControlType == "Fill in the blank")
-    {
+    else if (ControlType == "Fill in the blank") {
 
-       var CorrectBlankNumber=[]
+        var CorrectBlankNumber = []
         CorrectAnswer = _.where(obj.Table1, { QuestionID: QuationId });
-       
+
         var strNewString1 = "";
         var Question = obj.Table[Index].Question;
         var BlankIndex = 0, m = 0;
@@ -1753,7 +1759,7 @@ function BindExplanation(Index,YouAnswered) {
             BlankIndex++
             CorrectBlankNumber = _.where(obj.Table1, { QuestionID: QuationId, BlankNumber: BlankIndex });
 
-            if (BlankIndex == 1 && CorrectBlankNumber.length!=0) {
+            if (BlankIndex == 1 && CorrectBlankNumber.length != 0) {
 
                 strNewString1 = Question.replace('(' + BlankIndex + ')', '<u><font color=green><b>___<span id="place_' + BlankIndex + '">' + CorrectBlankNumber[0].Option + '</span>___</b></font><input type="hidden" id="hdn-' + BlankIndex + '" /></u>');
             }
@@ -1797,7 +1803,7 @@ function BindExplanation(Index,YouAnswered) {
 }
 
 
-function Showbreadcrumb(Qualification, QualificationId, ExamBoard, ExamBoardId, Subject,SubjectId, Topic) {
+function Showbreadcrumb(Qualification, QualificationId, ExamBoard, ExamBoardId, Subject, SubjectId, Topic) {
 
 
     if (Qualification != "") {
@@ -1818,20 +1824,19 @@ function Showbreadcrumb(Qualification, QualificationId, ExamBoard, ExamBoardId, 
 };
 
 function Showbreadcrumbcategory(Subject, Category) {
-    if (Subject !="")
-     {
-         $("#Divbreadcrumb").append("<a id='Category-" + Subject + "' href='#'>" + Subject + "</a>&nbsp;&nbsp;");
-   }
-   if (Category != "") {
-       $("#Divbreadcrumb").append('<img src="../CommonFiles/img/breadcrumbdivider.png" alt=""/>&nbsp;&nbsp; <span class="linkheading2">' + Category + '</span>');
-     }
-    
+    if (Subject != "") {
+        $("#Divbreadcrumb").append("<a id='Category-" + Subject + "' href='#'>" + Subject + "</a>&nbsp;&nbsp;");
+    }
+    if (Category != "") {
+        $("#Divbreadcrumb").append('<img src="../CommonFiles/img/breadcrumbdivider.png" alt=""/>&nbsp;&nbsp; <span class="linkheading2">' + Category + '</span>');
+    }
+
 }
 
 
 
 var DraggablePortlet1 = function () {
-   
+
     return {
         //main function to initiate the module
         init: function () {

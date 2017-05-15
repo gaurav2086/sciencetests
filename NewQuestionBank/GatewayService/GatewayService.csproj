@@ -37,6 +37,10 @@
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\..\..\UpdatedOnline\Debux.DL\GatewayService\bin\Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="QuestionBank.BL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\QuestionBank.BL\bin\Debug\QuestionBank.BL.dll</HintPath>
+    </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -77,10 +81,6 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\QuestionBank.BL\QuestionBank.BL.csproj">
-      <Project>{54D12536-656A-4935-86B1-CB8DA91B4B8E}</Project>
-      <Name>QuestionBank.BL</Name>
-    </ProjectReference>
     <ProjectReference Include="..\QuestionBank.Common\QuestionBank.Common.csproj">
       <Project>{E1FAD40E-9F1E-4D2B-94AD-D77E4E977C48}</Project>
       <Name>QuestionBank.Common</Name>
